@@ -19,5 +19,5 @@
 * Pelaajan tyypillisimpien heikkouksien indikoiminen statistiikan perusteella.
 
 **Jatkolaajennusmahdollisuuksia:**
-*Grafinen preflop käsivahvuustaulukko preflop käsirangen suunnittelun avuksi
-*Käyttäjälle mahdollisuus luoda itse omia indikaattoreita?
+* Grafinen preflop käsivahvuustaulukko preflop käsirangen suunnittelun avuksi
+* Käyttäjälle mahdollisuus luoda itse omia indikaattoreita?
