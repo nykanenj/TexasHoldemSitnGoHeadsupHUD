@@ -8,12 +8,16 @@
 * Käsien lukeminen tekstitiedostoista yksinkertaiseen tietokantaan käseittäin
   * Tulee lukea vain uudet tekstitiedostot, ei saa tuoda vanhaa tietoa toiseen kertaan tietokantaan
 * Erilaisen statistiikan / mittareiden laskeminen
-  * Preflop fold prosetti
+  * preflop fold prosentti
   * preflop call prosentti
   * preflop raise prosentti
   * preflop fold-to-raise prosentti
   * preflop call-to-raise prosentti
   * preflop reraise prosentti
-* Ylläolevien mittareiden laskeminen kaikille streeteille, flopille, turnille ja riverille, sekä myös muiden mittareiden laskeminen
+* Ylläolevien mittareiden laskeminen kaikille streeteille, flopille, turnille ja riverille, sekä myös muiden mittareiden laskeminen kuten donk-bet ja check-raise prosentit
 * Statistiikan esittäminen graafisena muotona
 * Pelaajan tyypillisimpien heikkouksien indikoiminen statistiikan perusteella.
+
+**Jatkolaajennusmahdollisuuksia:**
+*Grafinen preflop käsivahvuustaulukko preflop käsirangen suunnittelun avuksi
+*Käyttäjälle mahdollisuus luoda itse omia indikaattoreita?
