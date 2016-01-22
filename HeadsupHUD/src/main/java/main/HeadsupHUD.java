@@ -3,22 +3,27 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package headsuphud;
+package main;
 
 /**
  *
  * @author Juuso
  */
 public class HeadsupHUD {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
         
-        System.out.println("Hello World!");
+        System.out.println("Moi olen plääääh");    
+        
+        
+        System.out.println("hius koodaa");
+        int x = 2;
+        
+        if (x == 3) {
+            System.out.println("kolme");
+        }
+        
+        
         
     }
-    
 }
