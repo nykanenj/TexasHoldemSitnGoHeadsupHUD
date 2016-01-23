@@ -11,6 +11,16 @@ package handAnalysis;
  */
 public class Playercards {
 
-    private Card card1;
-    private Card card2;
+    private Card[] handcards;
+  
+
+    public Playercards(Card card1, Card card2) {
+        handcards = new Card[2];
+        handcards[0] = card1;
+        handcards[1] = card2;
+    }
+    
+    
+    
+    
 }

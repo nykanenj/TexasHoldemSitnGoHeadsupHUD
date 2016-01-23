@@ -9,7 +9,7 @@ package handAnalysis;
  *
  * @author Juuso
  */
-public class hand {
+public class Hand {
     private Player player1;
-    
+    private Player player2;
 }
