@@ -23,6 +23,7 @@
 * Käyttäjälle mahdollisuus luoda itse omia indikaattoreita?
 
 **Luokkakaavio**
+
 ![Luokkakaavio](MaarittelyvaiheenLuokkakaavio.JPG)
 
 ![Alt text](http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")
