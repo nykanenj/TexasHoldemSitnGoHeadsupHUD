@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package handAnalysis;
+package headsuphud.handAnalysis;
 
 /**
  *
  * @author Juuso
  */
-public enum Suit {
-    Spades, Clubs, Diamonds, Hearts; 
+public enum PlayerMove {
+    Fold, Check, Call, Raise
 }

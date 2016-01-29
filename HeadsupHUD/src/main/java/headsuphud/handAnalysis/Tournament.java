@@ -1,6 +1,6 @@
-package handAnalysis;
+package headsuphud.handAnalysis;
 
-import handAnalysis.Hand;
+import headsuphud.handAnalysis.Hand;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

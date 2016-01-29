@@ -6,6 +6,8 @@
 
 23.1.2016 klo 14 - 15 Ensimmaisien Testien luonti
 
-Yhteens‰ 6h
+29.1.2016 klo 10 - 11, 13 - 15 Lis‰‰ luokkia ja testiluokkia
+
+Yhteens‰ 9h
 
 

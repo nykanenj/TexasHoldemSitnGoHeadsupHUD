@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package handAnalysis;
+package headsuphud.handAnalysis;
 
 import java.util.Objects;
 
@@ -28,6 +28,13 @@ public class Card implements Comparable {
     public Suit getSuit() {
         return this.suit;
     }
+
+    @Override
+    public String toString() {
+        return rank.name() + " of " + suit.name();
+    }
+    
+    
 
     @Override
     public int hashCode() {

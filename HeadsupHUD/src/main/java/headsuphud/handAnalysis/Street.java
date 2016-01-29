@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package handAnalysis;
+package headsuphud.handAnalysis;
 
 /**
  *
  * @author Juuso
  */
-public class Player {
-    private String playername;
-    private Playercards playercards;
-    
+public enum Street {
+    Preflop, Flop, Turn, River
 }

@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package headsuphud.handAnalysis;
 
-import handAnalysis.*;
-import static handAnalysis.Rank.*;
-import static handAnalysis.Suit.*;
+import static headsuphud.handAnalysis.Rank.*;
+import static headsuphud.handAnalysis.Suit.*;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -18,11 +18,11 @@ import static org.junit.Assert.*;
  *
  * @author Juuso
  */
-public class handAnalysisTest {
-    private Card cardDeuce;
+public class CardTest {
+        private Card cardDeuce;
     
     
-    public handAnalysisTest() {
+    public CardTest() {
     }
     
     @BeforeClass
@@ -42,9 +42,6 @@ public class handAnalysisTest {
     public void tearDown() {
     }
 
-    // TODO add test methods here.
-    // The methods must be annotated with annotation @Test. For example:
-    //
     @Test
     public void cardRankCorrect() {
         assertEquals(cardDeuce.getRank(), Deuce);
