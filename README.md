@@ -5,5 +5,5 @@ Esimerkki-indikaattoreita: Preflop raise %, C-Bet %, Checkraise % yms.
 
 ## Dokumentaatio
 
-[Aiheen Kuvaus] (dokumentointi/aiheenKuvausJaRakenne.md)
-[Tuntikirjanpito] (dokumentointi/tuntikirjanpito.md)
+###[Aiheenkuvaus] (dokumentointi/aiheenKuvausJaRakenne.md)
+###[Tuntikirjanpito] (dokumentointi/tuntikirjanpito.md)
