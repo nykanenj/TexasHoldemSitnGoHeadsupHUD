@@ -20,7 +20,7 @@ import static org.junit.Assert.*;
  */
 public class CardTest {
         private Card cardDeuce;
-    
+        private Card cardThree;
     
     public CardTest() {
     }
@@ -36,6 +36,7 @@ public class CardTest {
     @Before
     public void setUp() {
         cardDeuce = new Card(Deuce, Spades);
+        cardThree = new Card(Three, Hearts);
     }
     
     @After
@@ -49,7 +50,6 @@ public class CardTest {
     
     @Test
     public void cardRankValueCorrect() {
-    
         assertEquals(cardDeuce.getRank().getrankValue(), 2);
     }
     
@@ -66,8 +66,50 @@ public class CardTest {
     
     @Test
     public void cardCompareWorks() {
-        Card cardThree = new Card(Three, Hearts);
-        
         assertTrue(cardThree.compareTo(cardDeuce) > 0);
     }
+    
+        @Test
+    public void cardCompareWorksTakeTwo() {
+        
+        
+        assertTrue(cardDeuce.compareTo(cardThree) < 0);
+    }
+    
+    @Test
+    public void cardCompareWorksWithNOTACard() {
+        Object object = new Object();
+        assertTrue(cardDeuce.compareTo(object) == 0);
+    }
+
+    
+    @Test
+    public void hashcodeTest() {
+        Card card = new Card(Jack,Hearts);
+        assertEquals(card.hashCode(),11);
+    }
+    
+    @Test
+    public void equalsWorksWithNULL() {
+        assertFalse(Deuce.equals(null));
+    }
+    @Test
+    public void equalsWorksWithNOTACard() {
+        Object object = new Object();
+        assertFalse(Deuce.equals(object));
+    }
+    
+    @Test
+    public void equalsWorksWithNOTSameRank() {
+        assertFalse(Deuce.equals(cardThree));
+    }
+    
+    @Test
+    public void equalsWorksWithNOTSameSuit() {
+        Card anotherDeuce = new Card(Deuce,Hearts);
+        assertFalse(Deuce.equals(anotherDeuce));
+    }
+    
+    
+    
 }

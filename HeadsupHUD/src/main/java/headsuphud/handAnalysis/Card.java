@@ -38,10 +38,7 @@ public class Card implements Comparable {
 
     @Override
     public int hashCode() {
-        int hash = 7;
-        hash = 59 * hash + Objects.hashCode(this.rank);
-        hash = 59 * hash + Objects.hashCode(this.suit);
-        return hash;
+        return this.rank.getrankValue();
     }
 
     @Override
