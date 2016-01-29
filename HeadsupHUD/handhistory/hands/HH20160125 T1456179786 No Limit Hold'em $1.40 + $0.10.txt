@@ -1,0 +1,841 @@
+﻿PokerStars Hand #147663552069: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:41:31 EET [2016/01/25 13:41:31 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2s Qh]
+kacper1230: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147663557603: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:41:37 EET [2016/01/25 13:41:37 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ac 9s]
+GraveleverX: raises 20 to 40
+kacper1230: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147663569377: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:41:48 EET [2016/01/25 13:41:48 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1470 in chips) 
+Seat 2: GraveleverX (1530 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8h 3h]
+kacper1230: raises 40 to 60
+GraveleverX: folds 
+Uncalled bet (40) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663576268: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:41:55 EET [2016/01/25 13:41:55 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th 7s]
+GraveleverX: raises 20 to 40
+kacper1230: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147663583398: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:42:02 EET [2016/01/25 13:42:02 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1470 in chips) 
+Seat 2: GraveleverX (1530 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6c 4c]
+kacper1230: raises 40 to 60
+GraveleverX: folds 
+Uncalled bet (40) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663598547: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:42:15 EET [2016/01/25 13:42:15 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3c Qh]
+GraveleverX: raises 20 to 40
+kacper1230: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147663606146: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:42:22 EET [2016/01/25 13:42:22 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1470 in chips) 
+Seat 2: GraveleverX (1530 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kh 4s]
+kacper1230: raises 40 to 60
+GraveleverX: folds 
+Uncalled bet (40) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663618465: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:42:34 EET [2016/01/25 13:42:34 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [As Qd]
+GraveleverX: raises 20 to 40
+kacper1230: raises 80 to 120
+GraveleverX: calls 80
+*** FLOP *** [8d 4s 4c]
+kacper1230: bets 160
+GraveleverX: folds 
+Uncalled bet (160) returned to kacper1230
+kacper1230 collected 240 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8d 4s 4c]
+Seat 1: kacper1230 (big blind) collected (240)
+Seat 2: GraveleverX (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #147663638103: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:42:53 EET [2016/01/25 13:42:53 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1610 in chips) 
+Seat 2: GraveleverX (1390 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2c 6d]
+kacper1230: raises 40 to 60
+GraveleverX: folds 
+Uncalled bet (40) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663646717: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:43:01 EET [2016/01/25 13:43:01 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1630 in chips) 
+Seat 2: GraveleverX (1370 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s 9c]
+GraveleverX: folds 
+Uncalled bet (10) returned to kacper1230
+kacper1230 collected 20 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147663652208: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:43:06 EET [2016/01/25 13:43:06 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1640 in chips) 
+Seat 2: GraveleverX (1360 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6d 4s]
+kacper1230: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663658966: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:43:12 EET [2016/01/25 13:43:12 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1660 in chips) 
+Seat 2: GraveleverX (1340 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [9h 6d]
+GraveleverX: raises 20 to 40
+kacper1230: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147663686054: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:43:38 EET [2016/01/25 13:43:38 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1640 in chips) 
+Seat 2: GraveleverX (1360 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 5c]
+kacper1230: raises 40 to 60
+GraveleverX: folds 
+Uncalled bet (40) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663694145: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:43:45 EET [2016/01/25 13:43:45 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1660 in chips) 
+Seat 2: GraveleverX (1340 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h 6s]
+GraveleverX: raises 20 to 40
+kacper1230: raises 80 to 120
+GraveleverX: folds 
+Uncalled bet (80) returned to kacper1230
+kacper1230 collected 80 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (80)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147663705113: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:43:55 EET [2016/01/25 13:43:55 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1700 in chips) 
+Seat 2: GraveleverX (1300 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc 9c]
+kacper1230: raises 20 to 40
+GraveleverX: raises 40 to 80
+kacper1230: calls 40
+*** FLOP *** [8d 7h Kc]
+GraveleverX: bets 80
+kacper1230: calls 80
+*** TURN *** [8d 7h Kc] [6d]
+GraveleverX: bets 160
+kacper1230: folds 
+Uncalled bet (160) returned to GraveleverX
+GraveleverX collected 320 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8d 7h Kc 6d]
+Seat 1: kacper1230 (button) (small blind) folded on the Turn
+Seat 2: GraveleverX (big blind) collected (320)
+
+
+
+PokerStars Hand #147663729173: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:44:18 EET [2016/01/25 13:44:18 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1540 in chips) 
+Seat 2: GraveleverX (1460 in chips) 
+GraveleverX: posts small blind 10
+kacper1230: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6d Kh]
+GraveleverX: raises 20 to 40
+kacper1230: raises 80 to 120
+GraveleverX: folds 
+Uncalled bet (80) returned to kacper1230
+kacper1230 collected 80 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (80)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147663740801: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:44:29 EET [2016/01/25 13:44:29 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1580 in chips) 
+Seat 2: GraveleverX (1420 in chips) 
+kacper1230: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4s As]
+kacper1230: raises 20 to 40
+GraveleverX: raises 40 to 80
+kacper1230: calls 40
+*** FLOP *** [Jh 8c 3h]
+GraveleverX: checks 
+kacper1230: checks 
+*** TURN *** [Jh 8c 3h] [Jc]
+GraveleverX: checks 
+kacper1230: checks 
+*** RIVER *** [Jh 8c 3h Jc] [Js]
+GraveleverX: checks 
+kacper1230: checks 
+*** SHOW DOWN ***
+GraveleverX: shows [4s As] (three of a kind, Jacks)
+kacper1230: mucks hand 
+GraveleverX collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jh 8c 3h Jc Js]
+Seat 1: kacper1230 (button) (small blind) mucked [6d 9s]
+Seat 2: GraveleverX (big blind) showed [4s As] and won (160) with three of a kind, Jacks
+
+
+
+PokerStars Hand #147663770827: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:44:57 EET [2016/01/25 13:44:57 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+GraveleverX: posts small blind 15
+kacper1230: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [8c Kd]
+GraveleverX: raises 30 to 60
+kacper1230: calls 30
+*** FLOP *** [2d Jc Js]
+kacper1230: checks 
+GraveleverX: bets 60
+kacper1230: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d Jc Js]
+Seat 1: kacper1230 (big blind) folded on the Flop
+Seat 2: GraveleverX (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #147663797534: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:45:22 EET [2016/01/25 13:45:22 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1440 in chips) 
+Seat 2: GraveleverX (1560 in chips) 
+kacper1230: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s Ad]
+kacper1230: raises 30 to 60
+GraveleverX: raises 60 to 120
+kacper1230: calls 60
+*** FLOP *** [8c Tc 2h]
+GraveleverX: checks 
+kacper1230: checks 
+*** TURN *** [8c Tc 2h] [Qd]
+GraveleverX: checks 
+kacper1230: bets 150
+GraveleverX: calls 150
+*** RIVER *** [8c Tc 2h Qd] [Ks]
+GraveleverX: checks 
+kacper1230: checks 
+*** SHOW DOWN ***
+GraveleverX: shows [9s Ad] (high card Ace)
+kacper1230: shows [4d Qc] (a pair of Queens)
+kacper1230 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [8c Tc 2h Qd Ks]
+Seat 1: kacper1230 (button) (small blind) showed [4d Qc] and won (540) with a pair of Queens
+Seat 2: GraveleverX (big blind) showed [9s Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #147663821194: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:45:45 EET [2016/01/25 13:45:45 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1710 in chips) 
+Seat 2: GraveleverX (1290 in chips) 
+GraveleverX: posts small blind 15
+kacper1230: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc 3s]
+GraveleverX: folds 
+Uncalled bet (15) returned to kacper1230
+kacper1230 collected 30 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147663827146: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:45:50 EET [2016/01/25 13:45:50 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1725 in chips) 
+Seat 2: GraveleverX (1275 in chips) 
+kacper1230: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9h Qs]
+kacper1230: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [Qh 6h Jc]
+GraveleverX: bets 60
+kacper1230: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 6h Jc]
+Seat 1: kacper1230 (button) (small blind) folded on the Flop
+Seat 2: GraveleverX (big blind) collected (120)
+
+
+
+PokerStars Hand #147663842799: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:46:05 EET [2016/01/25 13:46:05 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1665 in chips) 
+Seat 2: GraveleverX (1335 in chips) 
+GraveleverX: posts small blind 15
+kacper1230: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 6h]
+GraveleverX: raises 30 to 60
+kacper1230: calls 30
+*** FLOP *** [Qs 3h 2c]
+kacper1230: checks 
+GraveleverX: bets 60
+kacper1230: calls 60
+*** TURN *** [Qs 3h 2c] [8s]
+kacper1230: checks 
+GraveleverX: bets 60
+kacper1230: calls 60
+*** RIVER *** [Qs 3h 2c 8s] [7c]
+kacper1230: checks 
+GraveleverX: checks 
+*** SHOW DOWN ***
+kacper1230: shows [Jh Td] (high card Queen)
+GraveleverX: shows [6s 6h] (a pair of Sixes)
+GraveleverX collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qs 3h 2c 8s 7c]
+Seat 1: kacper1230 (big blind) showed [Jh Td] and lost with high card Queen
+Seat 2: GraveleverX (button) (small blind) showed [6s 6h] and won (360) with a pair of Sixes
+
+
+
+PokerStars Hand #147663878017: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:46:37 EET [2016/01/25 13:46:37 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1485 in chips) 
+Seat 2: GraveleverX (1515 in chips) 
+kacper1230: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s 4s]
+kacper1230: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to kacper1230
+kacper1230 collected 60 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663895804: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:46:54 EET [2016/01/25 13:46:54 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1515 in chips) 
+Seat 2: GraveleverX (1485 in chips) 
+GraveleverX: posts small blind 15
+kacper1230: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [2s 6h]
+GraveleverX: folds 
+Uncalled bet (15) returned to kacper1230
+kacper1230 collected 30 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147663902004: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:47:00 EET [2016/01/25 13:47:00 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1530 in chips) 
+Seat 2: GraveleverX (1470 in chips) 
+kacper1230: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6d 2c]
+kacper1230: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to kacper1230
+kacper1230 collected 60 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663909025: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:47:07 EET [2016/01/25 13:47:07 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1560 in chips) 
+Seat 2: GraveleverX (1440 in chips) 
+GraveleverX: posts small blind 15
+kacper1230: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 2s]
+GraveleverX: folds 
+Uncalled bet (15) returned to kacper1230
+kacper1230 collected 30 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147663915031: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:47:12 EET [2016/01/25 13:47:12 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1575 in chips) 
+Seat 2: GraveleverX (1425 in chips) 
+kacper1230: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s 6d]
+kacper1230: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [As Js Jc]
+GraveleverX: bets 120
+kacper1230: folds 
+Uncalled bet (120) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As Js Jc]
+Seat 1: kacper1230 (button) (small blind) folded on the Flop
+Seat 2: GraveleverX (big blind) collected (120)
+
+
+
+PokerStars Hand #147663930214: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:47:27 EET [2016/01/25 13:47:27 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1515 in chips) 
+Seat 2: GraveleverX (1485 in chips) 
+GraveleverX: posts small blind 15
+kacper1230: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kc Qd]
+GraveleverX: raises 30 to 60
+kacper1230: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kacper1230 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147663941999: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:47:38 EET [2016/01/25 13:47:38 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1485 in chips) 
+Seat 2: GraveleverX (1515 in chips) 
+kacper1230: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [8s 5d]
+kacper1230: raises 40 to 80
+GraveleverX: folds 
+Uncalled bet (40) returned to kacper1230
+kacper1230 collected 80 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (80)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663954910: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:47:50 EET [2016/01/25 13:47:50 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1525 in chips) 
+Seat 2: GraveleverX (1475 in chips) 
+GraveleverX: posts small blind 20
+kacper1230: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s Td]
+GraveleverX: raises 40 to 80
+kacper1230: calls 40
+*** FLOP *** [9d Ac 4s]
+kacper1230: checks 
+GraveleverX: bets 80
+kacper1230: calls 80
+*** TURN *** [9d Ac 4s] [4c]
+kacper1230: checks 
+GraveleverX: checks 
+*** RIVER *** [9d Ac 4s 4c] [9s]
+kacper1230: checks 
+GraveleverX: bets 160
+kacper1230: calls 160
+*** SHOW DOWN ***
+GraveleverX: shows [7s Td] (two pair, Nines and Fours)
+kacper1230: shows [3h Ad] (two pair, Aces and Nines)
+kacper1230 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [9d Ac 4s 4c 9s]
+Seat 1: kacper1230 (big blind) showed [3h Ad] and won (640) with two pair, Aces and Nines
+Seat 2: GraveleverX (button) (small blind) showed [7s Td] and lost with two pair, Nines and Fours
+
+
+
+PokerStars Hand #147663983103: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:48:16 EET [2016/01/25 13:48:16 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1845 in chips) 
+Seat 2: GraveleverX (1155 in chips) 
+kacper1230: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [5d Kh]
+kacper1230: raises 40 to 80
+GraveleverX: folds 
+Uncalled bet (40) returned to kacper1230
+kacper1230 collected 80 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) collected (80)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147663993145: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:48:26 EET [2016/01/25 13:48:26 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1885 in chips) 
+Seat 2: GraveleverX (1115 in chips) 
+GraveleverX: posts small blind 20
+kacper1230: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [3d Jd]
+GraveleverX: folds 
+Uncalled bet (20) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147663999207: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:48:32 EET [2016/01/25 13:48:32 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1905 in chips) 
+Seat 2: GraveleverX (1095 in chips) 
+kacper1230: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 8s]
+kacper1230: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (40)
+
+
+
+PokerStars Hand #147664005370: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:48:37 EET [2016/01/25 13:48:37 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (1885 in chips) 
+Seat 2: GraveleverX (1115 in chips) 
+GraveleverX: posts small blind 20
+kacper1230: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [8c 7d]
+GraveleverX: raises 40 to 80
+kacper1230: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kacper1230 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #147664011844: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:48:44 EET [2016/01/25 13:48:44 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (1845 in chips) 
+Seat 2: GraveleverX (1155 in chips) 
+kacper1230: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ah Jd]
+kacper1230: raises 40 to 80
+GraveleverX: raises 80 to 160
+kacper1230: calls 80
+*** FLOP *** [8h Kd 2s]
+GraveleverX: checks 
+kacper1230: checks 
+*** TURN *** [8h Kd 2s] [6h]
+GraveleverX: bets 240
+kacper1230: calls 240
+*** RIVER *** [8h Kd 2s 6h] [Qs]
+GraveleverX: checks 
+kacper1230: checks 
+*** SHOW DOWN ***
+GraveleverX: shows [Ah Jd] (high card Ace)
+kacper1230: shows [8s 4s] (a pair of Eights)
+kacper1230 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [8h Kd 2s 6h Qs]
+Seat 1: kacper1230 (button) (small blind) showed [8s 4s] and won (800) with a pair of Eights
+Seat 2: GraveleverX (big blind) showed [Ah Jd] and lost with high card Ace
+
+
+
+PokerStars Hand #147664054567: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:49:24 EET [2016/01/25 13:49:24 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (2245 in chips) 
+Seat 2: GraveleverX (755 in chips) 
+GraveleverX: posts small blind 20
+kacper1230: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s 9c]
+GraveleverX: folds 
+Uncalled bet (20) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147664060462: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:49:30 EET [2016/01/25 13:49:30 ET]
+Table '1456179786 1' 2-max Seat #1 is the button
+Seat 1: kacper1230 (2265 in chips) 
+Seat 2: GraveleverX (735 in chips) 
+kacper1230: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ks 6s]
+kacper1230: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (40)
+
+
+
+PokerStars Hand #147664066070: Tournament #1456179786, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:49:35 EET [2016/01/25 13:49:35 ET]
+Table '1456179786 1' 2-max Seat #2 is the button
+Seat 1: kacper1230 (2245 in chips) 
+Seat 2: GraveleverX (755 in chips) 
+GraveleverX: posts small blind 20
+kacper1230: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s 4s]
+GraveleverX: folds 
+Uncalled bet (20) returned to kacper1230
+kacper1230 collected 40 from pot
+kacper1230: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kacper1230 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+

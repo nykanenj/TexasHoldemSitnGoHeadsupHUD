@@ -9,12 +9,6 @@ package handAnalysis;
  *
  * @author Juuso
  */
-public class Hand {
-    private String handid;
-    private Player player1;
-    private Player player2;
-    private Card[] flopcards;
-    private Card[] turncard;
-    private Card[] rivercard;
-    
+public enum Street {
+    Preflop, Flop, Turn, River
 }

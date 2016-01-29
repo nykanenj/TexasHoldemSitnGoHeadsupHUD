@@ -1,0 +1,202 @@
+﻿PokerStars Hand #147486125832: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:32:15 EET [2016/01/22 12:32:15 ET]
+Table '1452807389 1' 2-max Seat #1 is the button
+Seat 1: PopcornMonk (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+PopcornMonk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 7c]
+PopcornMonk: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to PopcornMonk
+PopcornMonk collected 40 from pot
+PopcornMonk: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: PopcornMonk (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147486133435: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:32:24 EET [2016/01/22 12:32:24 ET]
+Table '1452807389 1' 2-max Seat #2 is the button
+Seat 1: PopcornMonk (1520 in chips) 
+Seat 2: GraveleverX (1480 in chips) 
+GraveleverX: posts small blind 10
+PopcornMonk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd 4h]
+GraveleverX: folds 
+Uncalled bet (10) returned to PopcornMonk
+PopcornMonk collected 20 from pot
+PopcornMonk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PopcornMonk (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486141375: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:32:32 EET [2016/01/22 12:32:32 ET]
+Table '1452807389 1' 2-max Seat #1 is the button
+Seat 1: PopcornMonk (1530 in chips) 
+Seat 2: GraveleverX (1470 in chips) 
+PopcornMonk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd Kh]
+PopcornMonk: raises 60 to 80
+GraveleverX: calls 60
+*** FLOP *** [2s 5c 8s]
+GraveleverX: checks 
+PopcornMonk: checks 
+*** TURN *** [2s 5c 8s] [4s]
+GraveleverX: bets 60
+PopcornMonk: raises 60 to 120
+GraveleverX: folds 
+Uncalled bet (60) returned to PopcornMonk
+PopcornMonk collected 280 from pot
+PopcornMonk: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [2s 5c 8s 4s]
+Seat 1: PopcornMonk (button) (small blind) collected (280)
+Seat 2: GraveleverX (big blind) folded on the Turn
+
+
+
+PokerStars Hand #147486167872: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:33:01 EET [2016/01/22 12:33:01 ET]
+Table '1452807389 1' 2-max Seat #2 is the button
+Seat 1: PopcornMonk (1670 in chips) 
+Seat 2: GraveleverX (1330 in chips) 
+GraveleverX: posts small blind 10
+PopcornMonk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kc Js]
+GraveleverX: raises 20 to 40
+PopcornMonk: calls 20
+*** FLOP *** [Qc 4h 2d]
+PopcornMonk: checks 
+GraveleverX: bets 40
+PopcornMonk: calls 40
+*** TURN *** [Qc 4h 2d] [Qs]
+PopcornMonk: checks 
+GraveleverX: bets 80
+PopcornMonk: calls 80
+*** RIVER *** [Qc 4h 2d Qs] [3c]
+PopcornMonk: checks 
+GraveleverX: checks 
+*** SHOW DOWN ***
+PopcornMonk: shows [4s Jh] (two pair, Queens and Fours)
+GraveleverX: mucks hand 
+PopcornMonk collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qc 4h 2d Qs 3c]
+Seat 1: PopcornMonk (big blind) showed [4s Jh] and won (320) with two pair, Queens and Fours
+Seat 2: GraveleverX (button) (small blind) mucked [Kc Js]
+
+
+
+PokerStars Hand #147486196136: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:33:31 EET [2016/01/22 12:33:31 ET]
+Table '1452807389 1' 2-max Seat #1 is the button
+Seat 1: PopcornMonk (1830 in chips) 
+Seat 2: GraveleverX (1170 in chips) 
+PopcornMonk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kd 7h]
+PopcornMonk: calls 10
+GraveleverX: raises 40 to 60
+PopcornMonk: calls 40
+*** FLOP *** [8s 6c 5s]
+GraveleverX: bets 60
+PopcornMonk: raises 60 to 120
+GraveleverX: calls 60
+*** TURN *** [8s 6c 5s] [8h]
+GraveleverX: checks 
+PopcornMonk: bets 60
+GraveleverX: calls 60
+*** RIVER *** [8s 6c 5s 8h] [9h]
+GraveleverX: bets 500
+PopcornMonk: calls 500
+*** SHOW DOWN ***
+GraveleverX: shows [Kd 7h] (a straight, Five to Nine)
+PopcornMonk: mucks hand 
+GraveleverX collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [8s 6c 5s 8h 9h]
+Seat 1: PopcornMonk (button) (small blind) mucked [Kc 8d]
+Seat 2: GraveleverX (big blind) showed [Kd 7h] and won (1480) with a straight, Five to Nine
+
+
+
+PokerStars Hand #147486229336: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:34:07 EET [2016/01/22 12:34:07 ET]
+Table '1452807389 1' 2-max Seat #2 is the button
+Seat 1: PopcornMonk (1090 in chips) 
+Seat 2: GraveleverX (1910 in chips) 
+GraveleverX: posts small blind 10
+PopcornMonk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th 3s]
+GraveleverX: folds 
+Uncalled bet (10) returned to PopcornMonk
+PopcornMonk collected 20 from pot
+PopcornMonk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PopcornMonk (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486244846: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:34:24 EET [2016/01/22 12:34:24 ET]
+Table '1452807389 1' 2-max Seat #1 is the button
+Seat 1: PopcornMonk (1100 in chips) 
+Seat 2: GraveleverX (1900 in chips) 
+PopcornMonk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s Ad]
+PopcornMonk: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PopcornMonk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147486249533: Tournament #1452807389, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:34:29 EET [2016/01/22 12:34:29 ET]
+Table '1452807389 1' 2-max Seat #2 is the button
+Seat 1: PopcornMonk (1090 in chips) 
+Seat 2: GraveleverX (1910 in chips) 
+GraveleverX: posts small blind 10
+PopcornMonk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8d 8s]
+GraveleverX: raises 60 to 80
+PopcornMonk: raises 60 to 140
+GraveleverX: raises 1770 to 1910 and is all-in
+PopcornMonk: calls 950 and is all-in
+Uncalled bet (820) returned to GraveleverX
+*** FLOP *** [Ad Jh Ks]
+*** TURN *** [Ad Jh Ks] [Ac]
+*** RIVER *** [Ad Jh Ks Ac] [4d]
+*** SHOW DOWN ***
+PopcornMonk: shows [6c 6d] (two pair, Aces and Sixes)
+GraveleverX: shows [8d 8s] (two pair, Aces and Eights)
+GraveleverX collected 2180 from pot
+PopcornMonk finished the tournament in 2nd place
+GraveleverX wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 2180 | Rake 0 
+Board [Ad Jh Ks Ac 4d]
+Seat 1: PopcornMonk (big blind) showed [6c 6d] and lost with two pair, Aces and Sixes
+Seat 2: GraveleverX (button) (small blind) showed [8d 8s] and won (2180) with two pair, Aces and Eights
+
+
+

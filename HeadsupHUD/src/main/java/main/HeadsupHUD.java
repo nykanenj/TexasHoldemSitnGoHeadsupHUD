@@ -5,6 +5,8 @@
  */
 package main;
 
+import handReader.HandReader;
+
 /**
  *
  * @author Juuso
@@ -12,18 +14,9 @@ package main;
 public class HeadsupHUD {
     public static void main(String[] args) {
 
-        
-        System.out.println("Moi olen plääääh");    
-        
-        
-        System.out.println("hius koodaa");
-        int x = 2;
-        
-        if (x == 3) {
-            System.out.println("kolme");
-        }
-        
-        
-        
+        HandReader handreader = new HandReader();
+        handreader.lataaTiedostonSisalto();
+        handreader.tulosta();
+             
     }
 }
