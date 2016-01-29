@@ -21,3 +21,8 @@
 **Jatkolaajennusmahdollisuuksia:**
 * Grafinen preflop käsivahvuustaulukko preflop käsirangen suunnittelun avuksi
 * Käyttäjälle mahdollisuus luoda itse omia indikaattoreita?
+
+**Luokkakaaviot**
+![Alt text](/MaarittelyvaiheenLuokkakaavio.jpg)
+
+![Alt text] (http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")
