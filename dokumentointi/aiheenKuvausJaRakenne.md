@@ -28,7 +28,7 @@
 
 **Muuttunut Luokkakaavio**
 
-![Luokkakaavio2](LuokkakaavioViikkko3.JPG)
+![Luokkakaavio2](LuokkakaavioViikko3.JPG)
 
 Huom! Uutta luokkakkaaviota on yksinkertaistettu, pienet luokat on jätetty pois kaaviosta jotta ei lähde kokonaan käsistä.
 
