@@ -5,11 +5,11 @@
  */
 package headsuphud.main;
 
-import headsuphud.handAnalysis.Card;
-import headsuphud.handAnalysis.Hand;
-import headsuphud.handAnalysis.Player;
-import static headsuphud.handAnalysis.Rank.*;
-import static headsuphud.handAnalysis.Suit.*;
+import headsuphud.handData.Card;
+import headsuphud.handData.Hand;
+import headsuphud.handData.Player;
+import static headsuphud.handData.Rank.*;
+import static headsuphud.handData.Suit.*;
 
 /**
  *
@@ -29,6 +29,13 @@ public class HeadsupHUD {
         cardsontable[2] = new Card(Eight,Hearts); 
         Hand hand = new Hand("54321", pekka, liisa, cardsontable);
 
+        
+        System.out.println(pekka.getName());
+        
+        while (true) {            
+            
+            
+        }
              
     }
 }

@@ -9,6 +9,8 @@ package headsuphud.handData;
  *
  * @author Juuso
  */
-public enum Suit {
-    Spades, Clubs, Diamonds, Hearts; 
+class Playerstats {
+    private Positionstats bigblindstats;
+    private Positionstats smallblindstats;
+    
 }

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package headsuphud.handAnalysis;
+package headsuphud.handData;
 
 /**
  *
  * @author Juuso
  */
-public enum PlayerMove {
-    Fold, Check, Call, Raise
+public enum Action {
+    Fold, Check, Call, Raise, ReRaise, CheckRaise, AllIn, Donk, ColdCall,
 }

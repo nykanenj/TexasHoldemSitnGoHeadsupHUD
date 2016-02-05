@@ -3,10 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package headsuphud.handAnalysis;
+package headsuphud.handData;
 
-import static headsuphud.handAnalysis.Rank.*;
-import static headsuphud.handAnalysis.Suit.*;
+import headsuphud.handData.Player;
+import headsuphud.handData.Card;
+import static headsuphud.handData.Rank.*;
+import static headsuphud.handData.Suit.*;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -52,24 +54,5 @@ public class PlayerTest {
         assertEquals(jonijokunen.getName(), "jonijokunen");
     }
     
-    @Test
-    public void stackSizeCorrect() {
-        assertEquals(jonijokunen.getStacksize(), 1500);
-    }
-    
-    @Test
-    public void getCardsWorks() {
-        
-        Card[] similarHand = new Card[2];
-        similarHand[0] = new Card(Queen, Clubs);
-        similarHand[1] = new Card(Ace, Diamonds);
-        assertEquals(jonijokunen.getCards()[0], similarHand[0]);
-        assertEquals(jonijokunen.getCards()[1], similarHand[1]);
-    }
-    
-    @Test
-    public void toStringWorks() {
-        assertEquals(jonijokunen.toString(), "jonijokunen (1500) Cards: Queen of Clubs, Ace of Diamonds");
-    
-    }
+
 }

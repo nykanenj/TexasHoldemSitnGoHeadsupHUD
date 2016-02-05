@@ -3,10 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package headsuphud.handAnalysis;
+package headsuphud.handData;
 
-import static headsuphud.handAnalysis.Rank.*;
-import static headsuphud.handAnalysis.Suit.*;
+import headsuphud.handData.Hand;
+import headsuphud.handData.Player;
+import headsuphud.handData.Card;
+import static headsuphud.handData.Rank.*;
+import static headsuphud.handData.Suit.*;
 import java.util.Arrays;
 import java.util.Collections;
 import org.junit.After;
