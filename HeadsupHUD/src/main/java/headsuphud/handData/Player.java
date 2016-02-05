@@ -15,7 +15,7 @@ public class Player {
 
     
 
-    public Player(String playername, int stacksize, Card card1, Card card2) {      
+    public Player(String playername) {      
         this.playername = playername;
         this.playerstats = new Playerstats();
 
@@ -24,6 +24,12 @@ public class Player {
     public String getName() {
         return playername;
     }
+
+    public Playerstats getPlayerstats() {
+        return playerstats;
+    }
+    
+    
 
     public String stats() {
         return "";

@@ -40,8 +40,8 @@ public class HandTest {
 
     @Before
     public void setUp() {
-        Player player1 = new Player("Johnny", 1200, new Card(Ten, Hearts), new Card(Nine, Hearts));
-        Player player2 = new Player("Sally", 1800, new Card(King, Diamonds), new Card(Jack, Clubs));
+        Player player1 = new Player("Johnny");
+        Player player2 = new Player("Sally");
         Card[] cardsOnAllStreets = new Card[5];
         cardsOnAllStreets[0] = new Card(Five, Spades);
         cardsOnAllStreets[1] = new Card(Six, Hearts);

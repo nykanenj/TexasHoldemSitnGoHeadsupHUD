@@ -73,12 +73,12 @@ public class ActionStatsOnStreetTest {
      }
      
   
-     public void StatsWorksCorrectlyWithActionsAdded() {
-         turn.addAction(Check);
-         turn.addAction(Check);
-         turn.addAction(Check);
-         assertEquals(1, (int) turn.Stats(Raise));
-     }
+//     public void StatsWorksCorrectlyWithActionsAdded() {
+//         turn.addAction(Check);
+//         turn.addAction(Check);
+//         turn.addAction(Check);
+//         assertEquals(1, (int) turn.Stats(Raise));
+//     }
      
      
 }

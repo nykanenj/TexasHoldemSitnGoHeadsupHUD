@@ -6,8 +6,10 @@
 
 23.1.2016 klo 14 - 15 Ensimmaisien Testien luonti
 
-29.1.2016 klo 10 - 11, 13 - 17 Lis‰‰ luokkia ja testiluokkia
+29.1.2016 klo 10 - 11, 13 - 17, 19-20 Lis‰‰ luokkia ja testiluokkia,Pit test,  UML kaavio tehty
 
-Yhteens‰ 11h
+5.2.2016 klo 18.30-24 Lis‰‰ luokkia, testej‰ ja luokkakaavio muutettu.
+
+Yhteens‰ 17.5h
 
 

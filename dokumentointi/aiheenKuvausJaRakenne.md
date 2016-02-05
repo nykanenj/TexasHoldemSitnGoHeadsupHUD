@@ -1,4 +1,4 @@
-**Aihe:** Toteutetaan Texas Holdem Headsup SitnGo pelejä varten oleva HUD, eli Head-Up Display.
+﻿**Aihe:** Toteutetaan Texas Holdem Headsup SitnGo pelejä varten oleva HUD, eli Head-Up Display.
 
 **Taustatietoa:** Texas Holdem Headsup on 1v1 pelimuoto. SitnGo on turnaustyyppinen pelimuoto, pelaajat ostavat itsensä sisään ja saavat saman määrän alkuchippejä. Alkupanoksen koko kasvaa koko ajan ajan edetessä, voittaja saa tyypillisesti 1,8 kertaa sisäänostosumma. Olemassa on jo vastaavia ohjelmia, muttei mitään näin spesifiä.
 
@@ -22,8 +22,12 @@
 * Grafinen preflop käsivahvuustaulukko preflop käsirangen suunnittelun avuksi
 * Käyttäjälle mahdollisuus luoda itse omia indikaattoreita?
 
-**Luokkakaavio**
+**Ensimmäinen Luokkakaavio**
 
 ![Luokkakaavio](MaarittelyvaiheenLuokkakaavio.JPG)
+
+**Muuttunut Luokkakaavio**
+
+![Luokkakaavio2](LuokkakaavioViikkko3.JPG)
 
 ![Alt text](http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")

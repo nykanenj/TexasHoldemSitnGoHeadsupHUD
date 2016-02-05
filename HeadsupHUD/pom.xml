@@ -36,10 +36,10 @@
     <version>1.1.8</version>
     <configuration>
         <targetClasses>
-            <param>headsuphud.handAnalysis.*</param>
+            <param>headsuphud.handData.*</param>
         </targetClasses>
         <targetTests>
-            <param>headsuphud.handAnalysis.*</param>
+            <param>headsuphud.handData.*</param>
         </targetTests>
     </configuration>
 </plugin>

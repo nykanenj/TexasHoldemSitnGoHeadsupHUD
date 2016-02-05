@@ -38,7 +38,7 @@ public class PlayerTest {
     
     @Before
     public void setUp() {
-        jonijokunen = new Player("jonijokunen", 1500, new Card(Queen, Clubs), new Card(Ace, Diamonds));
+        jonijokunen = new Player("jonijokunen");
     }
     
     @After
