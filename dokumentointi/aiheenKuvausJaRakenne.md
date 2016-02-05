@@ -28,6 +28,6 @@
 
 **Muuttunut Luokkakaavio**
 
-![Luokkakaavio2](LuokkakaavioViikkko3.JPG)
+![Luokkakaavio2](LuokkakaavioViikko3.JPG)
 
 ![Alt text](http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")
