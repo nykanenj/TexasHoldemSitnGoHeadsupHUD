@@ -5,6 +5,7 @@
  */
 package headsuphud.main;
 
+import headsuphud.handData.Action;
 import headsuphud.handData.Card;
 import headsuphud.handData.Hand;
 import headsuphud.handData.Player;
@@ -31,11 +32,10 @@ public class HeadsupHUD {
 
         
         System.out.println(pekka.getName());
-        
-        while (true) {            
-            
-            
-        }
+        Action action1 = Action.Raise;        
+        Action action2 = Action.Raise;
+        System.out.println(action1 == action2);
+
              
     }
 }
