@@ -11,7 +11,7 @@ import static headsuphud.handData.Street.*;
  *
  * @author Juuso
  */
-class Positionstats {
+public class Positionstats {
     private ActionStatsOnStreet[] allstreetsstats;
 
     public Positionstats() {

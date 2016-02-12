@@ -13,7 +13,7 @@ import java.util.List;
  *
  * @author Juuso
  */
-class ActionStatsOnStreet {
+public class ActionStatsOnStreet {
 
     private final Street street;
     private List<Action> actions;
@@ -47,8 +47,6 @@ class ActionStatsOnStreet {
                 occurrences++;
             }
         }
-        System.out.println(occurrences);
-        System.out.println(count);
         return occurrences / count;
         //System.out.println(actions.stream().filter(a -> a == action ).count());
         //return actions.stream().filter(a -> a == action).count() / count;

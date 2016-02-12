@@ -35,7 +35,7 @@ public class Textuserinterface {
             System.out.println("Leave blank to exit");
             System.out.println("Type the letter \"a\" to view a list of all players");
         
-            String answer = reader.nextLine();
+            String answer = ""; //reader.nextLine();
         
             if (answer.equals("")) {
                 break;
@@ -44,22 +44,7 @@ public class Textuserinterface {
             if (answer.equals("a")) {
                 //print all playernames
             }
-            
-//            if () {
-//
-//            } else {
-//                System.out.println("Player not found");
-//                
-//            }
-            
-            
-            
-            
-            
-            
-            
-            
-            
+      
         }
 
     }

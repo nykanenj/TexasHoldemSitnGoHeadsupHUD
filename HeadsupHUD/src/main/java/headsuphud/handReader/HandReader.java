@@ -14,7 +14,6 @@ import java.util.Scanner;
  * @author Juuso
  */
 public class HandReader {
-
     private ArrayList<String> handDataRows;
     
     
@@ -43,7 +42,7 @@ public class HandReader {
 
     }
 
-    public void tulosta() {
+    public void print() {
         for (String row : handDataRows) {
             System.out.println(row);
         }

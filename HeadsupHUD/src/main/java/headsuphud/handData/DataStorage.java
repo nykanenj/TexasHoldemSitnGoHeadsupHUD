@@ -28,7 +28,7 @@ public class DataStorage {
 
     public boolean playerFound(String playername) {
         for (String name : nameplayermap.keySet()) {
-            if (name.equalsIgnoreCase(name)) {
+            if (name.equalsIgnoreCase(playername)) {
                 return true;
             }
         }
@@ -59,6 +59,7 @@ public class DataStorage {
             return "No playerdata! Hence, no players to be listed";
         }
 
+        System.out.println(names);
         return names;
     }
 }

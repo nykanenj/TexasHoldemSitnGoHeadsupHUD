@@ -5,12 +5,9 @@
  */
 package headsuphud.main;
 
-import headsuphud.handData.Action;
-import headsuphud.handData.Card;
-import headsuphud.handData.Hand;
-import headsuphud.handData.Player;
-import static headsuphud.handData.Rank.*;
-import static headsuphud.handData.Suit.*;
+import headsuphud.handAnalysis.Handanalyzer;
+import headsuphud.handData.DataStorage;
+import headsuphud.handReader.HandHistoryTextToObjectsConverter;
 import headsuphud.handReader.HandReader;
 
 /**
@@ -18,24 +15,16 @@ import headsuphud.handReader.HandReader;
  * @author Juuso
  */
 public class HeadsupHUD {
+
     public static void main(String[] args) {
 
-//        HandReader handreader = new HandReader();
-//        handreader.lataaTiedostonSisalto();
-//        handreader.tulosta();
-        Player pekka = new Player("Pekka");
-        Player liisa = new Player("Liisa");
-        Card[] cardsontable = new Card[5];
-        cardsontable[0] = new Card(Jack,Hearts); 
-        cardsontable[1] = new Card(Three,Clubs); 
-        cardsontable[2] = new Card(Eight,Hearts); 
-        Hand hand = new Hand("54321", pekka, liisa, cardsontable);
-
-       
-
         HandReader handreader = new HandReader();
-        handreader.loadFileContents();
-        handreader.tulosta();
-             
+        handreader.loadFileContents("Test.txt");
+        HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
+        converter.convert();
+        Handanalyzer analyzer = new Handanalyzer(converter.getDatastorage());
+        DataStorage storage = converter.getDatastorage();
+        System.out.println(storage.getPlayer("GraveleverX").getName());
+       
     }
 }

@@ -5,7 +5,7 @@
  */
 package headsuphud.handReader;
 
-import headsuphud.handData.DataStorage;
+import headsuphud.handData.*;
 import headsuphud.handData.Player;
 import headsuphud.handData.Street;
 import java.util.ArrayList;
@@ -26,46 +26,99 @@ public class HandHistoryTextToObjectsConverter {
     public HandHistoryTextToObjectsConverter(ArrayList<String> handHistoryText) {
         this.allHandHistoryText = handHistoryText;
         this.datastorage = new DataStorage();
+        dividedIntoHands = new ArrayList<>();
+    }
+
+    public DataStorage getDatastorage() {
+        return datastorage;
     }
 
     public void convert() {
         divideIntoHands();
+        goThroughIndividualHands();
+    }
 
-        smallBlindPlayer = null;
-        bigBlindPlayer = null;
-
-        for (String textLine : allHandHistoryText) {
-            if (textLine.contains("posts smaal blind")) {
-                readPlayerName(textLine, smallBlindPlayer);
-            }
-            if (textLine.contains("posts big blind")) {
-                readPlayerName(textLine, bigBlindPlayer);
-                break;
-            }
-        }
-
-        if (smallBlindPlayer != null && bigBlindPlayer != null) {
-
+    private void goThroughIndividualHands() {
+        for (Hand hand : dividedIntoHands) {
+            goThroughHand(hand);
         }
     }
 
-    public void readPlayerName(String textLine, Player player) {
+    private void goThroughHand(Hand hand) {
+        smallBlindPlayer = null;
+        bigBlindPlayer = null;
+        for (String textLine : hand.textRelatedToThisHand) {
+            if (textLine.contains("posts small blind")) {
+                String playername = readPlayerName(textLine);
+                datastorage.addPlayer(playername);
+                smallBlindPlayer = datastorage.getPlayer(playername);
+                smallBlindPlayer.setPosition(Position.SmallBlind);
+            }
+            if (textLine.contains("posts big blind")) {
+                String playername = readPlayerName(textLine);
+                datastorage.addPlayer(playername);
+                bigBlindPlayer = datastorage.getPlayer(playername);
+                bigBlindPlayer.setPosition(Position.BigBlind);
+            }
+            if (textLine.contains("*** HOLE CARDS ***")) {
+                street = Street.Preflop;
+            }
+            if (textLine.contains("*** FLOP ***")) {
+                street = Street.Flop;
+            }
+            if (textLine.contains("*** TURN ***")) {
+                street = Street.Turn;
+            }
+            if (textLine.contains("*** RIVER ***")) {
+                street = Street.River;
+            }
+            if (textLine.contains("folds")) {
+                String playername = readPlayerName(textLine);
+                if (datastorage.playerFound(playername)) {
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Fold);
+                }
+            }
+            if (textLine.contains("checks")) {
+                String playername = readPlayerName(textLine);
+                if (datastorage.playerFound(playername)) {
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Check);
+                }
+            }
+            if (textLine.contains("calls")) {
+                String playername = readPlayerName(textLine);
+                if (datastorage.playerFound(playername)) {
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Call);
+                }
+            }
+            if (textLine.contains("raises")  || textLine.contains("bets")) {
+                String playername = readPlayerName(textLine);
+                if (datastorage.playerFound(playername)) {
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Raise);
+                }
+            }
+        }
+    }
+
+    private String readPlayerName(String textLine) {
         String playername = "";
         for (int i = 0; i < textLine.length(); i++) {
             if (textLine.charAt(i) != ':') {
                 playername += textLine.charAt(i);
             } else {
-                datastorage.addPlayer(playername);
-                player = datastorage.getPlayer(playername);
-                break;
+                return playername;
             }
 
         }
+        return playername;
     }
 
     private void divideIntoHands() {
         ArrayList<String> helper = new ArrayList<String>();
         for (String textline : allHandHistoryText) {
+            if (textline.equals("") && helper.isEmpty()) {
+                continue;
+            }
+            
             if (textline.equals("")) {
                 dividedIntoHands.add(new Hand(helper));
                 helper.clear();
@@ -74,11 +127,10 @@ public class HandHistoryTextToObjectsConverter {
 
             helper.add(textline);
         }
-
+        dividedIntoHands.add(new Hand(helper));
     }
 
-    class Hand {
-
+    private class Hand {
         private ArrayList<String> textRelatedToThisHand;
 
         public Hand(ArrayList<String> textRelatedToThisHand) {

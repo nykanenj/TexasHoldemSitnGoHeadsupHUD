@@ -23,6 +23,7 @@ import static org.junit.Assert.*;
 public class PlayerTest {
     
     private Player jonijokunen;
+    private Player tiiatimonen;
     
     public PlayerTest() {
         
@@ -39,6 +40,7 @@ public class PlayerTest {
     @Before
     public void setUp() {
         jonijokunen = new Player("jonijokunen");
+        tiiatimonen = new Player("tiiatimonen", Position.BigBlind);
     }
     
     @After
@@ -52,6 +54,27 @@ public class PlayerTest {
     @Test
     public void playerNameCorrect() {
         assertEquals(jonijokunen.getName(), "jonijokunen");
+    }
+    
+    @Test
+    public void playerPositionCorrect() {
+        assertEquals(tiiatimonen.getPosition(), Position.BigBlind);
+    }
+    
+    @Test
+    public void playerSetPositionCorrect() {
+        jonijokunen.setPosition(Position.SmallBlind);
+        assertEquals(jonijokunen.getPosition(), Position.SmallBlind);
+    }
+    
+    @Test
+    public void statsCorrect() {
+        assertEquals(jonijokunen.stats(), "");
+    }
+    
+    @Test
+    public void getPlayerStatsWorks() {
+        assertEquals(new Playerstats().getClass(), tiiatimonen.getPlayerstats().getClass());
     }
     
 

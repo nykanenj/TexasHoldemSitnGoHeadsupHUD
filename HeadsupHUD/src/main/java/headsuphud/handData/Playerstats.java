@@ -9,8 +9,35 @@ package headsuphud.handData;
  *
  * @author Juuso
  */
-class Playerstats {
-    private Positionstats bigblindstats;
+public class Playerstats {
     private Positionstats smallblindstats;
+    private Positionstats bigblindstats;
+    
+
+    public Playerstats() {
+        smallblindstats = new Positionstats();
+        bigblindstats = new Positionstats();
+    }
+
+    public Positionstats getSmallblindstats() {
+        return smallblindstats;
+    }
+
+    public Positionstats getBigblindstats() {
+        return bigblindstats;
+    }
+    
+    public Positionstats getStats(Position position) {
+        if (position == Position.SmallBlind) {
+            return getSmallblindstats();
+        } else {
+            return getBigblindstats();
+        }
+        
+    }
+    
+    
+    
+    
     
 }
