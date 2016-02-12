@@ -1,14 +1,14 @@
+package headsuphud.handreader;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package headsuphud.main;
-
-import headsuphud.handanalysis.Handanalyzer;
-import headsuphud.handdata.DataStorage;
+import headsuphud.handreader.HandReader;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+import java.util.ArrayList;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -20,31 +20,29 @@ import static org.junit.Assert.*;
  *
  * @author Juuso
  */
-public class TextuserinterfaceTest {
-    private Textuserinterface ui;
+public class HandReaderTest {
+
+    private HandReader handreader;
     ByteArrayOutputStream tulosvirta;
-    
-    
-    public TextuserinterfaceTest() {
+
+    public HandReaderTest() {
     }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
-    
+
     @AfterClass
     public static void tearDownClass() {
     }
-    
+
     @Before
     public void setUp() {
-        ui = new Textuserinterface(new Handanalyzer(new DataStorage()));
         tulosvirta = new ByteArrayOutputStream();
         System.setOut(new PrintStream(tulosvirta));
-        ui.mainmenu();
-        
+        handreader = new HandReader();
     }
-    
+
     @After
     public void tearDown() {
     }
@@ -53,23 +51,34 @@ public class TextuserinterfaceTest {
     // The methods must be annotated with annotation @Test. For example:
     //
     @Test
-    public void mainMenuOikeaTulostus1() {
+    public void fileReaderWorksCorrectWithFileNameNotExist() {
+        handreader.loadFileContents("xyz");
         String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Welcome to HeadsupHUD stats! Here you can view player stats before I get to making a GUI"));
+        assertTrue(tulos.contains("File not found"));
+
     }
+
     @Test
-    public void mainMenuOikeaTulostus2() {
+    public void fileReaderWorksCorrect() {
+        handreader.loadFileContents("Test.txt");
         String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Type a playername to view player stats"));
+        assertTrue(!tulos.contains("File not found"));
     }
+
     @Test
-    public void mainMenuOikeaTulostus3() {
+    public void fileReaderPrintWorksCorrect() {
+        handreader.loadFileContents("Test.txt");
+        handreader.print();
         String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Leave blank to exit"));
+        assertTrue(tulos.contains("PokerStars Hand #147486229336:"));
     }
+
     @Test
-    public void mainMenuOikeaTulostus4() {
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Type the letter \"a\" to view a list of all players"));
+    public void getHandDataWorksCorrect() {
+        handreader.loadFileContents("Test.txt");
+        ArrayList<String> helper = handreader.getHandData();
+        String tulos = helper.get(0);
+        assertTrue(tulos.contains("PokerStars Hand #147486167872: Tournament #1452807389"));
     }
+
 }

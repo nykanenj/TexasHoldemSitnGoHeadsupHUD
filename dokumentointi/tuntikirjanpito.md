@@ -10,6 +10,8 @@
 
 5.2.2016 klo 18.30-24 Lis‰‰ luokkia, testej‰ ja luokkakaavio muutettu.
 
-Yhteens‰ 17.5h
+12.2.2016 klo 16 - 17.30, 19-24 Paljon lis‰‰ koodia luokkiin, pari uutta luokkaa, paljon testej‰  
+
+Yhteens‰ 24h
 
 

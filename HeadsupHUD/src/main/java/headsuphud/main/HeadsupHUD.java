@@ -5,10 +5,10 @@
  */
 package headsuphud.main;
 
-import headsuphud.handAnalysis.Handanalyzer;
-import headsuphud.handData.DataStorage;
-import headsuphud.handReader.HandHistoryTextToObjectsConverter;
-import headsuphud.handReader.HandReader;
+import headsuphud.handanalysis.Handanalyzer;
+import headsuphud.handdata.DataStorage;
+import headsuphud.handreader.HandHistoryTextToObjectsConverter;
+import headsuphud.handreader.HandReader;
 
 /**
  *
@@ -25,6 +25,6 @@ public class HeadsupHUD {
         Handanalyzer analyzer = new Handanalyzer(converter.getDatastorage());
         DataStorage storage = converter.getDatastorage();
         System.out.println(storage.getPlayer("GraveleverX").getName());
-       
+
     }
 }
