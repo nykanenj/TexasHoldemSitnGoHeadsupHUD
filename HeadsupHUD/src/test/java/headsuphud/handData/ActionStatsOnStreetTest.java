@@ -19,25 +19,23 @@ import static org.junit.Assert.*;
  * @author Juuso
  */
 public class ActionStatsOnStreetTest {
+
     private ActionStatsOnStreet preflop;
     private ActionStatsOnStreet flop;
     private ActionStatsOnStreet turn;
     private ActionStatsOnStreet river;
-    
-    
-    
-    
+
     public ActionStatsOnStreetTest() {
     }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
-    
+
     @AfterClass
     public static void tearDownClass() {
     }
-    
+
     @Before
     public void setUp() {
         preflop = new ActionStatsOnStreet(Preflop);
@@ -45,7 +43,7 @@ public class ActionStatsOnStreetTest {
         turn = new ActionStatsOnStreet(Turn);
         river = new ActionStatsOnStreet(River);
     }
-    
+
     @After
     public void tearDown() {
     }
@@ -53,32 +51,44 @@ public class ActionStatsOnStreetTest {
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
-     @Test
-     public void addactionWorksWithOneAction() {
-         preflop.addAction(Raise);
-         assertEquals(Raise, preflop.getActions().get(0));
-     }
-     
-     @Test
-     public void addactionWorksWithSeveralAction() {
-         flop.addAction(Raise);
-         flop.addAction(Fold);
-         flop.addAction(Check);
-         assertEquals(Check, flop.getActions().get(2));
-     }
-     
-     @Test
-     public void StatsWorksCorrectlyWithNoActionsAdded() {
-         assertEquals(-1, (int) preflop.Stats(Raise));
-     }
-     
-  
-//     public void StatsWorksCorrectlyWithActionsAdded() {
-//         turn.addAction(Check);
-//         turn.addAction(Check);
-//         turn.addAction(Check);
-//         assertEquals(1, (int) turn.Stats(Raise));
-//     }
-     
-     
+    @Test
+    public void addactionWorksWithOneAction() {
+        preflop.addAction(Raise);
+        assertEquals(Raise, preflop.getActions().get(0));
+    }
+
+    @Test
+    public void addactionWorksWithSeveralAction() {
+        flop.addAction(Raise);
+        flop.addAction(Fold);
+        flop.addAction(Check);
+        assertEquals(Check, flop.getActions().get(2));
+    }
+
+    @Test
+    public void StatsWorksCorrectlyWithNoActionsAdded() {
+        assertEquals(-1, (int) preflop.Stats(Raise));
+    }
+
+    @Test
+    public void StatsWorksCorrectlyWithoutAnyActionsAdded() {
+        assertEquals(-1, (int) turn.Stats(Check));
+    }
+
+    @Test
+    public void StatsWorksCorrectlyWithoutActionsOfSpecificTypeAdded() {
+        turn.addAction(Fold);
+        turn.addAction(Fold);
+        turn.addAction(Fold);
+        assertEquals(0, (int) turn.Stats(Check));
+    }
+
+    @Test
+    public void StatsWorksCorrectlyWithActionsAdded() {
+        turn.addAction(Check);
+        turn.addAction(Check);
+        turn.addAction(Check);
+        assertEquals(1, (int) turn.Stats(Check));
+    }
+
 }

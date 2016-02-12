@@ -42,15 +42,15 @@ public class Textuserinterface {
             }
             
             if (answer.equals("a")) {
-                System.out.println(handanalyzer.playerNames());
+                //print all playernames
             }
             
-            if (handanalyzer.playerFound(answer)) {
-                System.out.println(handanalyzer.playerStats(answer));
-            } else {
-                System.out.println("Player not found");
-                
-            }
+//            if () {
+//
+//            } else {
+//                System.out.println("Player not found");
+//                
+//            }
             
             
             

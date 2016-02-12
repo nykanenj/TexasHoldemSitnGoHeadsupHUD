@@ -11,6 +11,7 @@ import headsuphud.handData.Hand;
 import headsuphud.handData.Player;
 import static headsuphud.handData.Rank.*;
 import static headsuphud.handData.Suit.*;
+import headsuphud.handReader.HandReader;
 
 /**
  *
@@ -30,12 +31,11 @@ public class HeadsupHUD {
         cardsontable[2] = new Card(Eight,Hearts); 
         Hand hand = new Hand("54321", pekka, liisa, cardsontable);
 
-        
-        System.out.println(pekka.getName());
-        Action action1 = Action.Raise;        
-        Action action2 = Action.Raise;
-        System.out.println(action1 == action2);
+       
 
+        HandReader handreader = new HandReader();
+        handreader.loadFileContents();
+        handreader.tulosta();
              
     }
 }

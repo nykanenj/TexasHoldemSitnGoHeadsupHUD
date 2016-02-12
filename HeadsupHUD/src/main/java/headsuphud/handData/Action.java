@@ -10,5 +10,5 @@ package headsuphud.handData;
  * @author Juuso
  */
 public enum Action {
-    Fold, Check, Call, Raise, ReRaise, CheckRaise, AllIn, Donk, ColdCall,
+    Fold, Check, Call, Raise, ReRaise, CheckRaise, AllIn, Donk, ColdCall;
 }

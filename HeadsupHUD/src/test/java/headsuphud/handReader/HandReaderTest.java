@@ -18,6 +18,8 @@ import static org.junit.Assert.*;
  * @author Juuso
  */
 public class HandReaderTest {
+    private HandReader handreader;
+    
     
     public HandReaderTest() {
     }
@@ -32,6 +34,7 @@ public class HandReaderTest {
     
     @Before
     public void setUp() {
+        handreader = new HandReader();
     }
     
     @After
@@ -41,6 +44,9 @@ public class HandReaderTest {
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
-    // @Test
-    // public void hello() {}
+    @Test
+    public void fileReaderWorksCorrectWithFileNameNotExist() {
+        assertEquals("File Not Found", handreader.loadFileContents("xyz"));
+        
+    }
 }
