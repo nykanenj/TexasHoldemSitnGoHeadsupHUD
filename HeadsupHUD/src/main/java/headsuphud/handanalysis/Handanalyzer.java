@@ -18,4 +18,16 @@ public class Handanalyzer {
         this.datastorage = datastorage;
     }
 
+    public boolean playerFound(String name) {
+        return this.datastorage.playerFound(name);
+    }
+
+    public String allPlayerStats(String answer) {
+        return datastorage.allPlayerStats(answer);
+    }
+
+    public String playerNames() {
+        return datastorage.playerNames();
+    }
+
 }

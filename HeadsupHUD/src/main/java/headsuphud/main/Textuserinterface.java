@@ -24,26 +24,35 @@ public class Textuserinterface {
 
     public void mainmenu() {
 
-        System.out.println("Welcome to HeadsupHUD stats! Here you can view player stats before I get to making a GUI");
+        System.out.println("##################################################################################################");
+        System.out.println("#                                                                                                #");
+        System.out.println("#   Welcome to HeadsupHUD stats! Here you can view player stats before I get to making a GUI     #");
+        System.out.println("#                                                                                                #");
+        System.out.println("##################################################################################################");
         System.out.println("");
 
         while (true) {
-
+            System.out.println("");
+            System.out.println("Players in database:");
+            System.out.println(handanalyzer.playerNames());
             System.out.println("Type a playername to view player stats");
             System.out.println("Leave blank to exit");
-            System.out.println("Type the letter \"a\" to view a list of all players");
 
-            String answer = ""; //reader.nextLine();
+            String answer = reader.nextLine();
 
             if (answer.equals("")) {
                 break;
             }
 
-            if (answer.equals("a")) {
-                System.out.println("print all playernames");
+            if (handanalyzer.playerFound(answer)) {
+                System.out.println(handanalyzer.allPlayerStats(answer));
+            } else {
+                System.out.println("Player not found");
             }
 
         }
+
+        System.out.println("Goodbye, see you again!");
 
     }
 }

@@ -18,13 +18,22 @@ public class HeadsupHUD {
 
     public static void main(String[] args) {
 
+        Textuserinterface textui = new Textuserinterface(loadStatistics());
+        textui.mainmenu();
+        
+        
+        
+
+    }
+
+    public static Handanalyzer loadStatistics() {
         HandReader handreader = new HandReader();
         handreader.loadFileContents("Test.txt");
+
         HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
         converter.convert();
+        
         Handanalyzer analyzer = new Handanalyzer(converter.getDatastorage());
-        DataStorage storage = converter.getDatastorage();
-        System.out.println(storage.getPlayer("GraveleverX").getName());
-
+        return analyzer;
     }
 }

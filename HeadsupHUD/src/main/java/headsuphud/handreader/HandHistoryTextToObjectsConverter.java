@@ -149,4 +149,61 @@ public class HandHistoryTextToObjectsConverter {
 
     }
 
+    private class PlayersActionPreFlop {
+
+        private ArrayList<Action> rawactions;
+        private ArrayList<Action> realacttions;
+        private Position position;
+
+        public PlayersActionPreFlop(Position position) {
+            this.position = position;
+            rawactions = new ArrayList<>();
+            realacttions = new ArrayList<>();
+        }
+
+        public void add(Action a) {
+            rawactions.add(a);
+        }
+
+        public ArrayList<Action> generateRealActionsForStreet() {
+
+            for (Action rawaction : rawactions) {
+                if (rawaction == Action.Fold && rawactions.size() == 1) {
+                        realacttions.add(Action.Fold);
+                        return realacttions;
+                }
+            }
+            return realacttions;
+        }
+
+    }
+
+    private class PlayersActionPostFlop {
+
+        private ArrayList<Action> rawactions;
+        private ArrayList<Action> realacttions;
+        private Position position;
+
+        public PlayersActionPostFlop(Position position) {
+            this.position = position;
+            rawactions = new ArrayList<>();
+            realacttions = new ArrayList<>();
+        }
+
+        public void add(Action a) {
+            rawactions.add(a);
+        }
+
+        public ArrayList<Action> generateRealActionsForStreet() {
+
+            for (Action rawaction : rawactions) {
+                if (rawaction == Action.Fold && rawactions.size() == 1 && position == Position.SmallBlind) {
+                    realacttions.add(Action.Fold);
+                    return realacttions;
+                }
+            }
+            return realacttions;
+        }
+
+    }
 }

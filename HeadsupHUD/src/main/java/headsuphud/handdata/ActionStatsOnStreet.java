@@ -57,5 +57,14 @@ public class ActionStatsOnStreet {
         }
         return occurrences / count;
     }
+    
+    public String allStats() {
+        String stats = "";
+        for (Action action : Action.values()) {
+            stats += action + ": " + stats(action) + "\n";
+   
+        }
+        return stats;
+    }
 
 }

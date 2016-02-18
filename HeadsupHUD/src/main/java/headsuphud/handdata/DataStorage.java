@@ -58,8 +58,8 @@ public class DataStorage {
      *
      * @return Statistiikka tekstimuodossa
      */
-    public String playerStats(String name) {
-        return nameplayermap.get(name).stats();
+    public String allPlayerStats(String name) {
+        return nameplayermap.get(name).allPlayerStats();
     }
 
     /**
@@ -77,8 +77,7 @@ public class DataStorage {
         if (names.equals("")) {
             return "No playerdata! Hence, no players to be listed";
         }
-
-        System.out.println(names);
+        
         return names;
     }
 }

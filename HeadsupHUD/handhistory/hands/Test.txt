@@ -8,7 +8,7 @@ PopcornMonk: posts big blind 20
 Dealt to GraveleverX [Kc Js]
 GraveleverX: raises 20 to 40
 PopcornMonk: calls 20
-*** FLOP *** [Qc 4h 2d]
+*** FLOP *** [Qc 4h 2d]	
 PopcornMonk: checks 
 GraveleverX: bets 40
 PopcornMonk: calls 40

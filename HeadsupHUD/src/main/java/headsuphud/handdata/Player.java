@@ -40,8 +40,12 @@ public class Player {
         return position;
     }
 
-    public String stats() {
-        return "";
+    public String allPlayerStats() {
+        String allplayerstats = "\n" + playername;
+        allplayerstats += "\nSmall Blind:\n" + playerstats.getSmallblindstats().allStats();
+        allplayerstats += "\nBig Blind:\n" + playerstats.getBigblindstats().allStats();
+        
+        return allplayerstats;
 
     }
 

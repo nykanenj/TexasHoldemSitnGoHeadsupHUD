@@ -34,4 +34,16 @@ public class Positionstats {
     public ActionStatsOnStreet getStatsFrom(Street street) {
         return allstreetsstats[street.getStreetValue()];
     }
+    
+    public String allStats() {
+        String stats = "";
+        int index = 0;
+        for (Street street : Street.values()) {
+            stats += street + "\n";
+            stats += allstreetsstats[index].allStats();
+            index++;
+        }
+            
+        return stats;
+    }
 }

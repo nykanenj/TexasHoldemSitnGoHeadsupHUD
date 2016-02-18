@@ -70,7 +70,7 @@ public class PlayerTest {
 
     @Test
     public void statsCorrect() {
-        assertEquals(jonijokunen.stats(), "");
+        assertEquals(jonijokunen.allPlayerStats(), "");
     }
 
     @Test
