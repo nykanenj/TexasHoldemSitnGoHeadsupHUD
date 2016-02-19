@@ -5,6 +5,7 @@
  */
 package headsuphud.handreader;
 
+import headsuphud.handdata.Street;
 import headsuphud.handreader.HandHistoryTextToObjectsConverter;
 import headsuphud.handreader.HandReader;
 import org.junit.After;
@@ -44,5 +45,6 @@ public class HandHistoryTextToObjectsConverterTest {
     @After
     public void tearDown() {
     }
+    
 
 }

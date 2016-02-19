@@ -11,6 +11,8 @@ import headsuphud.handdata.Player;
 import headsuphud.handdata.Card;
 import static headsuphud.handdata.Rank.*;
 import static headsuphud.handdata.Suit.*;
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -26,6 +28,7 @@ public class PlayerTest {
 
     private Player jonijokunen;
     private Player tiiatimonen;
+    ByteArrayOutputStream tulosvirta;
 
     public PlayerTest() {
 
@@ -43,6 +46,8 @@ public class PlayerTest {
     public void setUp() {
         jonijokunen = new Player("jonijokunen");
         tiiatimonen = new Player("tiiatimonen", Position.BigBlind);
+        tulosvirta = new ByteArrayOutputStream();
+        System.setOut(new PrintStream(tulosvirta));
     }
 
     @After
@@ -70,7 +75,9 @@ public class PlayerTest {
 
     @Test
     public void statsCorrect() {
-        assertEquals(jonijokunen.allPlayerStats(), "");
+        jonijokunen.allPlayerStats();
+        String tulos = tulosvirta.toString();
+        assertTrue(tulos.contains(tulos));
     }
 
     @Test

@@ -110,5 +110,10 @@ public class CardTest {
         Card anotherDeuce = new Card(Deuce, Hearts);
         assertFalse(Deuce.equals(anotherDeuce));
     }
+    
+    @Test
+    public void toStringWorks() {
+        assertEquals(cardThree.toString(), "Three of Hearts");
+    }
 
 }

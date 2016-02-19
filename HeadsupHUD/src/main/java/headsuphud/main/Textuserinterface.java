@@ -1,17 +1,13 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Tekstikäyttöliittymä
  */
 package headsuphud.main;
 
 import headsuphud.handanalysis.Handanalyzer;
+import java.io.ByteArrayInputStream;
+import java.io.File;
 import java.util.Scanner;
 
-/**
- *
- * @author Juuso
- */
 public class Textuserinterface {
 
     private Scanner reader;
@@ -19,9 +15,16 @@ public class Textuserinterface {
 
     public Textuserinterface(Handanalyzer handanalyzer) {
         this.handanalyzer = handanalyzer;
-        reader = new Scanner(System.in);
+        try {
+            reader = new Scanner(new File("handhistory/hands/Commands.txt"));
+        } catch (Exception e) {
+            System.out.println(e);
+        }
     }
 
+    /**
+     * Tulostaa tekstikäyttöliittymän ja kysyy käyttäjältä komentoja.
+     */
     public void mainmenu() {
 
         System.out.println("##################################################################################################");
@@ -40,7 +43,7 @@ public class Textuserinterface {
 
             String answer = reader.nextLine();
 
-            if (answer.equals("")) {
+            if (answer.equals("") || answer.equals(" ")) {
                 break;
             }
 

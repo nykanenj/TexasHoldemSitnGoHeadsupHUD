@@ -12,6 +12,12 @@
 
 12.2.2016 klo 16 - 17.30, 19-24 Paljon lis‰‰ koodia luokkiin, pari uutta luokkaa, paljon testej‰  
 
-Yhteens‰ 24h
+17.2.2016 klo 16 - 18 Ohjelmalogiikan suunnittelua ja toteutusta
+
+19.2.2016 klo 12 - 14 Koodikatselmointi
+
+19.2.2016 klo 19 - 23 Uusia luokkia ja paljon lis‰‰ testej‰ ja testiluokkia.
+
+Yhteens‰ 32h
 
 

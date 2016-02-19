@@ -5,8 +5,6 @@
  */
 package headsuphud.main;
 
-import headsuphud.handanalysis.Handanalyzer;
-import headsuphud.handdata.DataStorage;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import org.junit.After;
@@ -20,31 +18,30 @@ import static org.junit.Assert.*;
  *
  * @author Juuso
  */
-public class TextuserinterfaceTest {
-    private Textuserinterface ui;
+public class HeadsupHUDTest {
+
     ByteArrayOutputStream tulosvirta;
-    
-    
-    public TextuserinterfaceTest() {
+
+    public HeadsupHUDTest() {
     }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
-    
+
     @AfterClass
     public static void tearDownClass() {
     }
-    
+
     @Before
-    public void setUp() throws Exception {
-        ui = new Textuserinterface(new Handanalyzer(new DataStorage()));
+    public void setUp() {
         tulosvirta = new ByteArrayOutputStream();
         System.setOut(new PrintStream(tulosvirta));
-        ui.mainmenu();
-        
+        HeadsupHUD main = new HeadsupHUD();
+        String[] args = new String[]{};
+        main.main(args);
     }
-    
+
     @After
     public void tearDown() {
     }
@@ -57,30 +54,16 @@ public class TextuserinterfaceTest {
         String tulos = tulosvirta.toString();
         assertTrue(tulos.contains("Welcome to HeadsupHUD stats! Here you can view player stats before I get to making a GUI"));
     }
+
     @Test
     public void mainMenuOikeaTulostus2() {
         String tulos = tulosvirta.toString();
         assertTrue(tulos.contains("Type a playername to view player stats"));
     }
+
     @Test
     public void mainMenuOikeaTulostus3() {
         String tulos = tulosvirta.toString();
         assertTrue(tulos.contains("Leave blank to exit"));
-    }
-    @Test
-    public void mainMenuOikeaTulostus4() {
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("##################################################################################################"));
-    }
-    @Test
-    public void mainMenuOikeaTulostus5() {
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Players in database:"));
-    }
-
-    @Test
-    public void mainMenuOikeaTulostus6() {
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Goodbye, see you again!"));
     }
 }

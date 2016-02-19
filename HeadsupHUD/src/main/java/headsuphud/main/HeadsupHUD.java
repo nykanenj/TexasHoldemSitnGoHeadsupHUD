@@ -20,19 +20,20 @@ public class HeadsupHUD {
 
         Textuserinterface textui = new Textuserinterface(loadStatistics());
         textui.mainmenu();
-        
-        
-        
 
     }
 
+    /**
+     * Metodi lataa analysoitavat kädet ja palauttaa handanalyzerin, jotta
+     * käsiin pääsee kiinni myöhemmin.
+     */
     public static Handanalyzer loadStatistics() {
         HandReader handreader = new HandReader();
         handreader.loadFileContents("Test.txt");
 
         HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
         converter.convert();
-        
+
         Handanalyzer analyzer = new Handanalyzer(converter.getDatastorage());
         return analyzer;
     }

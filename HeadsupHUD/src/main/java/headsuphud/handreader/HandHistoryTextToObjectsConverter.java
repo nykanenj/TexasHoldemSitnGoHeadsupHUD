@@ -11,10 +11,6 @@ import headsuphud.handdata.Player;
 import headsuphud.handdata.Street;
 import java.util.ArrayList;
 
-/**
- *
- * @author Juuso
- */
 public class HandHistoryTextToObjectsConverter {
 
     private ArrayList<String> allHandHistoryText;
@@ -49,6 +45,12 @@ public class HandHistoryTextToObjectsConverter {
         }
     }
 
+    /**
+     * Metodi käy läpi kaikki käteen liityvät tekstirivit, ja luo niistä
+     * objektit
+     *
+     * @param hand käsi, joka halutaan käsitellä
+     */
     private void goThroughHand(Hand hand) {
         smallBlindPlayer = null;
         bigBlindPlayer = null;
@@ -104,6 +106,10 @@ public class HandHistoryTextToObjectsConverter {
         }
     }
 
+    /**
+     * Lukee tekstin rivin alusta ':' merkiin asti. Luettavat tiedostot ovat
+     * määrämuotoisia, nimi esiintyy aina rivin alussa ja loppuu : merkkiin.
+     */
     private String readPlayerName(String textLine) {
         String playername = "";
         for (int i = 0; i < textLine.length(); i++) {
@@ -117,6 +123,10 @@ public class HandHistoryTextToObjectsConverter {
         return playername;
     }
 
+    /**
+     * Tekstitiedosto sisältää tietoa useasta pelatusta käsistä. Tämä metodi luo
+     * ArrayListin, joka sisältää yksittäiset kädet.
+     */
     private void divideIntoHands() {
         ArrayList<String> helper = new ArrayList<String>();
         for (String textline : allHandHistoryText) {
@@ -135,6 +145,10 @@ public class HandHistoryTextToObjectsConverter {
         dividedIntoHands.add(new Hand(helper));
     }
 
+    /**
+     * Yksittäiseen käteen liittyy tämän luokan sisällä oleva teksti. Teksti on
+     * tallennettu rivi riviltä ArrayListiin.
+     */
     private class Hand {
 
         private ArrayList<String> textRelatedToThisHand;
@@ -149,61 +163,4 @@ public class HandHistoryTextToObjectsConverter {
 
     }
 
-    private class PlayersActionPreFlop {
-
-        private ArrayList<Action> rawactions;
-        private ArrayList<Action> realacttions;
-        private Position position;
-
-        public PlayersActionPreFlop(Position position) {
-            this.position = position;
-            rawactions = new ArrayList<>();
-            realacttions = new ArrayList<>();
-        }
-
-        public void add(Action a) {
-            rawactions.add(a);
-        }
-
-        public ArrayList<Action> generateRealActionsForStreet() {
-
-            for (Action rawaction : rawactions) {
-                if (rawaction == Action.Fold && rawactions.size() == 1) {
-                        realacttions.add(Action.Fold);
-                        return realacttions;
-                }
-            }
-            return realacttions;
-        }
-
-    }
-
-    private class PlayersActionPostFlop {
-
-        private ArrayList<Action> rawactions;
-        private ArrayList<Action> realacttions;
-        private Position position;
-
-        public PlayersActionPostFlop(Position position) {
-            this.position = position;
-            rawactions = new ArrayList<>();
-            realacttions = new ArrayList<>();
-        }
-
-        public void add(Action a) {
-            rawactions.add(a);
-        }
-
-        public ArrayList<Action> generateRealActionsForStreet() {
-
-            for (Action rawaction : rawactions) {
-                if (rawaction == Action.Fold && rawactions.size() == 1 && position == Position.SmallBlind) {
-                    realacttions.add(Action.Fold);
-                    return realacttions;
-                }
-            }
-            return realacttions;
-        }
-
-    }
 }
