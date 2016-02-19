@@ -32,4 +32,8 @@
 
 Huom! Uutta luokkakkaaviota on yksinkertaistettu, pienet luokat on jätetty pois kaaviosta jotta ei lähde kokonaan käsistä.
 
+**Sekvenssikaavio allStats() haku tietyltä pelaajalta**
+
+![Sekvenssikaavio1](AllStats.png)
+
 ![Alt text](http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")
