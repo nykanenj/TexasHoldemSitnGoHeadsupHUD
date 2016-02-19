@@ -1,0 +1,20 @@
+title User wants all statistics for "playername"
+
+User-> textUserInterface: ("playername")
+textUserInterface->handanalyzer: allPlayerStats("playername")
+handanalyzer->datastorage: allPlayerStats("playername")
+datastorage->datastorage: nameplayermap.get("playername")
+datastorage->+player:allPlayerstats()
+player->playerstats:getSmallBlindStats()
+playerstats->positionstats:allstats()
+loop stats from all streets
+    positionstats->actionstatsonstreet:allstats()
+    actionstatsonstreet-->positionstats:
+end
+actionstatsonstreet-->player:
+player->playerstats:getSmallBlindStats()
+note over player, actionstatsonstreet: similar to getSmallblindStats()
+player-->-datastorage:
+datastorage-->handanalyzer:
+handanalyzer-->textUserInterface:
+textUserInterface-->User:

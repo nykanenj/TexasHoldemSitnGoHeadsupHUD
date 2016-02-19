@@ -1,0 +1,17 @@
+title Käsihistorian lataaminen
+
+main->*handreader: new HandReader()
+main->handreader:loadFileContents("filename.txt")
+main->handreader:getData()
+handreader-->main: ArrayList<String>
+main->*handhistoryconverter: new HandHistoryTextToObjectConverter(ArrayList<String>)
+handhistoryconverter->*datastorage:new DataStorage()
+main->handhistoryconverter: convert()
+loop Convert all text into objects stored in datastorage
+    handhistoryconverter->datastorage: createstorageobjects
+    handhistoryconverter->datastorage: addactionstodatastorageobjects
+end
+main->handhistoryconverter: getDataStorage()
+main->*analyzer: new HandAnalyzer(datastorage)
+main->*textui: new TextUserInterface(analyzer)
+main->textui: mainmenu()
