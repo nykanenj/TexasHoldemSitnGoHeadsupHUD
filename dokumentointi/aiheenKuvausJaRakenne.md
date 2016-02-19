@@ -26,18 +26,17 @@
 
 ![Luokkakaavio](MaarittelyvaiheenLuokkakaavio.JPG)
 
-**Muuttunut Luokkakaavio**
+**Versio 2 Luokkakaavio**
 
 ![Luokkakaavio2](LuokkakaavioViikko3.JPG)
 
-Huom! Uutta luokkakkaaviota on yksinkertaistettu, pienet luokat on jätetty pois kaaviosta jotta ei lähde kokonaan käsistä.
+
+**Versio 3 Luokkakaavio**
+
+![Luokkakaavio3](Luokkakaavio3.png)
 
 **Sekvenssikaavio: Kaiken statistiikan haku tietyltä pelaajalta**
 
 ![Sekvenssikaavio1](AllStats.png)
-
-**Sekvenssikaavio: Käsihistorian lataaminen**
-
-![Sekvenssikaavio2](Kasihistorianlataaminen.png)
 
 ![Alt text](http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")

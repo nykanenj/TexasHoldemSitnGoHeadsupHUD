@@ -1,0 +1,12 @@
+// Cool Class Diagram
+
+[HeadsupHUD] - [TextUserInterface]
+[HeadsupHUD] - [HandReader]
+[HeadsupHUD] - [HandHistoryTextToObjectsConverter]
+[HandHistoryTextToObjectsConverter] - [DataStorage]
+[TextUserInterFace]-[HandAnalyzer]
+[HandAnalyzer]-[DataStorage]
+[DataStorage]-[Player]
+[Player]-[PlayerStats]
+[PlayerStats]-[PositionStats]
+[PositionStats]-[ActionOnStreet]
