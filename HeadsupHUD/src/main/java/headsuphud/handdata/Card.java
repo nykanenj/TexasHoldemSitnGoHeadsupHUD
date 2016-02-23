@@ -11,6 +11,12 @@ public class Card implements Comparable {
     private final Rank rank;
     private final Suit suit;
 
+    /**
+     * Konstruktori luokalle Card.
+     *
+     * @param rank Kortin arvo.
+     * @param suit Kortin maa.
+     */
     public Card(Rank rank, Suit suit) {
         this.rank = rank;
         this.suit = suit;

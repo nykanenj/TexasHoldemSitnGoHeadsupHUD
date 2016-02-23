@@ -1,6 +1,6 @@
 /**
  * HandHistoryTextToObjectsConverter käyttää tätä luokkaa pelaajan actionien
- * tulkitsemiseen
+ * tulkitsemiseen.
  */
 package headsuphud.handreader;
 
@@ -26,8 +26,8 @@ public class PlayersActionPreFlop {
 
     /**
      * Kun kaikki käden aikana tapahtuneet komennot on luettu, aja tämä metodi.
-     * Tämä metodi luo ArrayListin, joka kuvaa pelaajan tekemiä actioneitä käden
-     * aikana.
+     *
+     * @return palauttaa ArrayListin, pelaajan tekemistä actioneistä.
      *
      */
     public ArrayList<Action> generateRealActionsForStreet() {

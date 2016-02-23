@@ -20,6 +20,12 @@ public class HandHistoryTextToObjectsConverter {
     private Player bigBlindPlayer;
     private Street street;
 
+    /**
+     * Konstruktori luokalle HandHistoryTextToObjectsConverter.
+     *
+     * @param handHistoryText ArrayList käsihistoriaan liittyvistä
+     * tekstiriveistä.
+     */
     public HandHistoryTextToObjectsConverter(ArrayList<String> handHistoryText) {
         this.allHandHistoryText = handHistoryText;
         this.datastorage = new DataStorage();

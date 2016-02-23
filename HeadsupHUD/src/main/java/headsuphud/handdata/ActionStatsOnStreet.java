@@ -14,6 +14,12 @@ public class ActionStatsOnStreet {
     private List<Action> actions;
     private int count;
 
+    /**
+     * Konstruktori.
+     *
+     * @param street Street, jolla pelaajan actionit tapahtuvat
+     *
+     */
     public ActionStatsOnStreet(Street street) {
         this.street = street;
         actions = new ArrayList<>();
@@ -37,12 +43,12 @@ public class ActionStatsOnStreet {
     }
 
     /**
-     * Metodi antaa karkeaa statistiikkaa miten usein tiettyä komentoa on tehty
+     * Metodi antaa karkeaa statistiikkaa miten usein tiettyä komentoa on tehty.
      *
-     * @param action Komento, josta halutaan tietää statistiikkaa
+     * @param action Komento, josta halutaan tietää statistiikkaa.
      *
      * @return Miten usein pelaaja on käyttänyt tätä komentoa suhteessa muihin
-     * komentoihin
+     * komentoihin.
      */
     public double stats(Action action) {
         if (count == 0) {
@@ -57,12 +63,16 @@ public class ActionStatsOnStreet {
         }
         return occurrences / count;
     }
-    
+
+    /**
+     * Metodi tulostaa kaiken pelaajaan liittyvän statistiikan tällä streetillä.
+     *
+     */
     public String allStats() {
         String stats = "";
         for (Action action : Action.values()) {
             stats += action + ": " + stats(action) + "\n";
-   
+
         }
         return stats;
     }

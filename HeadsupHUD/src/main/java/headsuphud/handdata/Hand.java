@@ -11,6 +11,12 @@ public class Hand {
     private final Player player2;
     private Card[] flopTurnRiverCards;
 
+    /**
+     * Konstruktori luokalle Hand.
+     *
+     * @param handid pelatun käden id.
+     * @param flopTurnRiverCards Taulukko, joka sisältää pöytään tulevat kortit.
+     */
     public Hand(String handid, Player player1, Player player2, Card[] flopTurnRiverCards) {
         this.handid = handid;
         this.player1 = player1;

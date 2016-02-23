@@ -5,7 +5,7 @@ package headsuphud.handanalysis;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-import headsuphud.handanalysis.Handanalyzer;
+import headsuphud.handdata.DataStorage;
 import headsuphud.handreader.HandHistoryTextToObjectsConverter;
 import headsuphud.handreader.HandReader;
 import org.junit.After;
@@ -19,14 +19,14 @@ import org.junit.BeforeClass;
  */
 public class HandanalyzerTest {
 
-    Handanalyzer analyzer;
+    DataStorage datastorage;
 
     public HandanalyzerTest() {
         HandReader handreader = new HandReader();
         handreader.loadFileContents("Test.txt");
         HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
         converter.convert();
-        analyzer = new Handanalyzer(converter.getDatastorage());
+        datastorage = converter.getDatastorage();
     }
 
     @BeforeClass

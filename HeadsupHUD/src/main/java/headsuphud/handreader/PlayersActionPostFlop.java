@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  * HandHistoryTextToObjectsConverter käyttää tätä luokkaa pelaajan actionien
- * tulkitsemiseen
+ * tulkitsemiseen.
  */
 public class PlayersActionPostFlop {
 
@@ -26,8 +26,8 @@ public class PlayersActionPostFlop {
 
     /**
      * Kun kaikki käden aikana tapahtuneet komennot on luettu, aja tämä metodi.
-     * Tämä metodi luo ArrayListin, joka kuvaa pelaajan tekemiä actioneitä käden
-     * aikana.
+     *
+     * @return palauttaa ArrayListin, pelaajan tekemistä actioneistä.
      *
      */
     public ArrayList<Action> generateRealActionsForStreet() {

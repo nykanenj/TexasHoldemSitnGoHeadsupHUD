@@ -1,5 +1,5 @@
 /**
- * Luokka lukee pokerstars pokerikäsihistoria tekstitiedoston ArrayList muotoon
+ * Luokka lukee pokerstars pokerikäsihistoria tekstitiedoston ArrayList muotoon.
  */
 package headsuphud.handreader;
 
@@ -7,10 +7,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author Juuso
- */
 public class HandReader {
 
     private ArrayList<String> handDataRows;
@@ -24,7 +20,7 @@ public class HandReader {
     }
 
     /**
-     * Metodi lukee annetunnnimisen tekstitiedoston ArrayListiin
+     * Metodi lukee annetunnnimisen tekstitiedoston ArrayListiin.
      *
      * @param filename Tiedosto, joka halutaan avata. Default polku:
      * /handhistory/hands/
@@ -45,6 +41,10 @@ public class HandReader {
 
     }
 
+    /**
+     *
+     * Tulostaa kaikki käsihistoriarivit;
+     */
     public void print() {
         for (String row : handDataRows) {
             System.out.println(row);

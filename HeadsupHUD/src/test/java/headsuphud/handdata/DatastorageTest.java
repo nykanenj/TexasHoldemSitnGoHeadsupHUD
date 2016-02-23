@@ -6,7 +6,6 @@
 package headsuphud.handdata;
 
 import headsuphud.handdata.DataStorage;
-import headsuphud.handanalysis.Handanalyzer;
 import headsuphud.handreader.HandHistoryTextToObjectsConverter;
 import headsuphud.handreader.HandReader;
 import org.junit.After;

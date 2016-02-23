@@ -5,7 +5,6 @@
  */
 package headsuphud.main;
 
-import headsuphud.handanalysis.Handanalyzer;
 import headsuphud.handdata.DataStorage;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
@@ -38,7 +37,7 @@ public class TextuserinterfaceTest {
     
     @Before
     public void setUp() throws Exception {
-        ui = new Textuserinterface(new Handanalyzer(new DataStorage()));
+        ui = new Textuserinterface(new DataStorage());
         tulosvirta = new ByteArrayOutputStream();
         System.setOut(new PrintStream(tulosvirta));
         ui.mainmenu();

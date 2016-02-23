@@ -6,10 +6,6 @@ package headsuphud.handdata;
 
 import static headsuphud.handdata.Street.*;
 
-/**
- *
- * @author Juuso
- */
 public class Positionstats {
 
     private ActionStatsOnStreet[] allstreetsstats;
@@ -25,16 +21,20 @@ public class Positionstats {
     }
 
     /**
-     * Metodi palauttaa statistiikkaa sisältävän olion kyseiseltä streetiltä
+     * Metodi palauttaa statistiikkaa sisältävän olion kyseiseltä streetiltä.
      *
-     * @param street Halutaan statistiikka tältä streetiltä
+     * @param street Halutaan statistiikka tältä streetiltä.
      *
-     * @return palauttaa statistiikkaolion halutulta streetiltä
+     * @return palauttaa statistiikkaolion halutulta streetiltä.
      */
     public ActionStatsOnStreet getStatsFrom(Street street) {
         return allstreetsstats[street.getStreetValue()];
     }
     
+     /**
+     * Metodi palauttaa statistiikan kaikilta streeteiltä.
+     *
+     */
     public String allStats() {
         String stats = "";
         int index = 0;

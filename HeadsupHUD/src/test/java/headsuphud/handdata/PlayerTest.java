@@ -5,7 +5,6 @@
  */
 package headsuphud.handdata;
 
-import headsuphud.handdata.Playerstats;
 import headsuphud.handdata.Position;
 import headsuphud.handdata.Player;
 import headsuphud.handdata.Card;
@@ -80,9 +79,6 @@ public class PlayerTest {
         assertTrue(tulos.contains(tulos));
     }
 
-    @Test
-    public void getPlayerStatsWorks() {
-        assertEquals(new Playerstats().getClass(), tiiatimonen.getPlayerstats().getClass());
-    }
+
 
 }

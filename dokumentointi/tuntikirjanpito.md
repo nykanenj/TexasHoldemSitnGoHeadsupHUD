@@ -18,6 +18,8 @@
 
 19.2.2016 klo 19 - 23.30 Uusia luokkia ja paljon lisää testejä ja testiluokkia. CheckStyle virheitä korjattu 46 -> 25. Enää valitta gettereiden puuttuvista kuvauksista.
 
-Yhteensä 32.5h
+23.2.2016 klo 16 - 19 Turhat luokat poistettu, testit korjattu toimiviksi, GUI aloitettu
+
+Yhteensä 35.5h
 
 

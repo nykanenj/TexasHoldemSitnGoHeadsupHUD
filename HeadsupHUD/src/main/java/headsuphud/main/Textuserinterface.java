@@ -1,9 +1,9 @@
 /*
- * Tekstikäyttöliittymä
+ * Tekstikäyttöliittymä.
  */
 package headsuphud.main;
 
-import headsuphud.handanalysis.Handanalyzer;
+import headsuphud.handdata.DataStorage;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.util.Scanner;
@@ -11,10 +11,10 @@ import java.util.Scanner;
 public class Textuserinterface {
 
     private Scanner reader;
-    private Handanalyzer handanalyzer;
+    private DataStorage datastorage;
 
-    public Textuserinterface(Handanalyzer handanalyzer) {
-        this.handanalyzer = handanalyzer;
+    public Textuserinterface(DataStorage datastorage) {
+        this.datastorage = datastorage;
         try {
             reader = new Scanner(new File("handhistory/hands/Commands.txt"));
         } catch (Exception e) {
@@ -37,7 +37,7 @@ public class Textuserinterface {
         while (true) {
             System.out.println("");
             System.out.println("Players in database:");
-            System.out.println(handanalyzer.playerNames());
+            System.out.println(datastorage.playerNames());
             System.out.println("Type a playername to view player stats");
             System.out.println("Leave blank to exit");
 
@@ -47,8 +47,8 @@ public class Textuserinterface {
                 break;
             }
 
-            if (handanalyzer.playerFound(answer)) {
-                System.out.println(handanalyzer.allPlayerStats(answer));
+            if (datastorage.playerFound(answer)) {
+                System.out.println(datastorage.allPlayerStats(answer));
             } else {
                 System.out.println("Player not found");
             }

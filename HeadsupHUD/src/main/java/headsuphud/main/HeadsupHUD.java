@@ -5,10 +5,11 @@
  */
 package headsuphud.main;
 
-import headsuphud.handanalysis.Handanalyzer;
+
 import headsuphud.handdata.DataStorage;
 import headsuphud.handreader.HandHistoryTextToObjectsConverter;
 import headsuphud.handreader.HandReader;
+import headsuphud.gui.NewJFrame;
 
 /**
  *
@@ -18,23 +19,25 @@ public class HeadsupHUD {
 
     public static void main(String[] args) {
 
-        Textuserinterface textui = new Textuserinterface(loadStatistics());
+        DataStorage datastorage = loadStatistics();
+        Textuserinterface textui = new Textuserinterface(datastorage);
         textui.mainmenu();
+        NewJFrame jframe = new NewJFrame(datastorage);
+        jframe.run(datastorage);
 
     }
 
     /**
-     * Metodi lataa analysoitavat kädet ja palauttaa handanalyzerin, jotta
+     * Metodi lataa analysoitavat kädet ja palauttaa datastoragen, jotta
      * käsiin pääsee kiinni myöhemmin.
      */
-    public static Handanalyzer loadStatistics() {
+    public static DataStorage loadStatistics() {
         HandReader handreader = new HandReader();
         handreader.loadFileContents("Test.txt");
 
         HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
         converter.convert();
 
-        Handanalyzer analyzer = new Handanalyzer(converter.getDatastorage());
-        return analyzer;
+        return converter.getDatastorage(); 
     }
 }

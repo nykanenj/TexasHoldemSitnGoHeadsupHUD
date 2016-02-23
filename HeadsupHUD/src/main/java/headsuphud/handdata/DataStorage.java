@@ -10,15 +10,19 @@ public class DataStorage {
 
     private Map<String, Player> nameplayermap;
 
+    /**
+     * Konstruktori luokalle DataStorage.
+     *
+     */
     public DataStorage() {
         this.nameplayermap = new HashMap<>();
     }
 
     /**
      * Metodi lisää kyseisen nimisen pelaajan tämän luokan HashMappiin, jos
-     * pelaajaa ei löydy ennestään
+     * pelaajaa ei löydy ennestään.
      *
-     * @param name Lisätttävän pelaajan nimi
+     * @param name Lisätttävän pelaajan nimi.
      */
     public void addPlayer(String name) {
         if (!playerFound(name)) {
@@ -27,11 +31,11 @@ public class DataStorage {
     }
 
     /**
-     * Metodi kertoo löytyykö hashmapistä tämännimistä pelaajaa
+     * Metodi kertoo löytyykö hashmapistä tämännimistä pelaajaa.
      *
-     * @param playername Nimi, jonka perusteella halutaan etsiä
+     * @param playername Nimi, jonka perusteella halutaan etsiä.
      *
-     * @return Löytyikö tämännimistä pelaajaa voi ei
+     * @return Löytyikö tämännimistä pelaajaa voi ei.
      */
     public boolean playerFound(String playername) {
         for (String name : nameplayermap.keySet()) {
@@ -52,20 +56,20 @@ public class DataStorage {
     }
 
     /**
-     * Metodi palauttaa kaiken pelaajaan liittyvän statistiikan tekstimuodossa
+     * Metodi palauttaa kaiken pelaajaan liittyvän statistiikan tekstimuodossa.
      *
-     * @param name Pelaajan nimi
+     * @param name Pelaajan nimi.
      *
-     * @return Statistiikka tekstimuodossa
+     * @return Statistiikka tekstimuodossa.
      */
     public String allPlayerStats(String name) {
         return nameplayermap.get(name).allPlayerStats();
     }
 
     /**
-     * Metodi listaa kaikki pelaajat
+     * Metodi listaa kaikki pelaajat.
      *
-     * @return Pelaajien nimet tekstimuodossa
+     * @return Pelaajien nimet tekstimuodossa.
      */
     public String playerNames() {
         String names = "";
@@ -77,7 +81,7 @@ public class DataStorage {
         if (names.equals("")) {
             return "No playerdata! Hence, no players to be listed";
         }
-        
+
         return names;
     }
 }
