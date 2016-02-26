@@ -34,7 +34,7 @@ public class Positionstats {
     /**
      * Metodi palauttaa statistiikkaa sisältävän olion kyseiseltä streetiltä.
      *
-     * @param streetValue  Halutaan statistiikka streetiltä nro.
+     * @param street Halutaan statistiikka tältä streetiltä.
      *
      * @return palauttaa statistiikkaolion halutulta streetiltä.
      */
@@ -45,6 +45,7 @@ public class Positionstats {
     /**
      * Metodi palauttaa statistiikan kaikilta streeteiltä.
      *
+     * @return palauttaa statistiikan string muodossa rivitettynä.
      */
     public String allStats() {
         String stats = "";

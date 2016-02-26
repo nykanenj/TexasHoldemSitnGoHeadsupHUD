@@ -49,21 +49,5 @@ public class HeadsupHUDTest {
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
-    @Test
-    public void mainMenuOikeaTulostus1() {
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Welcome to HeadsupHUD stats! Here you can view player stats before I get to making a GUI"));
-    }
 
-    @Test
-    public void mainMenuOikeaTulostus2() {
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Type a playername to view player stats"));
-    }
-
-    @Test
-    public void mainMenuOikeaTulostus3() {
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("Leave blank to exit"));
-    }
 }

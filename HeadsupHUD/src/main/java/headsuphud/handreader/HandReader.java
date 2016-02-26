@@ -41,13 +41,4 @@ public class HandReader {
 
     }
 
-    /**
-     *
-     * Tulostaa kaikki käsihistoriarivit;
-     */
-    public void print() {
-        for (String row : handDataRows) {
-            System.out.println(row);
-        }
-    }
 }

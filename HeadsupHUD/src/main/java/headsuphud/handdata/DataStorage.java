@@ -65,8 +65,17 @@ public class DataStorage {
     public String allPlayerStats(String name) {
         return nameplayermap.get(name).allPlayerStats();
     }
-    
-    public String Stats(String name, Position position, Street street) {
+
+    /**
+     * Pelaajaan liittyvän statistiikan tekstimuodossa position ja streetin
+     * mukaan.
+     *
+     * @param name pelaajan nimi.
+     * @param position positio.
+     * @param street pelivaihe.
+     * @return Statistiikka tekstimuodossa.
+     */
+    public String getStats(String name, Position position, Street street) {
         return nameplayermap.get(name).getPositionstats(position).getStatsAsStringFrom(street);
     }
 
@@ -88,11 +97,16 @@ public class DataStorage {
 
         return names;
     }
-    
+
+    /**
+     * Metodi listaa kaikki pelaajat 1D taulukossa.
+     *
+     * @return Pelaajien nimet taulukossa.
+     */
     public String[] playerNamesAsArray() {
         int count = nameplayermap.size();
-        String[] names = new String[count];        
-        
+        String[] names = new String[count];
+
         int i = 0;
         for (String name : nameplayermap.keySet()) {
             names[i] = name;

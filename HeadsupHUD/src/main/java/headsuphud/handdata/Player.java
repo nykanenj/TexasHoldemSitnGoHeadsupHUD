@@ -14,7 +14,7 @@ public class Player {
     /**
      * Konstruktori luokalle Player.
      *
-     * @param name Pelaajan nimi.
+     * @param playername Pelaajan nimi.
      */
     public Player(String playername) {
         this.playername = playername;
@@ -27,7 +27,7 @@ public class Player {
      * Konstruktori luokalle Player.
      *
      * @param playername pelaajan nimi.
-     * @param positio positio, josta pelaaja pelaa, SmallBlind / BigBlind.
+     * @param position positio, josta pelaaja pelaa, SmallBlind / BigBlind.
      */
     public Player(String playername, Position position) {
         this(playername);
@@ -47,7 +47,7 @@ public class Player {
     public Positionstats getBigblindstats() {
         return bigblindstats;
     }
-    
+
     public Positionstats getPositionstats(Position position) {
         if (position == Position.SmallBlind) {
             return smallblindstats;
@@ -72,6 +72,13 @@ public class Player {
         return position;
     }
 
+    /**
+     * Metodi palauttaa kaiken tähän pelaajaan liittyvän statistiikan
+     * tekstimuodossa.
+     *
+     *
+     * @return Statistiikka tekstimuodossa.
+     */
     public String allPlayerStats() {
         String allplayerstats = "\n" + playername;
         allplayerstats += "\nSmall Blind:\n" + getSmallblindstats().allStats();

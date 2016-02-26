@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package headsuphud.gui;
 
 import headsuphud.handdata.DataStorage;
@@ -11,8 +6,9 @@ import headsuphud.handdata.Street;
 import javax.swing.JOptionPane;
 
 /**
+ * Graafinen käyttöliittymä ohjelmalle.
  *
- * @author Juuso
+ *
  */
 public class HudGUI extends javax.swing.JFrame {
 
@@ -21,7 +17,11 @@ public class HudGUI extends javax.swing.JFrame {
     private Street street;
 
     /**
-     * Creates new form NewJFrame
+     * Creates new JFrame
+     *
+     * @param datastorage Provide the datastorage created by
+     * HandHistoryTextToObjectConverter
+     *
      */
     public HudGUI(DataStorage datastorage) {
         this.datastorage = datastorage;
@@ -55,7 +55,7 @@ public class HudGUI extends javax.swing.JFrame {
         bigblindradiobutton = new javax.swing.JRadioButton();
         preflopChkBox = new javax.swing.JCheckBox();
         flopChkBox = new javax.swing.JCheckBox();
-        TurnChkBox = new javax.swing.JCheckBox();
+        turnChkBox = new javax.swing.JCheckBox();
         riverChkBox = new javax.swing.JCheckBox();
         jScrollPane3 = new javax.swing.JScrollPane();
         statsTextArea = new javax.swing.JTextArea();
@@ -125,13 +125,13 @@ public class HudGUI extends javax.swing.JFrame {
             }
         });
 
-        TurnChkBox.setBackground(new java.awt.Color(0, 0, 0));
-        buttonGroup2.add(TurnChkBox);
-        TurnChkBox.setForeground(new java.awt.Color(255, 255, 255));
-        TurnChkBox.setText("Turn");
-        TurnChkBox.addActionListener(new java.awt.event.ActionListener() {
+        turnChkBox.setBackground(new java.awt.Color(0, 0, 0));
+        buttonGroup2.add(turnChkBox);
+        turnChkBox.setForeground(new java.awt.Color(255, 255, 255));
+        turnChkBox.setText("Turn");
+        turnChkBox.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                TurnChkBoxActionPerformed(evt);
+                turnChkBoxActionPerformed(evt);
             }
         });
 
@@ -154,6 +154,7 @@ public class HudGUI extends javax.swing.JFrame {
 
         playerNameList.setBackground(new java.awt.Color(0, 0, 0));
         playerNameList.setForeground(new java.awt.Color(255, 255, 255));
+        playerNameList.setName("playerNameList");
         playerNameList.setModel(new javax.swing.AbstractListModel() {
             String[] strings = datastorage.playerNamesAsArray();
             public int getSize() { return strings.length; }
@@ -188,7 +189,7 @@ public class HudGUI extends javax.swing.JFrame {
                     .addComponent(flopChkBox)
                     .addComponent(preflopChkBox)
                     .addComponent(riverChkBox)
-                    .addComponent(TurnChkBox)
+                    .addComponent(turnChkBox)
                     .addComponent(bigblindradiobutton)
                     .addComponent(smallblindradiobutton))
                 .addContainerGap(46, Short.MAX_VALUE))
@@ -211,7 +212,7 @@ public class HudGUI extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(flopChkBox)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(TurnChkBox)
+                        .addComponent(turnChkBox)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(riverChkBox))
                     .addComponent(jScrollPane3, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 156, javax.swing.GroupLayout.PREFERRED_SIZE))
@@ -255,10 +256,10 @@ public class HudGUI extends javax.swing.JFrame {
         updateDisplay();
     }//GEN-LAST:event_riverChkBoxActionPerformed
 
-    private void TurnChkBoxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TurnChkBoxActionPerformed
+    private void turnChkBoxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_turnChkBoxActionPerformed
         street = Street.Turn;
         updateDisplay();
-    }//GEN-LAST:event_TurnChkBoxActionPerformed
+    }//GEN-LAST:event_turnChkBoxActionPerformed
 
     private void preflopChkBoxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_preflopChkBoxActionPerformed
         street = Street.Preflop;
@@ -283,7 +284,7 @@ public class HudGUI extends javax.swing.JFrame {
     private void updateDisplay() {
         try {
             String playerName = (String) playerNameList.getSelectedValue();
-            String statistics = datastorage.Stats(playerName, position, street);
+            String statistics = datastorage.getStats(playerName, position, street);
             statsTextArea.setText(statistics);
         } catch (Exception e) {
             JOptionPane.showMessageDialog(null, e);
@@ -299,7 +300,6 @@ public class HudGUI extends javax.swing.JFrame {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JCheckBox TurnChkBox;
     private javax.swing.JRadioButton bigblindradiobutton;
     private javax.swing.ButtonGroup buttonGroup1;
     private javax.swing.ButtonGroup buttonGroup2;
@@ -321,6 +321,7 @@ public class HudGUI extends javax.swing.JFrame {
     private javax.swing.JCheckBox riverChkBox;
     private javax.swing.JRadioButton smallblindradiobutton;
     private javax.swing.JTextArea statsTextArea;
+    private javax.swing.JCheckBox turnChkBox;
     // End of variables declaration//GEN-END:variables
 
 }

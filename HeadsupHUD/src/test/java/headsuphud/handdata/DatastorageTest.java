@@ -75,4 +75,22 @@ public class DatastorageTest {
         assertEquals("No playerdata! Hence, no players to be listed", emptystorage.playerNames());
     }
 
+    @Test
+    public void playerNamesArray() {
+
+        assertEquals("PopcornMonk", datastorage.playerNamesAsArray()[1]);
+    }
+
+    @Test
+    public void allPlayerStats() {
+        String stats = datastorage.allPlayerStats("GraveleverX");
+        assertTrue(stats.contains("GraveleverX\nSmall Blind:"));
+    }
+
+    @Test
+    public void somePlayerStats() {
+        String stats = datastorage.getStats("GraveleverX", Position.SmallBlind, Street.Preflop);
+        assertTrue(stats.contains("Fold:"));
+    }
+
 }

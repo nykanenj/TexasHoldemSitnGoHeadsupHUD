@@ -66,14 +66,6 @@ public class HandReaderTest {
     }
 
     @Test
-    public void fileReaderPrintWorksCorrect() {
-        handreader.loadFileContents("Test.txt");
-        handreader.print();
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("PokerStars Hand #147486229336:"));
-    }
-
-    @Test
     public void getHandDataWorksCorrect() {
         handreader.loadFileContents("Test.txt");
         ArrayList<String> helper = handreader.getHandData();
