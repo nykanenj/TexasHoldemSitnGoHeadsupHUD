@@ -41,7 +41,7 @@
 
 **Rakennekuvaus**
 
-* Viimeisimpään luokkakaavioon on tullut paljon muutoksia, ylimääräisiä luokkia on poistettu paljon ja ohjelman rakenne on selkeytynyt. Ohjelmaa ajettaessa HeadsupHUD toimii main luokkana. HeadsupHUD luokka luo Handreaderin, HudGUI:n ja HandHistoryTextToObjectConverterin. Handreader lukee käsihistoriatiedot tekstitiedostosta, converter muuttaa tiedot objektimuotoon, jolloin tietoa pystyyy käsittelemään ja hakemaan statistiikkaa tiedosta. Objektit tallennetaan datastorageen. HudGUI pääsee hakemaan statistiikkaa datastoragesta.
+Viimeisimpään luokkakaavioon on tullut paljon muutoksia, ylimääräisiä luokkia on poistettu paljon ja ohjelman rakenne on selkeytynyt. Ohjelmaa ajettaessa HeadsupHUD toimii main luokkana. HeadsupHUD luokka luo Handreaderin, HudGUI:n ja HandHistoryTextToObjectConverterin. Handreader lukee käsihistoriatiedot tekstitiedostosta, converter muuttaa tiedot objektimuotoon, jolloin tietoa pystyy käsittelemään ja hakemaan statistiikkaa tiedosta. Objektit tallennetaan Datastorageen. Tietoa halutaan hakea pelaajan, position, ja streetin mukaan, joten datastoragen "alta" löytyy luokka jokaiselle osa-alueelle. HudGUI pääsee hakemaan statistiikkaa Datastoragesta.
 
 **Sekvenssikaavio 1: Kaiken statistiikan haku tietyltä pelaajalta**
 
