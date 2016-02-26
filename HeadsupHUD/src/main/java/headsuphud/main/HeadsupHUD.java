@@ -9,7 +9,7 @@ package headsuphud.main;
 import headsuphud.handdata.DataStorage;
 import headsuphud.handreader.HandHistoryTextToObjectsConverter;
 import headsuphud.handreader.HandReader;
-import headsuphud.gui.NewJFrame;
+import headsuphud.gui.HudGUI;
 
 /**
  *
@@ -20,9 +20,7 @@ public class HeadsupHUD {
     public static void main(String[] args) {
 
         DataStorage datastorage = loadStatistics();
-        Textuserinterface textui = new Textuserinterface(datastorage);
-        textui.mainmenu();
-        NewJFrame jframe = new NewJFrame(datastorage);
+        HudGUI jframe = new HudGUI(datastorage);
         jframe.run(datastorage);
 
     }

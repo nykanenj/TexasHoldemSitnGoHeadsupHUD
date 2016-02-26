@@ -30,8 +30,19 @@ public class Positionstats {
     public ActionStatsOnStreet getStatsFrom(Street street) {
         return allstreetsstats[street.getStreetValue()];
     }
-    
-     /**
+
+    /**
+     * Metodi palauttaa statistiikkaa sisältävän olion kyseiseltä streetiltä.
+     *
+     * @param streetValue  Halutaan statistiikka streetiltä nro.
+     *
+     * @return palauttaa statistiikkaolion halutulta streetiltä.
+     */
+    public String getStatsAsStringFrom(Street street) {
+        return allstreetsstats[street.getStreetValue()].allStats();
+    }
+
+    /**
      * Metodi palauttaa statistiikan kaikilta streeteiltä.
      *
      */
@@ -43,7 +54,7 @@ public class Positionstats {
             stats += allstreetsstats[index].allStats();
             index++;
         }
-            
+
         return stats;
     }
 }

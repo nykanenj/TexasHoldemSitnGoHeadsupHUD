@@ -47,6 +47,14 @@ public class Player {
     public Positionstats getBigblindstats() {
         return bigblindstats;
     }
+    
+    public Positionstats getPositionstats(Position position) {
+        if (position == Position.SmallBlind) {
+            return smallblindstats;
+        } else {
+            return bigblindstats;
+        }
+    }
 
     public Positionstats getPositionStatsAccordingToCurrentPosition() {
         if (position == Position.SmallBlind) {

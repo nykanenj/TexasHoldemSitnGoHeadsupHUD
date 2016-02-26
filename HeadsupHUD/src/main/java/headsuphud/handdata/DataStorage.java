@@ -65,6 +65,10 @@ public class DataStorage {
     public String allPlayerStats(String name) {
         return nameplayermap.get(name).allPlayerStats();
     }
+    
+    public String Stats(String name, Position position, Street street) {
+        return nameplayermap.get(name).getPositionstats(position).getStatsAsStringFrom(street);
+    }
 
     /**
      * Metodi listaa kaikki pelaajat.
@@ -82,6 +86,18 @@ public class DataStorage {
             return "No playerdata! Hence, no players to be listed";
         }
 
+        return names;
+    }
+    
+    public String[] playerNamesAsArray() {
+        int count = nameplayermap.size();
+        String[] names = new String[count];        
+        
+        int i = 0;
+        for (String name : nameplayermap.keySet()) {
+            names[i] = name;
+            i++;
+        }
         return names;
     }
 }

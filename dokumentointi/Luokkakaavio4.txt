@@ -1,0 +1,8 @@
+[HeadsupHUD] - [HandReader]
+[HeadsupHUD] - [HudGUI]
+[HudGUI] - [DataStorage]
+[HeadsupHUD] - [HandHistoryTextToObjectsConverter]
+[HandHistoryTextToObjectsConverter] - [DataStorage]
+[DataStorage]-[Player]
+[Player]-[PositionStats]
+[PositionStats]-[ActionOnStreet]

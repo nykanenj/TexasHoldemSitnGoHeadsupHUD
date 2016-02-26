@@ -20,6 +20,8 @@
 
 23.2.2016 klo 16 - 19 Turhat luokat poistettu, testit korjattu toimiviksi, GUI aloitettu
 
-Yhteens‰ 35.5h
+26.2.2016 klo 20 - 24 Turhia luokkia poistettu, GUI p‰ivitetty lis‰‰
+
+Yhteens‰ 39.5h
 
 

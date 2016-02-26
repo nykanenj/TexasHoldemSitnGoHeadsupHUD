@@ -35,8 +35,20 @@
 
 ![Luokkakaavio3](Luokkakaavio3.png)
 
-**Sekvenssikaavio: Kaiken statistiikan haku tietyltä pelaajalta**
+**Versio 4 Luokkakaavio**
+
+![Luokkakaavio4](Luokkakaavio4.png)
+
+**Rakennekuvaus**
+
+* Viimeisimpään luokkakaavioon on tullut paljon muutoksia, ylimääräisiä luokkia on poistettu paljon ja ohjelman rakenne on selkeytynyt. Ohjelmaa ajettaessa HeadsupHUD toimii main luokkana. HeadsupHUD luokka luo Handreaderin, HudGUI:n ja HandHistoryTextToObjectConverterin. Handreader lukee käsihistoriatiedot tekstitiedostosta, converter muuttaa tiedot objektimuotoon, jolloin tietoa pystyyy käsittelemään ja hakemaan statistiikkaa tiedosta. Objektit tallennetaan datastorageen. HudGUI pääsee hakemaan statistiikkaa datastoragesta.
+
+**Sekvenssikaavio 1: Kaiken statistiikan haku tietyltä pelaajalta**
 
 ![Sekvenssikaavio1](AllStats.png)
+
+**Sekvenssikaavio 2: Kasihistorianlataaminen**
+
+![Sekvenssikaavio2](Kasihistorianlataaminen.png)
 
 ![Alt text](http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")
