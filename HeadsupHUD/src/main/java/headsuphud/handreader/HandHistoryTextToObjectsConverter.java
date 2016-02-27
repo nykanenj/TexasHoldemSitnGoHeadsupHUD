@@ -14,7 +14,6 @@ import java.util.ArrayList;
 public class HandHistoryTextToObjectsConverter {
 
     private ArrayList<String> allHandHistoryText;
-    private ArrayList<Hand> dividedIntoHands;
     private DataStorage datastorage;
     private Player smallBlindPlayer;
     private Player bigBlindPlayer;
@@ -29,7 +28,6 @@ public class HandHistoryTextToObjectsConverter {
     public HandHistoryTextToObjectsConverter(ArrayList<String> handHistoryText) {
         this.allHandHistoryText = handHistoryText;
         this.datastorage = new DataStorage();
-        dividedIntoHands = new ArrayList<>();
     }
 
     public DataStorage getDatastorage() {
@@ -41,15 +39,9 @@ public class HandHistoryTextToObjectsConverter {
      * ajaa ennen getDatastorage metodia
      */
     public void convert() {
-        divideIntoHands();
-        goThroughIndividualHands();
+        goThroughAll();
     }
 
-    private void goThroughIndividualHands() {
-        for (Hand hand : dividedIntoHands) {
-            goThroughHand(hand);
-        }
-    }
 
     /**
      * Metodi käy läpi kaikki käteen liityvät tekstirivit, ja luo niistä
@@ -57,10 +49,8 @@ public class HandHistoryTextToObjectsConverter {
      *
      * @param hand käsi, joka halutaan käsitellä
      */
-    private void goThroughHand(Hand hand) {
-        smallBlindPlayer = null;
-        bigBlindPlayer = null;
-        for (String textLine : hand.textRelatedToThisHand) {
+    private void goThroughAll() {
+        for (String textLine : allHandHistoryText) {
             if (textLine.contains("posts small blind")) {
                 String playername = readPlayerName(textLine);
                 datastorage.addPlayer(playername);
@@ -136,49 +126,6 @@ public class HandHistoryTextToObjectsConverter {
 
         }
         return playername;
-    }
-
-    /**
-     * Tekstitiedosto sisältää tietoa useasta pelatusta käsistä. Tämä metodi luo
-     * ArrayListin, joka sisältää yksittäiset kädet.
-     */
-    private void divideIntoHands() {
-        ArrayList<String> helper = new ArrayList<String>();
-        for (String textline : allHandHistoryText) {
-            if (textline.equals("") && helper.isEmpty()) {
-                continue;
-            }
-
-            if (textline.equals("")) {
-                dividedIntoHands.add(new Hand(helper));
-                helper.clear();
-                continue;
-            }
-
-            helper.add(textline);
-        }
-        dividedIntoHands.add(new Hand(helper));
-    }
-
-    /**
-     * Yksittäiseen käteen liittyy tämän luokan sisällä oleva teksti. Teksti on
-     * tallennettu rivi riviltä ArrayListiin.
-     */
-    private class Hand {
-
-        private ArrayList<String> textRelatedToThisHand;
-
-        public Hand(ArrayList<String> textFromOtherList) {
-            this.textRelatedToThisHand = new ArrayList<>();
-            for (String textLine : textFromOtherList) {
-                textRelatedToThisHand.add(textLine);
-            }
-        }
-
-        public ArrayList<String> getTextRelatedToThisHand() {
-            return textRelatedToThisHand;
-        }
-
     }
 
 }

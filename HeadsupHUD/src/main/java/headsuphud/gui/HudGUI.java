@@ -147,9 +147,10 @@ public class HudGUI extends javax.swing.JFrame {
 
         statsTextArea.setBackground(new java.awt.Color(0, 0, 0));
         statsTextArea.setColumns(20);
+        statsTextArea.setFont(new java.awt.Font("Monospaced", 0, 18)); // NOI18N
         statsTextArea.setForeground(new java.awt.Color(255, 255, 255));
         statsTextArea.setRows(5);
-        statsTextArea.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(51, 153, 255)));
+        statsTextArea.setBorder(javax.swing.BorderFactory.createEmptyBorder());
         jScrollPane3.setViewportView(statsTextArea);
 
         playerNameList.setBackground(new java.awt.Color(0, 0, 0));
@@ -167,6 +168,9 @@ public class HudGUI extends javax.swing.JFrame {
         });
         jScrollPane5.setViewportView(playerNameList);
 
+        loadStatsButton.setBackground(new java.awt.Color(51, 51, 51));
+        loadStatsButton.setFont(new java.awt.Font("Tahoma", 0, 10)); // NOI18N
+        loadStatsButton.setForeground(new java.awt.Color(255, 255, 255));
         loadStatsButton.setText("LoadPlayerStats");
         loadStatsButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -180,9 +184,9 @@ public class HudGUI extends javax.swing.JFrame {
             jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel7Layout.createSequentialGroup()
                 .addGap(38, 38, 38)
-                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jScrollPane3)
-                    .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 279, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 279, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 213, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(18, 18, 18)
                 .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(loadStatsButton)
@@ -192,17 +196,17 @@ public class HudGUI extends javax.swing.JFrame {
                     .addComponent(turnChkBox)
                     .addComponent(bigblindradiobutton)
                     .addComponent(smallblindradiobutton))
-                .addContainerGap(46, Short.MAX_VALUE))
+                .addContainerGap(54, Short.MAX_VALUE))
         );
         jPanel7Layout.setVerticalGroup(
             jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel7Layout.createSequentialGroup()
                 .addGap(28, 28, 28)
                 .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
-                    .addComponent(loadStatsButton, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(48, 48, 48)
-                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(loadStatsButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE))
+                .addGap(42, 42, 42)
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                     .addGroup(jPanel7Layout.createSequentialGroup()
                         .addComponent(smallblindradiobutton)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -214,8 +218,9 @@ public class HudGUI extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(turnChkBox)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(riverChkBox))
-                    .addComponent(jScrollPane3, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 156, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addComponent(riverChkBox)
+                        .addGap(18, 18, 18))
+                    .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 186, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addContainerGap(40, Short.MAX_VALUE))
         );
 
@@ -235,12 +240,13 @@ public class HudGUI extends javax.swing.JFrame {
 
     private void loadStatsButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loadStatsButtonActionPerformed
         // TODO add your handling code here:
-
+        if (playerNameList.getSelectedValue() == null) {
+            JOptionPane.showMessageDialog(null, "Select a player from the list!");
+            return;
+        }
         try {
-
-            String playerName = (String) playerNameList.getSelectedValue();
-            String statistics = datastorage.allPlayerStats(playerName);
-            statsTextArea.setText(statistics);
+            smallblindradiobutton.setSelected(true);
+            preflopChkBox.doClick();
 
         } catch (Exception e) {
             JOptionPane.showMessageDialog(null, e);

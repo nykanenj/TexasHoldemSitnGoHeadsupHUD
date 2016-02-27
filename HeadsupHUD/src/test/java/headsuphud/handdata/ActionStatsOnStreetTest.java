@@ -55,7 +55,8 @@ public class ActionStatsOnStreetTest {
     @Test
     public void addactionWorksWithOneAction() {
         preflop.addAction(Raise);
-        assertEquals(Raise, preflop.getActions().get(0));
+        preflop.increase();
+        assertEquals("100%", preflop.stats(Raise));
     }
 
     @Test
@@ -63,25 +64,26 @@ public class ActionStatsOnStreetTest {
         flop.addAction(Raise);
         flop.addAction(Fold);
         flop.addAction(Check);
-        assertEquals(Check, flop.getActions().get(2));
+        flop.increase();
+        flop.increase();
+        flop.increase();
+        assertEquals("33%", flop.stats(Raise));
     }
 
     @Test
     public void StatsWorksCorrectlyWithNoActionsAdded() {
-        assertEquals(-1, (int) preflop.stats(Raise));
+        assertEquals("-", preflop.stats(Raise));
     }
 
     @Test
     public void StatsWorksCorrectlyWithoutAnyActionsAdded() {
-        assertEquals(-1, (int) turn.stats(Check));
+        assertEquals("-", turn.stats(Check));
     }
 
     @Test
     public void StatsWorksCorrectlyWithoutActionsOfSpecificTypeAdded() {
         turn.addAction(Fold);
-        turn.addAction(Fold);
-        turn.addAction(Fold);
-        assertEquals(0, (int) turn.stats(Check));
+        assertEquals("-", turn.stats(Check));
     }
 
     @Test
@@ -89,7 +91,10 @@ public class ActionStatsOnStreetTest {
         turn.addAction(Check);
         turn.addAction(Check);
         turn.addAction(Check);
-        assertEquals(1, (int) turn.stats(Check));
+        turn.increase();
+        turn.increase();
+        turn.increase();
+        assertEquals("100%", turn.stats(Check));
     }
 
 }

@@ -51,11 +51,11 @@ public class ActionStatsOnStreet {
      * @return Miten usein pelaaja on käyttänyt tätä komentoa suhteessa muihin
      * komentoihin.
      */
-    public double stats(Action action) {
+    public String stats(Action action) {
         if (count == 0) {
-            return -1;
+            return "-";
         }
-        return actions.get(action) / count;
+        return (int) (actions.get(action) * 100.0 / count) + "%";
     }
 
     /**
