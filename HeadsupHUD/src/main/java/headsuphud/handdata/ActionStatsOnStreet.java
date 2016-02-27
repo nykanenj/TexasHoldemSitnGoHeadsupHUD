@@ -4,14 +4,14 @@
  */
 package headsuphud.handdata;
 
-import static headsuphud.handdata.Action.*;
-import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class ActionStatsOnStreet {
 
     private final Street street;
-    private List<Action> actions;
+    private Map<Action, Integer> actions;
     private int count;
 
     /**
@@ -22,7 +22,11 @@ public class ActionStatsOnStreet {
      */
     public ActionStatsOnStreet(Street street) {
         this.street = street;
-        actions = new ArrayList<>();
+        actions = new HashMap<>();
+        for (Action action : Action.values()) {
+            actions.put(action, 0);
+        }
+        count = 0;
     }
 
     /**
@@ -32,14 +36,11 @@ public class ActionStatsOnStreet {
      *
      */
     public void addAction(Action action) {
-        if (action == Fold || action == Check || action == Raise) {  //PROBLEM: We should count calls when someone donk bets us! 
-            count++;
-        }
-        actions.add(action);
+        actions.put(action, actions.get(action) + 1);
     }
 
-    public List<Action> getActions() {
-        return actions;
+    public void increase() {
+        count++;
     }
 
     /**
@@ -54,14 +55,7 @@ public class ActionStatsOnStreet {
         if (count == 0) {
             return -1;
         }
-
-        int occurrences = 0;
-        for (Action actioninstance : actions) {
-            if (actioninstance == action) {
-                occurrences++;
-            }
-        }
-        return occurrences / count;
+        return actions.get(action) / count;
     }
 
     /**

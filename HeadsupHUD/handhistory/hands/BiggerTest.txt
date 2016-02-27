@@ -2110,6 +2110,3 @@ Total pot 1040 | Rake 0
 Board [As 8d 5c 8c Tc]
 Seat 1: GraveleverX (button) (small blind) showed [Jc 9c] and won (1040) with a flush, Jack high
 Seat 2: kacper1230 (big blind) showed [Ah Qh] and lost with two pair, Aces and Eights
-
-
-

@@ -31,7 +31,7 @@ public class HeadsupHUD {
      */
     public static DataStorage loadStatistics() {
         HandReader handreader = new HandReader();
-        handreader.loadFileContents("Test.txt");
+        handreader.loadFileContents("BiggerTest.txt");
 
         HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
         converter.convert();

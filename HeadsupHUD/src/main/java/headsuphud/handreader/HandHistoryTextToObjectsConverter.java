@@ -75,15 +75,19 @@ public class HandHistoryTextToObjectsConverter {
             }
             if (textLine.contains("*** HOLE CARDS ***")) {
                 street = Street.Preflop;
+                increaseCount();
             }
             if (textLine.contains("*** FLOP ***")) {
                 street = Street.Flop;
+                increaseCount();
             }
             if (textLine.contains("*** TURN ***")) {
                 street = Street.Turn;
+                increaseCount();
             }
             if (textLine.contains("*** RIVER ***")) {
                 street = Street.River;
+                increaseCount();
             }
             if (textLine.contains("folds")) {
                 String playername = readPlayerName(textLine);
@@ -110,6 +114,11 @@ public class HandHistoryTextToObjectsConverter {
                 }
             }
         }
+    }
+
+    private void increaseCount() {
+        smallBlindPlayer.getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
+        bigBlindPlayer.getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
     }
 
     /**
@@ -159,8 +168,11 @@ public class HandHistoryTextToObjectsConverter {
 
         private ArrayList<String> textRelatedToThisHand;
 
-        public Hand(ArrayList<String> textRelatedToThisHand) {
-            this.textRelatedToThisHand = textRelatedToThisHand;
+        public Hand(ArrayList<String> textFromOtherList) {
+            this.textRelatedToThisHand = new ArrayList<>();
+            for (String textLine : textFromOtherList) {
+                textRelatedToThisHand.add(textLine);
+            }
         }
 
         public ArrayList<String> getTextRelatedToThisHand() {
