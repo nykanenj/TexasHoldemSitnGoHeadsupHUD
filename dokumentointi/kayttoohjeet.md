@@ -15,4 +15,4 @@
 
 * Jos käytät ohjelmaa muuta kautta kuin netbeansissä, lataathan varmasti .zip tiedostona, jolloin käsihistoriakansio on mukana .jar tiedoston kanssa ja ohjelmassa näkyy statistiikkaa.
 
-#[Zip tiedosto] (https://github.com/nykanenj/TexasHoldemSitnGoHeadsupHUD/blob/master/HeadsupHUD.zip)
+###[Zip-tiedosto] (https://github.com/nykanenj/TexasHoldemSitnGoHeadsupHUD/blob/master/HeadsupHUD.zip)
