@@ -1,0 +1,2001 @@
+﻿PokerStars Hand #147488118801: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:08:01 EET [2016/01/22 13:08:01 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1500 in chips) 
+Seat 2: krisQ7 (1500 in chips) 
+GraveleverX: posts small blind 10
+krisQ7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad 8c]
+GraveleverX: raises 20 to 40
+krisQ7: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (40)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147488135565: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:08:18 EET [2016/01/22 13:08:18 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1520 in chips) 
+Seat 2: krisQ7 (1480 in chips) 
+krisQ7: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qd 5c]
+krisQ7: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to krisQ7
+krisQ7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147488142433: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:08:25 EET [2016/01/22 13:08:25 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1500 in chips) 
+Seat 2: krisQ7 (1500 in chips) 
+GraveleverX: posts small blind 10
+krisQ7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6c 4h]
+GraveleverX: folds 
+Uncalled bet (10) returned to krisQ7
+krisQ7 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (20)
+
+
+
+PokerStars Hand #147488148024: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:08:30 EET [2016/01/22 13:08:30 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1490 in chips) 
+Seat 2: krisQ7 (1510 in chips) 
+krisQ7: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 5d]
+krisQ7: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to krisQ7
+krisQ7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147488157805: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:08:40 EET [2016/01/22 13:08:40 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1470 in chips) 
+Seat 2: krisQ7 (1530 in chips) 
+GraveleverX: posts small blind 10
+krisQ7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh 3h]
+GraveleverX: folds 
+Uncalled bet (10) returned to krisQ7
+krisQ7 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (20)
+
+
+
+PokerStars Hand #147488168489: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:08:51 EET [2016/01/22 13:08:51 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1460 in chips) 
+Seat 2: krisQ7 (1540 in chips) 
+krisQ7: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s 9c]
+krisQ7: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to krisQ7
+krisQ7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147488184616: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:09:07 EET [2016/01/22 13:09:07 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1440 in chips) 
+Seat 2: krisQ7 (1560 in chips) 
+GraveleverX: posts small blind 10
+krisQ7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h Qc]
+GraveleverX: raises 20 to 40
+krisQ7: calls 20
+*** FLOP *** [6c 9s 9c]
+krisQ7: checks 
+GraveleverX: bets 40
+krisQ7: calls 40
+*** TURN *** [6c 9s 9c] [Jc]
+krisQ7: checks 
+GraveleverX: bets 80
+krisQ7: calls 80
+*** RIVER *** [6c 9s 9c Jc] [3c]
+krisQ7: checks 
+GraveleverX: checks 
+*** SHOW DOWN ***
+krisQ7: shows [4h 6h] (two pair, Nines and Sixes)
+GraveleverX: shows [7h Qc] (a flush, Queen high)
+GraveleverX collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [6c 9s 9c Jc 3c]
+Seat 1: GraveleverX (button) (small blind) showed [7h Qc] and won (320) with a flush, Queen high
+Seat 2: krisQ7 (big blind) showed [4h 6h] and lost with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #147488222121: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:09:45 EET [2016/01/22 13:09:45 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1600 in chips) 
+Seat 2: krisQ7 (1400 in chips) 
+krisQ7: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5d Qh]
+krisQ7: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488231739: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:09:55 EET [2016/01/22 13:09:55 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1610 in chips) 
+Seat 2: krisQ7 (1390 in chips) 
+GraveleverX: posts small blind 10
+krisQ7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qh Kh]
+GraveleverX: raises 20 to 40
+krisQ7: calls 20
+*** FLOP *** [9c 4s 2h]
+krisQ7: checks 
+GraveleverX: checks 
+*** TURN *** [9c 4s 2h] [Qd]
+krisQ7: bets 50
+GraveleverX: calls 50
+*** RIVER *** [9c 4s 2h Qd] [6d]
+krisQ7: checks 
+GraveleverX: bets 60
+krisQ7: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 180 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9c 4s 2h Qd 6d]
+Seat 1: GraveleverX (button) (small blind) collected (180)
+Seat 2: krisQ7 (big blind) folded on the River
+
+
+
+PokerStars Hand #147488268913: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 20:10:33 EET [2016/01/22 13:10:33 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1700 in chips) 
+Seat 2: krisQ7 (1300 in chips) 
+krisQ7: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 6d]
+krisQ7: raises 20 to 40
+GraveleverX: raises 20 to 60
+krisQ7: calls 20
+*** FLOP *** [Qd 5c 4s]
+GraveleverX: bets 120
+krisQ7: raises 180 to 300
+GraveleverX: calls 180
+*** TURN *** [Qd 5c 4s] [5s]
+GraveleverX: checks 
+krisQ7: checks 
+*** RIVER *** [Qd 5c 4s 5s] [Ks]
+GraveleverX: checks 
+krisQ7: bets 200
+GraveleverX: calls 200
+*** SHOW DOWN ***
+krisQ7: shows [Js Kh] (two pair, Kings and Fives)
+GraveleverX: mucks hand 
+krisQ7 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [Qd 5c 4s 5s Ks]
+Seat 1: GraveleverX (big blind) mucked [6s 6d]
+Seat 2: krisQ7 (button) (small blind) showed [Js Kh] and won (1120) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #147488335653: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:11:39 EET [2016/01/22 13:11:39 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1140 in chips) 
+Seat 2: krisQ7 (1860 in chips) 
+GraveleverX: posts small blind 15
+krisQ7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts Qc]
+GraveleverX: raises 60 to 90
+krisQ7: raises 130 to 220
+GraveleverX: calls 130
+*** FLOP *** [As 3s Qd]
+krisQ7: bets 220
+GraveleverX: calls 220
+*** TURN *** [As 3s Qd] [Ac]
+krisQ7: checks 
+GraveleverX: checks 
+*** RIVER *** [As 3s Qd Ac] [3c]
+krisQ7: bets 390
+GraveleverX: calls 390
+*** SHOW DOWN ***
+krisQ7: shows [Ad Qs] (a full house, Aces full of Queens)
+GraveleverX: mucks hand 
+krisQ7 collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | Rake 0 
+Board [As 3s Qd Ac 3c]
+Seat 1: GraveleverX (button) (small blind) mucked [Ts Qc]
+Seat 2: krisQ7 (big blind) showed [Ad Qs] and won (1660) with a full house, Aces full of Queens
+
+
+
+PokerStars Hand #147488365437: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:12:10 EET [2016/01/22 13:12:10 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (310 in chips) 
+Seat 2: krisQ7 (2690 in chips) 
+krisQ7: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 3c]
+krisQ7: calls 15
+GraveleverX: checks 
+*** FLOP *** [3s 2c 8s]
+GraveleverX: bets 30
+krisQ7: calls 30
+*** TURN *** [3s 2c 8s] [Js]
+GraveleverX: bets 60
+krisQ7: calls 60
+*** RIVER *** [3s 2c 8s Js] [9d]
+GraveleverX: bets 90
+krisQ7: calls 90
+*** SHOW DOWN ***
+GraveleverX: shows [4h 3c] (a pair of Threes)
+krisQ7: shows [Qs 9c] (a pair of Nines)
+krisQ7 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [3s 2c 8s Js 9d]
+Seat 1: GraveleverX (big blind) showed [4h 3c] and lost with a pair of Threes
+Seat 2: krisQ7 (button) (small blind) showed [Qs 9c] and won (420) with a pair of Nines
+
+
+
+PokerStars Hand #147488389932: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:12:34 EET [2016/01/22 13:12:34 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (100 in chips) 
+Seat 2: krisQ7 (2900 in chips) 
+GraveleverX: posts small blind 15
+krisQ7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s 7d]
+GraveleverX: folds 
+Uncalled bet (15) returned to krisQ7
+krisQ7 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (30)
+
+
+
+PokerStars Hand #147488396339: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:12:41 EET [2016/01/22 13:12:41 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (85 in chips) 
+Seat 2: krisQ7 (2915 in chips) 
+krisQ7: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [As 9c]
+krisQ7: raises 60 to 90
+GraveleverX: calls 55 and is all-in
+Uncalled bet (5) returned to krisQ7
+*** FLOP *** [7s 6s 8s]
+*** TURN *** [7s 6s 8s] [5h]
+*** RIVER *** [7s 6s 8s 5h] [Qc]
+*** SHOW DOWN ***
+GraveleverX: shows [As 9c] (a straight, Five to Nine)
+krisQ7: shows [Jd Kc] (high card King)
+GraveleverX collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [7s 6s 8s 5h Qc]
+Seat 1: GraveleverX (big blind) showed [As 9c] and won (170) with a straight, Five to Nine
+Seat 2: krisQ7 (button) (small blind) showed [Jd Kc] and lost with high card King
+
+
+
+PokerStars Hand #147488411047: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:12:56 EET [2016/01/22 13:12:56 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (170 in chips) 
+Seat 2: krisQ7 (2830 in chips) 
+GraveleverX: posts small blind 15
+krisQ7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qh Jd]
+GraveleverX: raises 140 to 170 and is all-in
+krisQ7: calls 140
+*** FLOP *** [Ts 9c 2d]
+*** TURN *** [Ts 9c 2d] [3h]
+*** RIVER *** [Ts 9c 2d 3h] [Qs]
+*** SHOW DOWN ***
+krisQ7: shows [Td Kc] (a pair of Tens)
+GraveleverX: shows [Qh Jd] (a pair of Queens)
+GraveleverX collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Ts 9c 2d 3h Qs]
+Seat 1: GraveleverX (button) (small blind) showed [Qh Jd] and won (340) with a pair of Queens
+Seat 2: krisQ7 (big blind) showed [Td Kc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #147488425305: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:13:10 EET [2016/01/22 13:13:10 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (340 in chips) 
+Seat 2: krisQ7 (2660 in chips) 
+krisQ7: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [8s 3h]
+krisQ7: calls 15
+GraveleverX: checks 
+*** FLOP *** [9c 2c 5c]
+GraveleverX: bets 30
+krisQ7: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 2c 5c]
+Seat 1: GraveleverX (big blind) collected (60)
+Seat 2: krisQ7 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #147488438899: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:13:24 EET [2016/01/22 13:13:24 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (370 in chips) 
+Seat 2: krisQ7 (2630 in chips) 
+GraveleverX: posts small blind 15
+krisQ7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qh Kc]
+GraveleverX: raises 30 to 60
+krisQ7: calls 30
+*** FLOP *** [7s 4d 4s]
+krisQ7: checks 
+GraveleverX: bets 60
+krisQ7: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 4d 4s]
+Seat 1: GraveleverX (button) (small blind) collected (120)
+Seat 2: krisQ7 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147488455781: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:13:41 EET [2016/01/22 13:13:41 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (430 in chips) 
+Seat 2: krisQ7 (2570 in chips) 
+krisQ7: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts 6s]
+krisQ7: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488460991: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:13:47 EET [2016/01/22 13:13:47 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (445 in chips) 
+Seat 2: krisQ7 (2555 in chips) 
+GraveleverX: posts small blind 15
+krisQ7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 8c]
+GraveleverX: folds 
+Uncalled bet (15) returned to krisQ7
+krisQ7 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (30)
+
+
+
+PokerStars Hand #147488466441: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:13:52 EET [2016/01/22 13:13:52 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (430 in chips) 
+Seat 2: krisQ7 (2570 in chips) 
+krisQ7: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ks Th]
+krisQ7: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488471758: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 20:13:58 EET [2016/01/22 13:13:58 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (445 in chips) 
+Seat 2: krisQ7 (2555 in chips) 
+GraveleverX: posts small blind 15
+krisQ7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s Jd]
+GraveleverX: calls 15
+krisQ7: checks 
+*** FLOP *** [As 2c 3s]
+krisQ7: checks 
+GraveleverX: checks 
+*** TURN *** [As 2c 3s] [4d]
+krisQ7: bets 30
+GraveleverX: calls 30
+*** RIVER *** [As 2c 3s 4d] [8d]
+krisQ7: bets 30
+GraveleverX: calls 30
+*** SHOW DOWN ***
+krisQ7: shows [3c 6c] (a pair of Threes)
+GraveleverX: mucks hand 
+krisQ7 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [As 2c 3s 4d 8d]
+Seat 1: GraveleverX (button) (small blind) mucked [7s Jd]
+Seat 2: krisQ7 (big blind) showed [3c 6c] and won (180) with a pair of Threes
+
+
+
+PokerStars Hand #147488496505: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:14:23 EET [2016/01/22 13:14:23 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (355 in chips) 
+Seat 2: krisQ7 (2645 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad 6c]
+krisQ7: raises 40 to 80
+GraveleverX: raises 275 to 355 and is all-in
+krisQ7: folds 
+Uncalled bet (275) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (160)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488505939: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:14:33 EET [2016/01/22 13:14:33 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (435 in chips) 
+Seat 2: krisQ7 (2565 in chips) 
+GraveleverX: posts small blind 20
+krisQ7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kd Ks]
+GraveleverX: raises 40 to 80
+krisQ7: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (80)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147488514880: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:14:42 EET [2016/01/22 13:14:42 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (475 in chips) 
+Seat 2: krisQ7 (2525 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [2d 8d]
+krisQ7: raises 40 to 80
+GraveleverX: folds 
+Uncalled bet (40) returned to krisQ7
+krisQ7 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #147488521914: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:14:49 EET [2016/01/22 13:14:49 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (435 in chips) 
+Seat 2: krisQ7 (2565 in chips) 
+GraveleverX: posts small blind 20
+krisQ7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd 6d]
+GraveleverX: raises 40 to 80
+krisQ7: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (80)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147488535376: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:15:03 EET [2016/01/22 13:15:03 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (475 in chips) 
+Seat 2: krisQ7 (2525 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h 7d]
+krisQ7: raises 2485 to 2525 and is all-in
+GraveleverX: folds 
+Uncalled bet (2485) returned to krisQ7
+krisQ7 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #147488542789: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:15:11 EET [2016/01/22 13:15:11 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (435 in chips) 
+Seat 2: krisQ7 (2565 in chips) 
+GraveleverX: posts small blind 20
+krisQ7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [4s 3h]
+GraveleverX: folds 
+Uncalled bet (20) returned to krisQ7
+krisQ7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (40)
+
+
+
+PokerStars Hand #147488548125: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:15:16 EET [2016/01/22 13:15:16 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (415 in chips) 
+Seat 2: krisQ7 (2585 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [4d 4h]
+krisQ7: calls 20
+GraveleverX: raises 120 to 160
+krisQ7: folds 
+Uncalled bet (120) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (80)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488563494: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:15:31 EET [2016/01/22 13:15:31 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (455 in chips) 
+Seat 2: krisQ7 (2545 in chips) 
+GraveleverX: posts small blind 20
+krisQ7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc 2d]
+GraveleverX: folds 
+Uncalled bet (20) returned to krisQ7
+krisQ7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (40)
+
+
+
+PokerStars Hand #147488569539: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:15:37 EET [2016/01/22 13:15:37 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (435 in chips) 
+Seat 2: krisQ7 (2565 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [As Qs]
+krisQ7: raises 2525 to 2565 and is all-in
+GraveleverX: calls 395 and is all-in
+Uncalled bet (2130) returned to krisQ7
+*** FLOP *** [5h Ks 9c]
+*** TURN *** [5h Ks 9c] [4c]
+*** RIVER *** [5h Ks 9c 4c] [8s]
+*** SHOW DOWN ***
+GraveleverX: shows [As Qs] (high card Ace)
+krisQ7: shows [Ad 3s] (high card Ace - lower kicker)
+GraveleverX collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [5h Ks 9c 4c 8s]
+Seat 1: GraveleverX (big blind) showed [As Qs] and won (870) with high card Ace
+Seat 2: krisQ7 (button) (small blind) showed [Ad 3s] and lost with high card Ace
+
+
+
+PokerStars Hand #147488583223: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:15:51 EET [2016/01/22 13:15:51 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (870 in chips) 
+Seat 2: krisQ7 (2130 in chips) 
+GraveleverX: posts small blind 20
+krisQ7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [2c 3d]
+GraveleverX: folds 
+Uncalled bet (20) returned to krisQ7
+krisQ7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (40)
+
+
+
+PokerStars Hand #147488589185: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:15:57 EET [2016/01/22 13:15:57 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (850 in chips) 
+Seat 2: krisQ7 (2150 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [5s Tc]
+krisQ7: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (40)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488594503: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:16:02 EET [2016/01/22 13:16:02 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (870 in chips) 
+Seat 2: krisQ7 (2130 in chips) 
+GraveleverX: posts small blind 20
+krisQ7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [3h 6s]
+GraveleverX: folds 
+Uncalled bet (20) returned to krisQ7
+krisQ7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (40)
+
+
+
+PokerStars Hand #147488600299: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:16:08 EET [2016/01/22 13:16:08 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (850 in chips) 
+Seat 2: krisQ7 (2150 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 5h]
+krisQ7: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (40)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488605247: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:16:13 EET [2016/01/22 13:16:13 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (870 in chips) 
+Seat 2: krisQ7 (2130 in chips) 
+GraveleverX: posts small blind 20
+krisQ7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [5c 5s]
+GraveleverX: raises 40 to 80
+krisQ7: calls 40
+*** FLOP *** [Ah 9s 6c]
+krisQ7: checks 
+GraveleverX: checks 
+*** TURN *** [Ah 9s 6c] [6s]
+krisQ7: bets 80
+GraveleverX: calls 80
+*** RIVER *** [Ah 9s 6c 6s] [5h]
+krisQ7: bets 200
+GraveleverX: raises 400 to 600
+krisQ7: calls 400
+*** SHOW DOWN ***
+GraveleverX: shows [5c 5s] (a full house, Fives full of Sixes)
+krisQ7: mucks hand 
+GraveleverX collected 1520 from pot
+*** SUMMARY ***
+Total pot 1520 | Rake 0 
+Board [Ah 9s 6c 6s 5h]
+Seat 1: GraveleverX (button) (small blind) showed [5c 5s] and won (1520) with a full house, Fives full of Sixes
+Seat 2: krisQ7 (big blind) mucked [Ad Tc]
+
+
+
+PokerStars Hand #147488639605: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 20:16:47 EET [2016/01/22 13:16:47 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1630 in chips) 
+Seat 2: krisQ7 (1370 in chips) 
+krisQ7: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [9h Jd]
+krisQ7: raises 40 to 80
+GraveleverX: calls 40
+*** FLOP *** [Jh 7c 5d]
+GraveleverX: checks 
+krisQ7: bets 80
+GraveleverX: calls 80
+*** TURN *** [Jh 7c 5d] [8s]
+GraveleverX: checks 
+krisQ7: bets 160
+GraveleverX: raises 200 to 360
+krisQ7: folds 
+Uncalled bet (200) returned to GraveleverX
+GraveleverX collected 640 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Jh 7c 5d 8s]
+Seat 1: GraveleverX (big blind) collected (640)
+Seat 2: krisQ7 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #147488674279: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:17:22 EET [2016/01/22 13:17:22 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1950 in chips) 
+Seat 2: krisQ7 (1050 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [8d Ad]
+GraveleverX: raises 50 to 100
+krisQ7: raises 150 to 250
+GraveleverX: folds 
+Uncalled bet (150) returned to krisQ7
+krisQ7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (200)
+
+
+
+PokerStars Hand #147488694621: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:17:42 EET [2016/01/22 13:17:42 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1850 in chips) 
+Seat 2: krisQ7 (1150 in chips) 
+krisQ7: posts small blind 25
+GraveleverX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c Tc]
+krisQ7: folds 
+Uncalled bet (25) returned to GraveleverX
+GraveleverX collected 50 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (50)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488700034: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:17:47 EET [2016/01/22 13:17:47 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1875 in chips) 
+Seat 2: krisQ7 (1125 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ah Jh]
+GraveleverX: raises 50 to 100
+krisQ7: folds 
+Uncalled bet (50) returned to GraveleverX
+GraveleverX collected 100 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (100)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147488708806: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:17:56 EET [2016/01/22 13:17:56 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1925 in chips) 
+Seat 2: krisQ7 (1075 in chips) 
+krisQ7: posts small blind 25
+GraveleverX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh 2h]
+krisQ7: raises 50 to 100
+GraveleverX: folds 
+Uncalled bet (50) returned to krisQ7
+krisQ7 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #147488715729: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:03 EET [2016/01/22 13:18:03 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1875 in chips) 
+Seat 2: krisQ7 (1125 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h 8c]
+GraveleverX: folds 
+Uncalled bet (25) returned to krisQ7
+krisQ7 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (50)
+
+
+
+PokerStars Hand #147488721146: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:09 EET [2016/01/22 13:18:09 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1850 in chips) 
+Seat 2: krisQ7 (1150 in chips) 
+krisQ7: posts small blind 25
+GraveleverX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s Ah]
+krisQ7: raises 50 to 100
+GraveleverX: raises 150 to 250
+krisQ7: folds 
+Uncalled bet (150) returned to GraveleverX
+GraveleverX collected 200 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (200)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488731202: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:19 EET [2016/01/22 13:18:19 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1950 in chips) 
+Seat 2: krisQ7 (1050 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kd 8d]
+GraveleverX: raises 50 to 100
+krisQ7: folds 
+Uncalled bet (50) returned to GraveleverX
+GraveleverX collected 100 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (100)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147488738139: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:26 EET [2016/01/22 13:18:26 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2000 in chips) 
+Seat 2: krisQ7 (1000 in chips) 
+krisQ7: posts small blind 25
+GraveleverX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [8s Ah]
+krisQ7: folds 
+Uncalled bet (25) returned to GraveleverX
+GraveleverX collected 50 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (50)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488743427: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:31 EET [2016/01/22 13:18:31 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2025 in chips) 
+Seat 2: krisQ7 (975 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh 4c]
+GraveleverX: folds 
+Uncalled bet (25) returned to krisQ7
+krisQ7 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (50)
+
+
+
+PokerStars Hand #147488749564: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:37 EET [2016/01/22 13:18:37 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2000 in chips) 
+Seat 2: krisQ7 (1000 in chips) 
+krisQ7: posts small blind 25
+GraveleverX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h 9s]
+krisQ7: raises 50 to 100
+GraveleverX: folds 
+Uncalled bet (50) returned to krisQ7
+krisQ7 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #147488760142: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:48 EET [2016/01/22 13:18:48 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1950 in chips) 
+Seat 2: krisQ7 (1050 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [6d Ts]
+GraveleverX: folds 
+Uncalled bet (25) returned to krisQ7
+krisQ7 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (50)
+
+
+
+PokerStars Hand #147488766066: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:18:54 EET [2016/01/22 13:18:54 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1925 in chips) 
+Seat 2: krisQ7 (1075 in chips) 
+krisQ7: posts small blind 25
+GraveleverX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ks 9h]
+krisQ7: raises 50 to 100
+GraveleverX: calls 50
+*** FLOP *** [3s 5d 8s]
+GraveleverX: bets 100
+krisQ7: raises 180 to 280
+GraveleverX: folds 
+Uncalled bet (180) returned to krisQ7
+krisQ7 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [3s 5d 8s]
+Seat 1: GraveleverX (big blind) folded on the Flop
+Seat 2: krisQ7 (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #147488790955: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:19:19 EET [2016/01/22 13:19:19 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1725 in chips) 
+Seat 2: krisQ7 (1275 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [2s 3s]
+GraveleverX: folds 
+Uncalled bet (25) returned to krisQ7
+krisQ7 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (50)
+
+
+
+PokerStars Hand #147488797222: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:19:26 EET [2016/01/22 13:19:26 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1700 in chips) 
+Seat 2: krisQ7 (1300 in chips) 
+krisQ7: posts small blind 25
+GraveleverX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Js Qs]
+krisQ7: folds 
+Uncalled bet (25) returned to GraveleverX
+GraveleverX collected 50 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (50)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488802511: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/22 20:19:31 EET [2016/01/22 13:19:31 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1725 in chips) 
+Seat 2: krisQ7 (1275 in chips) 
+GraveleverX: posts small blind 25
+krisQ7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh Ad]
+GraveleverX: raises 50 to 100
+krisQ7: raises 150 to 250
+GraveleverX: raises 300 to 550
+krisQ7: calls 300
+*** FLOP *** [3c Ah 5d]
+krisQ7: checks 
+GraveleverX: checks 
+*** TURN *** [3c Ah 5d] [Qd]
+krisQ7: checks 
+GraveleverX: bets 400
+krisQ7: folds 
+Uncalled bet (400) returned to GraveleverX
+GraveleverX collected 1100 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [3c Ah 5d Qd]
+Seat 1: GraveleverX (button) (small blind) collected (1100)
+Seat 2: krisQ7 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #147488845344: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:20:15 EET [2016/01/22 13:20:15 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2275 in chips) 
+Seat 2: krisQ7 (725 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs 8s]
+krisQ7: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (60)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488850176: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:20:20 EET [2016/01/22 13:20:20 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2305 in chips) 
+Seat 2: krisQ7 (695 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc 2c]
+GraveleverX: folds 
+Uncalled bet (30) returned to krisQ7
+krisQ7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (60)
+
+
+
+PokerStars Hand #147488858877: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:20:29 EET [2016/01/22 13:20:29 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2275 in chips) 
+Seat 2: krisQ7 (725 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h Jd]
+krisQ7: calls 30
+GraveleverX: raises 60 to 120
+krisQ7: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (120)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488871917: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:20:42 EET [2016/01/22 13:20:42 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2335 in chips) 
+Seat 2: krisQ7 (665 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [7c 9d]
+GraveleverX: folds 
+Uncalled bet (30) returned to krisQ7
+krisQ7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (60)
+
+
+
+PokerStars Hand #147488878321: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:20:49 EET [2016/01/22 13:20:49 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2305 in chips) 
+Seat 2: krisQ7 (695 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [2s 3c]
+krisQ7: raises 635 to 695 and is all-in
+GraveleverX: folds 
+Uncalled bet (635) returned to krisQ7
+krisQ7 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #147488886549: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:20:57 EET [2016/01/22 13:20:57 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2245 in chips) 
+Seat 2: krisQ7 (755 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc 2s]
+GraveleverX: folds 
+Uncalled bet (30) returned to krisQ7
+krisQ7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (60)
+
+
+
+PokerStars Hand #147488891896: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:21:02 EET [2016/01/22 13:21:02 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2215 in chips) 
+Seat 2: krisQ7 (785 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h Td]
+krisQ7: raises 60 to 120
+GraveleverX: calls 60
+*** FLOP *** [8c 5c 3d]
+GraveleverX: bets 120
+krisQ7: calls 120
+*** TURN *** [8c 5c 3d] [Qh]
+GraveleverX: checks 
+krisQ7: checks 
+*** RIVER *** [8c 5c 3d Qh] [9s]
+GraveleverX: bets 240
+krisQ7: raises 305 to 545 and is all-in
+GraveleverX: folds 
+Uncalled bet (305) returned to krisQ7
+krisQ7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [8c 5c 3d Qh 9s]
+Seat 1: GraveleverX (big blind) folded on the River
+Seat 2: krisQ7 (button) (small blind) collected (960)
+
+
+
+PokerStars Hand #147488927305: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:21:38 EET [2016/01/22 13:21:38 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1735 in chips) 
+Seat 2: krisQ7 (1265 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc Kc]
+GraveleverX: raises 60 to 120
+krisQ7: calls 60
+*** FLOP *** [Qh Qs 5d]
+krisQ7: checks 
+GraveleverX: checks 
+*** TURN *** [Qh Qs 5d] [4h]
+krisQ7: bets 110
+GraveleverX: calls 110
+*** RIVER *** [Qh Qs 5d 4h] [Ts]
+krisQ7: bets 250
+GraveleverX: calls 250
+*** SHOW DOWN ***
+krisQ7: shows [Ad 8h] (a pair of Queens)
+GraveleverX: mucks hand 
+krisQ7 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Qh Qs 5d 4h Ts]
+Seat 1: GraveleverX (button) (small blind) mucked [Jc Kc]
+Seat 2: krisQ7 (big blind) showed [Ad 8h] and won (960) with a pair of Queens
+
+
+
+PokerStars Hand #147488949348: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:22:01 EET [2016/01/22 13:22:01 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1255 in chips) 
+Seat 2: krisQ7 (1745 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s Th]
+krisQ7: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (60)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488955359: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:22:07 EET [2016/01/22 13:22:07 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1285 in chips) 
+Seat 2: krisQ7 (1715 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [4c 3d]
+GraveleverX: folds 
+Uncalled bet (30) returned to krisQ7
+krisQ7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (60)
+
+
+
+PokerStars Hand #147488960484: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:22:12 EET [2016/01/22 13:22:12 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1255 in chips) 
+Seat 2: krisQ7 (1745 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [8s Jd]
+krisQ7: raises 60 to 120
+GraveleverX: calls 60
+*** FLOP *** [9h 6s 3c]
+GraveleverX: checks 
+krisQ7: bets 120
+GraveleverX: folds 
+Uncalled bet (120) returned to krisQ7
+krisQ7 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h 6s 3c]
+Seat 1: GraveleverX (big blind) folded on the Flop
+Seat 2: krisQ7 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #147488972690: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:22:25 EET [2016/01/22 13:22:25 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1135 in chips) 
+Seat 2: krisQ7 (1865 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc Kc]
+GraveleverX: raises 60 to 120
+krisQ7: calls 60
+*** FLOP *** [Kh Ad 2s]
+krisQ7: checks 
+GraveleverX: bets 120
+krisQ7: folds 
+Uncalled bet (120) returned to GraveleverX
+GraveleverX collected 240 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kh Ad 2s]
+Seat 1: GraveleverX (button) (small blind) collected (240)
+Seat 2: krisQ7 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147488985249: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:22:38 EET [2016/01/22 13:22:38 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1255 in chips) 
+Seat 2: krisQ7 (1745 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ks 6h]
+krisQ7: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (60)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147488990203: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:22:43 EET [2016/01/22 13:22:43 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1285 in chips) 
+Seat 2: krisQ7 (1715 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [4d Qs]
+GraveleverX: raises 60 to 120
+krisQ7: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (120)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147488997218: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:22:50 EET [2016/01/22 13:22:50 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1345 in chips) 
+Seat 2: krisQ7 (1655 in chips) 
+krisQ7: posts small blind 30
+GraveleverX: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [As 3h]
+krisQ7: raises 60 to 120
+GraveleverX: raises 120 to 240
+krisQ7: folds 
+Uncalled bet (120) returned to GraveleverX
+GraveleverX collected 240 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (240)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147489007584: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2016/01/22 20:23:01 EET [2016/01/22 13:23:01 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1465 in chips) 
+Seat 2: krisQ7 (1535 in chips) 
+GraveleverX: posts small blind 30
+krisQ7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c 4h]
+GraveleverX: folds 
+Uncalled bet (30) returned to krisQ7
+krisQ7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (60)
+
+
+
+PokerStars Hand #147489017792: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:23:11 EET [2016/01/22 13:23:11 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1435 in chips) 
+Seat 2: krisQ7 (1565 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [5s 9s]
+krisQ7: raises 80 to 160
+GraveleverX: folds 
+Uncalled bet (80) returned to krisQ7
+krisQ7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #147489025728: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:23:19 EET [2016/01/22 13:23:19 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1355 in chips) 
+Seat 2: krisQ7 (1645 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s 7h]
+GraveleverX: folds 
+Uncalled bet (40) returned to krisQ7
+krisQ7 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (80)
+
+
+
+PokerStars Hand #147489031545: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:23:25 EET [2016/01/22 13:23:25 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1315 in chips) 
+Seat 2: krisQ7 (1685 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [3d 5d]
+krisQ7: raises 80 to 160
+GraveleverX: folds 
+Uncalled bet (80) returned to krisQ7
+krisQ7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #147489039736: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:23:33 EET [2016/01/22 13:23:33 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1235 in chips) 
+Seat 2: krisQ7 (1765 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [2d Kh]
+GraveleverX: raises 80 to 160
+krisQ7: folds 
+Uncalled bet (80) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (160)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147489046476: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:23:40 EET [2016/01/22 13:23:40 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1315 in chips) 
+Seat 2: krisQ7 (1685 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th Qh]
+krisQ7: raises 80 to 160
+GraveleverX: calls 80
+*** FLOP *** [3d Ac 8s]
+GraveleverX: checks 
+krisQ7: bets 160
+GraveleverX: calls 160
+*** TURN *** [3d Ac 8s] [6h]
+GraveleverX: checks 
+krisQ7: checks 
+*** RIVER *** [3d Ac 8s 6h] [5d]
+GraveleverX: checks 
+krisQ7: checks 
+*** SHOW DOWN ***
+GraveleverX: shows [Th Qh] (high card Ace)
+krisQ7: shows [Kc Ts] (high card Ace - King kicker)
+krisQ7 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [3d Ac 8s 6h 5d]
+Seat 1: GraveleverX (big blind) showed [Th Qh] and lost with high card Ace
+Seat 2: krisQ7 (button) (small blind) showed [Kc Ts] and won (640) with high card Ace
+
+
+
+PokerStars Hand #147489066297: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:24:01 EET [2016/01/22 13:24:01 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (995 in chips) 
+Seat 2: krisQ7 (2005 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [6c 6s]
+GraveleverX: raises 80 to 160
+krisQ7: folds 
+Uncalled bet (80) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (160)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147489073739: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:24:08 EET [2016/01/22 13:24:08 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1075 in chips) 
+Seat 2: krisQ7 (1925 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [3c Qh]
+krisQ7: calls 40
+GraveleverX: checks 
+*** FLOP *** [9h 4s 6c]
+GraveleverX: checks 
+krisQ7: bets 80
+GraveleverX: folds 
+Uncalled bet (80) returned to krisQ7
+krisQ7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9h 4s 6c]
+Seat 1: GraveleverX (big blind) folded on the Flop
+Seat 2: krisQ7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #147489091920: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:24:27 EET [2016/01/22 13:24:27 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (995 in chips) 
+Seat 2: krisQ7 (2005 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [2d 2h]
+GraveleverX: raises 80 to 160
+krisQ7: folds 
+Uncalled bet (80) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (160)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147489099255: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:24:34 EET [2016/01/22 13:24:34 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1075 in chips) 
+Seat 2: krisQ7 (1925 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc Kh]
+krisQ7: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (80)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147489104027: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:24:39 EET [2016/01/22 13:24:39 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1115 in chips) 
+Seat 2: krisQ7 (1885 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [7c Qh]
+GraveleverX: raises 80 to 160
+krisQ7: folds 
+Uncalled bet (80) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (160)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147489110573: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:24:46 EET [2016/01/22 13:24:46 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1195 in chips) 
+Seat 2: krisQ7 (1805 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h 6h]
+krisQ7: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (80)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147489115495: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:24:51 EET [2016/01/22 13:24:51 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1235 in chips) 
+Seat 2: krisQ7 (1765 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h 8c]
+GraveleverX: raises 80 to 160
+krisQ7: raises 1605 to 1765 and is all-in
+GraveleverX: folds 
+Uncalled bet (1605) returned to krisQ7
+krisQ7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (320)
+
+
+
+PokerStars Hand #147489126154: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:25:02 EET [2016/01/22 13:25:02 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1075 in chips) 
+Seat 2: krisQ7 (1925 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ah 3c]
+krisQ7: raises 1845 to 1925 and is all-in
+GraveleverX: folds 
+Uncalled bet (1845) returned to krisQ7
+krisQ7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #147489134354: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:25:10 EET [2016/01/22 13:25:10 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (995 in chips) 
+Seat 2: krisQ7 (2005 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [7d 9h]
+GraveleverX: calls 40
+krisQ7: checks 
+*** FLOP *** [Tc 2h Th]
+krisQ7: checks 
+GraveleverX: checks 
+*** TURN *** [Tc 2h Th] [Ts]
+krisQ7: checks 
+GraveleverX: bets 80
+krisQ7: raises 160 to 240
+GraveleverX: folds 
+Uncalled bet (160) returned to krisQ7
+krisQ7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Tc 2h Th Ts]
+Seat 1: GraveleverX (button) (small blind) folded on the Turn
+Seat 2: krisQ7 (big blind) collected (320)
+
+
+
+PokerStars Hand #147489159169: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:25:36 EET [2016/01/22 13:25:36 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (835 in chips) 
+Seat 2: krisQ7 (2165 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s 2c]
+krisQ7: raises 80 to 160
+GraveleverX: folds 
+Uncalled bet (80) returned to krisQ7
+krisQ7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #147489168130: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:25:45 EET [2016/01/22 13:25:45 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (755 in chips) 
+Seat 2: krisQ7 (2245 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [Td Tc]
+GraveleverX: raises 80 to 160
+krisQ7: folds 
+Uncalled bet (80) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (160)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147489175284: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:25:52 EET [2016/01/22 13:25:52 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (835 in chips) 
+Seat 2: krisQ7 (2165 in chips) 
+krisQ7: posts small blind 40
+GraveleverX: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h 4d]
+krisQ7: raises 80 to 160
+GraveleverX: folds 
+Uncalled bet (80) returned to krisQ7
+krisQ7 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #147489183047: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2016/01/22 20:26:00 EET [2016/01/22 13:26:00 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (755 in chips) 
+Seat 2: krisQ7 (2245 in chips) 
+GraveleverX: posts small blind 40
+krisQ7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s Jc]
+GraveleverX: raises 80 to 160
+krisQ7: raises 2085 to 2245 and is all-in
+GraveleverX: folds 
+Uncalled bet (2085) returned to krisQ7
+krisQ7 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (320)
+
+
+
+PokerStars Hand #147489197202: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:26:15 EET [2016/01/22 13:26:15 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (595 in chips) 
+Seat 2: krisQ7 (2405 in chips) 
+krisQ7: posts small blind 50
+GraveleverX: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 5s]
+krisQ7: raises 2305 to 2405 and is all-in
+GraveleverX: folds 
+Uncalled bet (2305) returned to krisQ7
+krisQ7 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: krisQ7 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #147489206913: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:26:25 EET [2016/01/22 13:26:25 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (495 in chips) 
+Seat 2: krisQ7 (2505 in chips) 
+GraveleverX: posts small blind 50
+krisQ7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [6d As]
+GraveleverX: raises 100 to 200
+krisQ7: folds 
+Uncalled bet (100) returned to GraveleverX
+GraveleverX collected 200 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (200)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147489216324: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:26:34 EET [2016/01/22 13:26:34 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (595 in chips) 
+Seat 2: krisQ7 (2405 in chips) 
+krisQ7: posts small blind 50
+GraveleverX: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [8d Jh]
+krisQ7: folds 
+Uncalled bet (50) returned to GraveleverX
+GraveleverX collected 100 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (100)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147489221352: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:26:40 EET [2016/01/22 13:26:40 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (645 in chips) 
+Seat 2: krisQ7 (2355 in chips) 
+GraveleverX: posts small blind 50
+krisQ7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [As Td]
+GraveleverX: raises 200 to 300
+krisQ7: folds 
+Uncalled bet (200) returned to GraveleverX
+GraveleverX collected 200 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (200)
+Seat 2: krisQ7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #147489231494: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:26:50 EET [2016/01/22 13:26:50 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (745 in chips) 
+Seat 2: krisQ7 (2255 in chips) 
+krisQ7: posts small blind 50
+GraveleverX: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh Th]
+krisQ7: raises 2155 to 2255 and is all-in
+GraveleverX: calls 645 and is all-in
+Uncalled bet (1510) returned to krisQ7
+*** FLOP *** [4s Ad Js]
+*** TURN *** [4s Ad Js] [Ah]
+*** RIVER *** [4s Ad Js Ah] [5s]
+*** SHOW DOWN ***
+GraveleverX: shows [Jh Th] (two pair, Aces and Jacks)
+krisQ7: shows [Qh Ks] (a pair of Aces)
+GraveleverX collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [4s Ad Js Ah 5s]
+Seat 1: GraveleverX (big blind) showed [Jh Th] and won (1490) with two pair, Aces and Jacks
+Seat 2: krisQ7 (button) (small blind) showed [Qh Ks] and lost with a pair of Aces
+
+
+
+PokerStars Hand #147489245590: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:27:05 EET [2016/01/22 13:27:05 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1490 in chips) 
+Seat 2: krisQ7 (1510 in chips) 
+GraveleverX: posts small blind 50
+krisQ7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qh 2s]
+GraveleverX: folds 
+Uncalled bet (50) returned to krisQ7
+krisQ7 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: krisQ7 (big blind) collected (100)
+
+
+
+PokerStars Hand #147489253121: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:27:12 EET [2016/01/22 13:27:12 ET]
+Table '1452844869 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1440 in chips) 
+Seat 2: krisQ7 (1560 in chips) 
+krisQ7: posts small blind 50
+GraveleverX: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [5c 4c]
+krisQ7: folds 
+Uncalled bet (50) returned to GraveleverX
+GraveleverX collected 100 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (100)
+Seat 2: krisQ7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147489259190: Tournament #1452844869, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2016/01/22 20:27:19 EET [2016/01/22 13:27:19 ET]
+Table '1452844869 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1490 in chips) 
+Seat 2: krisQ7 (1510 in chips) 
+GraveleverX: posts small blind 50
+krisQ7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to GraveleverX [Tc Ts]
+GraveleverX: raises 100 to 200
+krisQ7: raises 1310 to 1510 and is all-in
+GraveleverX: calls 1290 and is all-in
+Uncalled bet (20) returned to krisQ7
+*** FLOP *** [7d 5s Qd]
+*** TURN *** [7d 5s Qd] [Qh]
+*** RIVER *** [7d 5s Qd Qh] [Ad]
+*** SHOW DOWN ***
+krisQ7: shows [8s Ah] (two pair, Aces and Queens)
+GraveleverX: shows [Tc Ts] (two pair, Queens and Tens)
+krisQ7 collected 2980 from pot
+GraveleverX finished the tournament in 2nd place
+krisQ7 wins the tournament and receives $2.80 - congratulations!
+*** SUMMARY ***
+Total pot 2980 | Rake 0 
+Board [7d 5s Qd Qh Ad]
+Seat 1: GraveleverX (button) (small blind) showed [Tc Ts] and lost with two pair, Queens and Tens
+Seat 2: krisQ7 (big blind) showed [8s Ah] and won (2980) with two pair, Aces and Queens
+
+
+

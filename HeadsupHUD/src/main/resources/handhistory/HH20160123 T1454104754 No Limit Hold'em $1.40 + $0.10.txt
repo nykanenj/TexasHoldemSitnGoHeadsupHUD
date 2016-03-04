@@ -1,0 +1,848 @@
+﻿PokerStars Hand #147553008368: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:02:21 EET [2016/01/23 15:02:21 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+redy12345: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s 3s]
+redy12345: raises 40 to 60
+GraveleverX: folds 
+Uncalled bet (40) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553020608: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:02:33 EET [2016/01/23 15:02:33 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1520 in chips) 
+Seat 2: GraveleverX (1480 in chips) 
+GraveleverX: posts small blind 10
+redy12345: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qd 4d]
+GraveleverX: folds 
+Uncalled bet (10) returned to redy12345
+redy12345 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: redy12345 (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553027076: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:02:38 EET [2016/01/23 15:02:38 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1530 in chips) 
+Seat 2: GraveleverX (1470 in chips) 
+redy12345: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc 6h]
+redy12345: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553036519: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:02:48 EET [2016/01/23 15:02:48 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1550 in chips) 
+Seat 2: GraveleverX (1450 in chips) 
+GraveleverX: posts small blind 10
+redy12345: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4d Qh]
+GraveleverX: folds 
+Uncalled bet (10) returned to redy12345
+redy12345 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: redy12345 (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553041862: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:02:53 EET [2016/01/23 15:02:53 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1560 in chips) 
+Seat 2: GraveleverX (1440 in chips) 
+redy12345: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [9d Js]
+redy12345: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: redy12345 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147553051265: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:03:02 EET [2016/01/23 15:03:02 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1550 in chips) 
+Seat 2: GraveleverX (1450 in chips) 
+GraveleverX: posts small blind 10
+redy12345: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kh 9d]
+GraveleverX: raises 20 to 40
+redy12345: raises 80 to 120
+GraveleverX: folds 
+Uncalled bet (80) returned to redy12345
+redy12345 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: redy12345 (big blind) collected (80)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553065038: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:03:16 EET [2016/01/23 15:03:16 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1590 in chips) 
+Seat 2: GraveleverX (1410 in chips) 
+redy12345: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h Jh]
+redy12345: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553080401: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:03:30 EET [2016/01/23 15:03:30 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1610 in chips) 
+Seat 2: GraveleverX (1390 in chips) 
+GraveleverX: posts small blind 10
+redy12345: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc Ah]
+GraveleverX: raises 20 to 40
+redy12345: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147553092243: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:03:42 EET [2016/01/23 15:03:42 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1590 in chips) 
+Seat 2: GraveleverX (1410 in chips) 
+redy12345: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc 2d]
+redy12345: raises 40 to 60
+GraveleverX: folds 
+Uncalled bet (40) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553104315: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:03:53 EET [2016/01/23 15:03:53 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1610 in chips) 
+Seat 2: GraveleverX (1390 in chips) 
+GraveleverX: posts small blind 10
+redy12345: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts Kc]
+GraveleverX: raises 20 to 40
+redy12345: calls 20
+*** FLOP *** [2s 9c 3h]
+redy12345: checks 
+GraveleverX: checks 
+*** TURN *** [2s 9c 3h] [5h]
+redy12345: bets 40
+GraveleverX: folds 
+Uncalled bet (40) returned to redy12345
+redy12345 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 9c 3h 5h]
+Seat 1: redy12345 (big blind) collected (80)
+Seat 2: GraveleverX (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #147553132996: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:04:20 EET [2016/01/23 15:04:20 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1650 in chips) 
+Seat 2: GraveleverX (1350 in chips) 
+redy12345: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Tc Qc]
+redy12345: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: redy12345 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147553140278: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:04:26 EET [2016/01/23 15:04:26 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1640 in chips) 
+Seat 2: GraveleverX (1360 in chips) 
+GraveleverX: posts small blind 10
+redy12345: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ah Td]
+GraveleverX: raises 20 to 40
+redy12345: calls 20
+*** FLOP *** [6d Jc 9d]
+redy12345: checks 
+GraveleverX: bets 40
+redy12345: calls 40
+*** TURN *** [6d Jc 9d] [2s]
+redy12345: checks 
+GraveleverX: bets 80
+redy12345: folds 
+Uncalled bet (80) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d Jc 9d 2s]
+Seat 1: redy12345 (big blind) folded on the Turn
+Seat 2: GraveleverX (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #147553195179: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 22:05:18 EET [2016/01/23 15:05:18 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1560 in chips) 
+Seat 2: GraveleverX (1440 in chips) 
+redy12345: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8d 6h]
+redy12345: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553209743: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:05:32 EET [2016/01/23 15:05:32 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1580 in chips) 
+Seat 2: GraveleverX (1420 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3h Jh]
+GraveleverX: folds 
+Uncalled bet (15) returned to redy12345
+redy12345 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: redy12345 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553216218: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:05:38 EET [2016/01/23 15:05:38 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1595 in chips) 
+Seat 2: GraveleverX (1405 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9d Ah]
+redy12345: raises 30 to 60
+GraveleverX: raises 60 to 120
+redy12345: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: redy12345 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (120)
+
+
+
+PokerStars Hand #147553231640: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:05:53 EET [2016/01/23 15:05:53 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1535 in chips) 
+Seat 2: GraveleverX (1465 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4c 2c]
+GraveleverX: folds 
+Uncalled bet (15) returned to redy12345
+redy12345 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: redy12345 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553238963: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:06:00 EET [2016/01/23 15:06:00 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1550 in chips) 
+Seat 2: GraveleverX (1450 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [2c 4c]
+redy12345: raises 60 to 90
+GraveleverX: folds 
+Uncalled bet (60) returned to redy12345
+redy12345 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553249429: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:06:09 EET [2016/01/23 15:06:09 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1580 in chips) 
+Seat 2: GraveleverX (1420 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3h 7h]
+GraveleverX: folds 
+Uncalled bet (15) returned to redy12345
+redy12345 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: redy12345 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553256104: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:06:16 EET [2016/01/23 15:06:16 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1595 in chips) 
+Seat 2: GraveleverX (1405 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kc Ac]
+redy12345: raises 30 to 60
+GraveleverX: raises 60 to 120
+redy12345: calls 60
+*** FLOP *** [As 3h 8h]
+GraveleverX: bets 120
+redy12345: folds 
+Uncalled bet (120) returned to GraveleverX
+GraveleverX collected 240 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [As 3h 8h]
+Seat 1: redy12345 (button) (small blind) folded on the Flop
+Seat 2: GraveleverX (big blind) collected (240)
+
+
+
+PokerStars Hand #147553284374: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:06:42 EET [2016/01/23 15:06:42 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1475 in chips) 
+Seat 2: GraveleverX (1525 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kd Jh]
+GraveleverX: raises 30 to 60
+redy12345: calls 30
+*** FLOP *** [3s 9h Qd]
+redy12345: checks 
+GraveleverX: bets 60
+redy12345: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s 9h Qd]
+Seat 1: redy12345 (big blind) folded on the Flop
+Seat 2: GraveleverX (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #147553317337: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:07:13 EET [2016/01/23 15:07:13 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1415 in chips) 
+Seat 2: GraveleverX (1585 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s Jh]
+redy12345: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to redy12345
+redy12345 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553330734: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:07:26 EET [2016/01/23 15:07:26 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1445 in chips) 
+Seat 2: GraveleverX (1555 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Td 5d]
+GraveleverX: folds 
+Uncalled bet (15) returned to redy12345
+redy12345 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: redy12345 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553337219: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:07:32 EET [2016/01/23 15:07:32 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1460 in chips) 
+Seat 2: GraveleverX (1540 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [2d 4c]
+redy12345: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to redy12345
+redy12345 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553350935: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:07:45 EET [2016/01/23 15:07:45 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kc 6c]
+GraveleverX: raises 30 to 60
+redy12345: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: redy12345 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147553360286: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:07:54 EET [2016/01/23 15:07:54 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1460 in chips) 
+Seat 2: GraveleverX (1540 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc Ks]
+redy12345: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: redy12345 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147553367291: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:08:00 EET [2016/01/23 15:08:00 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1445 in chips) 
+Seat 2: GraveleverX (1555 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [5d Jh]
+GraveleverX: folds 
+Uncalled bet (15) returned to redy12345
+redy12345 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: redy12345 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553373454: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:08:06 EET [2016/01/23 15:08:06 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1460 in chips) 
+Seat 2: GraveleverX (1540 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [7c Jc]
+redy12345: raises 60 to 90
+GraveleverX: folds 
+Uncalled bet (60) returned to redy12345
+redy12345 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553384618: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:08:17 EET [2016/01/23 15:08:17 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 15
+redy12345: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3d Th]
+GraveleverX: folds 
+Uncalled bet (15) returned to redy12345
+redy12345 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: redy12345 (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553390142: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:08:22 EET [2016/01/23 15:08:22 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1505 in chips) 
+Seat 2: GraveleverX (1495 in chips) 
+redy12345: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s Ac]
+redy12345: raises 30 to 60
+GraveleverX: raises 60 to 120
+redy12345: calls 60
+*** FLOP *** [5h 6c 7c]
+GraveleverX: bets 180
+redy12345: folds 
+Uncalled bet (180) returned to GraveleverX
+GraveleverX collected 240 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5h 6c 7c]
+Seat 1: redy12345 (button) (small blind) folded on the Flop
+Seat 2: GraveleverX (big blind) collected (240)
+
+
+
+PokerStars Hand #147553433135: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:09:03 EET [2016/01/23 15:09:03 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1385 in chips) 
+Seat 2: GraveleverX (1615 in chips) 
+GraveleverX: posts small blind 20
+redy12345: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [2s 6c]
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553438839: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:09:09 EET [2016/01/23 15:09:09 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1405 in chips) 
+Seat 2: GraveleverX (1595 in chips) 
+redy12345: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ah Qd]
+redy12345: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (40)
+
+
+
+PokerStars Hand #147553445697: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:09:15 EET [2016/01/23 15:09:15 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1385 in chips) 
+Seat 2: GraveleverX (1615 in chips) 
+GraveleverX: posts small blind 20
+redy12345: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ks 4h]
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553452213: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:09:21 EET [2016/01/23 15:09:21 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1405 in chips) 
+Seat 2: GraveleverX (1595 in chips) 
+redy12345: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th 5c]
+redy12345: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (40)
+
+
+
+PokerStars Hand #147553461363: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:09:30 EET [2016/01/23 15:09:30 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1385 in chips) 
+Seat 2: GraveleverX (1615 in chips) 
+GraveleverX: posts small blind 20
+redy12345: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s 9h]
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553467974: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:09:36 EET [2016/01/23 15:09:36 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1405 in chips) 
+Seat 2: GraveleverX (1595 in chips) 
+redy12345: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [2c Kd]
+redy12345: calls 20
+GraveleverX: checks 
+*** FLOP *** [5d Qs 6h]
+GraveleverX: checks 
+redy12345: bets 80
+GraveleverX: folds 
+Uncalled bet (80) returned to redy12345
+redy12345 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d Qs 6h]
+Seat 1: redy12345 (button) (small blind) collected (80)
+Seat 2: GraveleverX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147553489853: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:09:57 EET [2016/01/23 15:09:57 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1445 in chips) 
+Seat 2: GraveleverX (1555 in chips) 
+GraveleverX: posts small blind 20
+redy12345: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s 6d]
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553496165: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:10:03 EET [2016/01/23 15:10:03 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1465 in chips) 
+Seat 2: GraveleverX (1535 in chips) 
+redy12345: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [5s 7c]
+redy12345: raises 80 to 120
+GraveleverX: folds 
+Uncalled bet (80) returned to redy12345
+redy12345 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (80)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553512143: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:10:18 EET [2016/01/23 15:10:18 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1505 in chips) 
+Seat 2: GraveleverX (1495 in chips) 
+GraveleverX: posts small blind 20
+redy12345: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [3h 2c]
+GraveleverX: folds 
+Uncalled bet (20) returned to redy12345
+redy12345 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: redy12345 (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147553517727: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:10:24 EET [2016/01/23 15:10:24 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1525 in chips) 
+Seat 2: GraveleverX (1475 in chips) 
+redy12345: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h 7d]
+redy12345: raises 40 to 80
+GraveleverX: folds 
+Uncalled bet (40) returned to redy12345
+redy12345 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (80)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553530451: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:10:36 EET [2016/01/23 15:10:36 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1565 in chips) 
+Seat 2: GraveleverX (1435 in chips) 
+GraveleverX: posts small blind 20
+redy12345: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts 9c]
+GraveleverX: raises 40 to 80
+redy12345: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: redy12345 (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #147553539559: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/23 22:10:44 EET [2016/01/23 15:10:44 ET]
+Table '1454104754 1' 2-max Seat #1 is the button
+Seat 1: redy12345 (1525 in chips) 
+Seat 2: GraveleverX (1475 in chips) 
+redy12345: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [9d 9c]
+redy12345: raises 80 to 120
+GraveleverX: raises 120 to 240
+redy12345: raises 360 to 600
+GraveleverX: folds 
+Uncalled bet (360) returned to redy12345
+redy12345 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: redy12345 (button) (small blind) collected (480)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147553592013: Tournament #1454104754, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2016/01/23 22:11:34 EET [2016/01/23 15:11:34 ET]
+Table '1454104754 1' 2-max Seat #2 is the button
+Seat 1: redy12345 (1765 in chips) 
+Seat 2: GraveleverX (1235 in chips) 
+GraveleverX: posts small blind 25
+redy12345: posts big blind 50
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs Th]
+GraveleverX: raises 50 to 100
+redy12345: calls 50
+*** FLOP *** [9h 6c 7d]
+redy12345: bets 100
+GraveleverX: calls 100
+*** TURN *** [9h 6c 7d] [Qh]
+redy12345: bets 150
+GraveleverX: calls 150
+*** RIVER *** [9h 6c 7d Qh] [2h]
+redy12345: bets 1415 and is all-in
+GraveleverX: calls 885 and is all-in
+Uncalled bet (530) returned to redy12345
+*** SHOW DOWN ***
+redy12345: shows [5s 8s] (a straight, Five to Nine)
+GraveleverX: shows [Qs Th] (a pair of Queens)
+redy12345 collected 2470 from pot
+GraveleverX finished the tournament in 2nd place
+redy12345 wins the tournament and receives $2.80 - congratulations!
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Board [9h 6c 7d Qh 2h]
+Seat 1: redy12345 (big blind) showed [5s 8s] and won (2470) with a straight, Five to Nine
+Seat 2: GraveleverX (button) (small blind) showed [Qs Th] and lost with a pair of Queens
+
+
+

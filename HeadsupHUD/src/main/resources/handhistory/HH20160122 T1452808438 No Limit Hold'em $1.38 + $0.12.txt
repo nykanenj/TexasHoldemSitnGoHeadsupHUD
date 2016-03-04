@@ -1,0 +1,1463 @@
+﻿PokerStars Hand #147486287002: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:35:10 EET [2016/01/22 12:35:10 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ac Td]
+Molotoklk: raises 20 to 40
+GraveleverX: raises 40 to 80
+Molotoklk: calls 40
+*** FLOP *** [Jh 5h Qs]
+GraveleverX: bets 80
+Molotoklk: calls 80
+*** TURN *** [Jh 5h Qs] [3h]
+GraveleverX: checks 
+Molotoklk: bets 90
+GraveleverX: raises 90 to 180
+Molotoklk: calls 90
+*** RIVER *** [Jh 5h Qs 3h] [Ah]
+GraveleverX: bets 180
+Molotoklk: calls 180
+*** SHOW DOWN ***
+GraveleverX: shows [Ac Td] (a pair of Aces)
+Molotoklk: shows [As Jc] (two pair, Aces and Jacks)
+Molotoklk collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Jh 5h Qs 3h Ah]
+Seat 1: Molotoklk (button) (small blind) showed [As Jc] and won (1040) with two pair, Aces and Jacks
+Seat 2: GraveleverX (big blind) showed [Ac Td] and lost with a pair of Aces
+
+
+
+PokerStars Hand #147486334881: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:36:02 EET [2016/01/22 12:36:02 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2020 in chips) 
+Seat 2: GraveleverX (980 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kh Td]
+GraveleverX: raises 40 to 60
+Molotoklk: calls 40
+*** FLOP *** [3s Jd 2d]
+Molotoklk: checks 
+GraveleverX: bets 60
+Molotoklk: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s Jd 2d]
+Seat 1: Molotoklk (big blind) folded on the Flop
+Seat 2: GraveleverX (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #147486350230: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:36:19 EET [2016/01/22 12:36:19 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1960 in chips) 
+Seat 2: GraveleverX (1040 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh 9s]
+Molotoklk: calls 10
+GraveleverX: raises 40 to 60
+Molotoklk: calls 40
+*** FLOP *** [3s 4d 7d]
+GraveleverX: checks 
+Molotoklk: bets 120
+GraveleverX: folds 
+Uncalled bet (120) returned to Molotoklk
+Molotoklk collected 120 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s 4d 7d]
+Seat 1: Molotoklk (button) (small blind) collected (120)
+Seat 2: GraveleverX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147486369828: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:36:40 EET [2016/01/22 12:36:40 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2020 in chips) 
+Seat 2: GraveleverX (980 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Tc 2h]
+GraveleverX: folds 
+Uncalled bet (10) returned to Molotoklk
+Molotoklk collected 20 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486374798: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:36:46 EET [2016/01/22 12:36:46 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2030 in chips) 
+Seat 2: GraveleverX (970 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8d Qc]
+Molotoklk: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147486379653: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:36:51 EET [2016/01/22 12:36:51 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2020 in chips) 
+Seat 2: GraveleverX (980 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5d Ks]
+GraveleverX: raises 20 to 40
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147486385889: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:36:58 EET [2016/01/22 12:36:58 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2000 in chips) 
+Seat 2: GraveleverX (1000 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd 8c]
+Molotoklk: calls 10
+GraveleverX: checks 
+*** FLOP *** [Kc 6c 8h]
+GraveleverX: checks 
+Molotoklk: bets 40
+GraveleverX: calls 40
+*** TURN *** [Kc 6c 8h] [7h]
+GraveleverX: checks 
+Molotoklk: bets 60
+GraveleverX: calls 60
+*** RIVER *** [Kc 6c 8h 7h] [Ad]
+GraveleverX: checks 
+Molotoklk: bets 60
+GraveleverX: calls 60
+*** SHOW DOWN ***
+Molotoklk: shows [Kd 9d] (a pair of Kings)
+GraveleverX: mucks hand 
+Molotoklk collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Kc 6c 8h 7h Ad]
+Seat 1: Molotoklk (button) (small blind) showed [Kd 9d] and won (360) with a pair of Kings
+Seat 2: GraveleverX (big blind) mucked [Jd 8c]
+
+
+
+PokerStars Hand #147486411305: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:37:26 EET [2016/01/22 12:37:26 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2180 in chips) 
+Seat 2: GraveleverX (820 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Td Js]
+GraveleverX: raises 20 to 40
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147486419180: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:37:34 EET [2016/01/22 12:37:34 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2160 in chips) 
+Seat 2: GraveleverX (840 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h 8d]
+Molotoklk: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147486424053: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:37:39 EET [2016/01/22 12:37:39 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2150 in chips) 
+Seat 2: GraveleverX (850 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6c 5s]
+GraveleverX: raises 20 to 40
+Molotoklk: raises 120 to 160
+GraveleverX: folds 
+Uncalled bet (120) returned to Molotoklk
+Molotoklk collected 80 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (80)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486436631: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:37:53 EET [2016/01/22 12:37:53 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2190 in chips) 
+Seat 2: GraveleverX (810 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h 4h]
+Molotoklk: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147486441601: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:37:58 EET [2016/01/22 12:37:58 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2180 in chips) 
+Seat 2: GraveleverX (820 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3d 8d]
+GraveleverX: folds 
+Uncalled bet (10) returned to Molotoklk
+Molotoklk collected 20 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486446898: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:38:04 EET [2016/01/22 12:38:04 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2190 in chips) 
+Seat 2: GraveleverX (810 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ac 2d]
+Molotoklk: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147486451901: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:38:10 EET [2016/01/22 12:38:10 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2180 in chips) 
+Seat 2: GraveleverX (820 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qh 8d]
+GraveleverX: raises 20 to 40
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147486458863: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:38:17 EET [2016/01/22 12:38:17 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2160 in chips) 
+Seat 2: GraveleverX (840 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Tc 5s]
+Molotoklk: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147486463958: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:38:23 EET [2016/01/22 12:38:23 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2150 in chips) 
+Seat 2: GraveleverX (850 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad 2h]
+GraveleverX: raises 20 to 40
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147486470453: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:38:30 EET [2016/01/22 12:38:30 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2130 in chips) 
+Seat 2: GraveleverX (870 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s Kh]
+Molotoklk: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to Molotoklk
+Molotoklk collected 40 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147486477328: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:38:37 EET [2016/01/22 12:38:37 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2150 in chips) 
+Seat 2: GraveleverX (850 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7c Qs]
+GraveleverX: raises 20 to 40
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147486485791: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:38:47 EET [2016/01/22 12:38:47 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2130 in chips) 
+Seat 2: GraveleverX (870 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad Ts]
+Molotoklk: raises 20 to 40
+GraveleverX: raises 40 to 80
+Molotoklk: calls 40
+*** FLOP *** [3h 7s Tc]
+GraveleverX: bets 180
+Molotoklk: folds 
+Uncalled bet (180) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3h 7s Tc]
+Seat 1: Molotoklk (button) (small blind) folded on the Flop
+Seat 2: GraveleverX (big blind) collected (160)
+
+
+
+PokerStars Hand #147486502851: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:39:05 EET [2016/01/22 12:39:05 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2050 in chips) 
+Seat 2: GraveleverX (950 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kh 5h]
+GraveleverX: raises 20 to 40
+Molotoklk: raises 2010 to 2050 and is all-in
+GraveleverX: folds 
+Uncalled bet (2010) returned to Molotoklk
+Molotoklk collected 80 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (80)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486512206: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:39:16 EET [2016/01/22 12:39:16 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2090 in chips) 
+Seat 2: GraveleverX (910 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh 6h]
+Molotoklk: raises 20 to 40
+GraveleverX: calls 20
+*** FLOP *** [4c 7h 7d]
+GraveleverX: checks 
+Molotoklk: checks 
+*** TURN *** [4c 7h 7d] [6d]
+GraveleverX: bets 40
+Molotoklk: calls 40
+*** RIVER *** [4c 7h 7d 6d] [Qh]
+GraveleverX: checks 
+Molotoklk: bets 80
+GraveleverX: calls 80
+*** SHOW DOWN ***
+Molotoklk: shows [9h Qc] (two pair, Queens and Sevens)
+GraveleverX: mucks hand 
+Molotoklk collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4c 7h 7d 6d Qh]
+Seat 1: Molotoklk (button) (small blind) showed [9h Qc] and won (320) with two pair, Queens and Sevens
+Seat 2: GraveleverX (big blind) mucked [Jh 6h]
+
+
+
+PokerStars Hand #147486543926: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:39:50 EET [2016/01/22 12:39:50 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2250 in chips) 
+Seat 2: GraveleverX (750 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3c 6c]
+GraveleverX: folds 
+Uncalled bet (10) returned to Molotoklk
+Molotoklk collected 20 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486549137: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:39:56 EET [2016/01/22 12:39:56 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2260 in chips) 
+Seat 2: GraveleverX (740 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c 8h]
+Molotoklk: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147486554083: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:40:01 EET [2016/01/22 12:40:01 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2250 in chips) 
+Seat 2: GraveleverX (750 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2d 5h]
+GraveleverX: folds 
+Uncalled bet (10) returned to Molotoklk
+Molotoklk collected 20 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486559280: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:40:07 EET [2016/01/22 12:40:07 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2260 in chips) 
+Seat 2: GraveleverX (740 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts Kd]
+Molotoklk: calls 10
+GraveleverX: raises 20 to 40
+Molotoklk: calls 20
+*** FLOP *** [7d 2h Ac]
+GraveleverX: bets 40
+Molotoklk: raises 60 to 100
+GraveleverX: folds 
+Uncalled bet (60) returned to Molotoklk
+Molotoklk collected 160 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7d 2h Ac]
+Seat 1: Molotoklk (button) (small blind) collected (160)
+Seat 2: GraveleverX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147486580709: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:40:30 EET [2016/01/22 12:40:30 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2340 in chips) 
+Seat 2: GraveleverX (660 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs 4s]
+GraveleverX: raises 20 to 40
+Molotoklk: calls 20
+*** FLOP *** [4c Jd 7d]
+Molotoklk: checks 
+GraveleverX: bets 40
+Molotoklk: calls 40
+*** TURN *** [4c Jd 7d] [7h]
+Molotoklk: checks 
+GraveleverX: checks 
+*** RIVER *** [4c Jd 7d 7h] [Js]
+Molotoklk: checks 
+GraveleverX: checks 
+*** SHOW DOWN ***
+Molotoklk: shows [2h 2c] (two pair, Jacks and Sevens)
+GraveleverX: shows [Qs 4s] (two pair, Jacks and Sevens - Queen kicker)
+GraveleverX collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c Jd 7d 7h Js]
+Seat 1: Molotoklk (big blind) showed [2h 2c] and lost with two pair, Jacks and Sevens
+Seat 2: GraveleverX (button) (small blind) showed [Qs 4s] and won (160) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #147486601864: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:40:53 EET [2016/01/22 12:40:53 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2260 in chips) 
+Seat 2: GraveleverX (740 in chips) 
+Molotoklk: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h Tc]
+Molotoklk: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to Molotoklk
+Molotoklk collected 40 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147486608869: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/22 19:41:01 EET [2016/01/22 12:41:01 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (2280 in chips) 
+Seat 2: GraveleverX (720 in chips) 
+GraveleverX: posts small blind 10
+Molotoklk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s 8c]
+GraveleverX: raises 20 to 40
+Molotoklk: calls 20
+*** FLOP *** [8d 9d Qs]
+Molotoklk: checks 
+GraveleverX: bets 40
+Molotoklk: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 9d Qs]
+Seat 1: Molotoklk (big blind) folded on the Flop
+Seat 2: GraveleverX (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #147486627558: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:41:21 EET [2016/01/22 12:41:21 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (2240 in chips) 
+Seat 2: GraveleverX (760 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9h Ks]
+Molotoklk: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [5s 2c 7c]
+GraveleverX: checks 
+Molotoklk: checks 
+*** TURN *** [5s 2c 7c] [3c]
+GraveleverX: bets 60
+Molotoklk: raises 120 to 180
+GraveleverX: calls 120
+*** RIVER *** [5s 2c 7c 3c] [Kd]
+GraveleverX: checks 
+Molotoklk: bets 270
+GraveleverX: calls 270
+*** SHOW DOWN ***
+Molotoklk: shows [8d Qh] (high card King)
+GraveleverX: shows [9h Ks] (a pair of Kings)
+GraveleverX collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [5s 2c 7c 3c Kd]
+Seat 1: Molotoklk (button) (small blind) showed [8d Qh] and lost with high card King
+Seat 2: GraveleverX (big blind) showed [9h Ks] and won (1020) with a pair of Kings
+
+
+
+PokerStars Hand #147486657795: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:41:54 EET [2016/01/22 12:41:54 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1730 in chips) 
+Seat 2: GraveleverX (1270 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [5d 2s]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486665101: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:42:02 EET [2016/01/22 12:42:02 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1745 in chips) 
+Seat 2: GraveleverX (1255 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9h 7d]
+Molotoklk: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147486672465: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:42:09 EET [2016/01/22 12:42:09 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1730 in chips) 
+Seat 2: GraveleverX (1270 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h 8d]
+GraveleverX: raises 30 to 60
+Molotoklk: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147486679683: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:42:16 EET [2016/01/22 12:42:16 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1700 in chips) 
+Seat 2: GraveleverX (1300 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c Kh]
+Molotoklk: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [9h 8c 3c]
+GraveleverX: checks 
+Molotoklk: checks 
+*** TURN *** [9h 8c 3c] [Jd]
+GraveleverX: checks 
+Molotoklk: bets 60
+GraveleverX: calls 60
+*** RIVER *** [9h 8c 3c Jd] [7h]
+GraveleverX: checks 
+Molotoklk: checks 
+*** SHOW DOWN ***
+GraveleverX: shows [9c Kh] (a pair of Nines)
+Molotoklk: mucks hand 
+GraveleverX collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h 8c 3c Jd 7h]
+Seat 1: Molotoklk (button) (small blind) mucked [5h 8d]
+Seat 2: GraveleverX (big blind) showed [9c Kh] and won (240) with a pair of Nines
+
+
+
+PokerStars Hand #147486706296: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:42:45 EET [2016/01/22 12:42:45 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1580 in chips) 
+Seat 2: GraveleverX (1420 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd Qs]
+GraveleverX: raises 30 to 60
+Molotoklk: calls 30
+*** FLOP *** [5d Qd 8c]
+Molotoklk: checks 
+GraveleverX: bets 60
+Molotoklk: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d Qd 8c]
+Seat 1: Molotoklk (big blind) folded on the Flop
+Seat 2: GraveleverX (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #147486720539: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:43:01 EET [2016/01/22 12:43:01 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1520 in chips) 
+Seat 2: GraveleverX (1480 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts 8d]
+Molotoklk: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to Molotoklk
+Molotoklk collected 60 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147486729450: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:43:10 EET [2016/01/22 12:43:10 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1550 in chips) 
+Seat 2: GraveleverX (1450 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs 8h]
+GraveleverX: raises 30 to 60
+Molotoklk: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147486737026: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:43:18 EET [2016/01/22 12:43:18 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1520 in chips) 
+Seat 2: GraveleverX (1480 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6c Ac]
+Molotoklk: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [6s Ks 8c]
+GraveleverX: checks 
+Molotoklk: bets 60
+GraveleverX: calls 60
+*** TURN *** [6s Ks 8c] [4d]
+GraveleverX: checks 
+Molotoklk: bets 60
+GraveleverX: calls 60
+*** RIVER *** [6s Ks 8c 4d] [Ah]
+GraveleverX: bets 180
+Molotoklk: calls 180
+*** SHOW DOWN ***
+GraveleverX: shows [6c Ac] (two pair, Aces and Sixes)
+Molotoklk: mucks hand 
+GraveleverX collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [6s Ks 8c 4d Ah]
+Seat 1: Molotoklk (button) (small blind) mucked [8d Jh]
+Seat 2: GraveleverX (big blind) showed [6c Ac] and won (720) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #147486766947: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:43:50 EET [2016/01/22 12:43:50 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1160 in chips) 
+Seat 2: GraveleverX (1840 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4s 3s]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486782653: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:44:06 EET [2016/01/22 12:44:06 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1175 in chips) 
+Seat 2: GraveleverX (1825 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 8c]
+Molotoklk: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147486787338: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:44:11 EET [2016/01/22 12:44:11 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1160 in chips) 
+Seat 2: GraveleverX (1840 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs Tc]
+GraveleverX: raises 30 to 60
+Molotoklk: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147486794485: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:44:19 EET [2016/01/22 12:44:19 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1130 in chips) 
+Seat 2: GraveleverX (1870 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad As]
+Molotoklk: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [2s Kh Td]
+GraveleverX: checks 
+Molotoklk: bets 70
+GraveleverX: calls 70
+*** TURN *** [2s Kh Td] [4h]
+GraveleverX: checks 
+Molotoklk: bets 150
+GraveleverX: raises 210 to 360
+Molotoklk: folds 
+Uncalled bet (210) returned to GraveleverX
+GraveleverX collected 560 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [2s Kh Td 4h]
+Seat 1: Molotoklk (button) (small blind) folded on the Turn
+Seat 2: GraveleverX (big blind) collected (560)
+
+
+
+PokerStars Hand #147486830530: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:44:57 EET [2016/01/22 12:44:57 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (850 in chips) 
+Seat 2: GraveleverX (2150 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h Qc]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486839300: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:45:07 EET [2016/01/22 12:45:07 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (865 in chips) 
+Seat 2: GraveleverX (2135 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Tc 4s]
+Molotoklk: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to Molotoklk
+Molotoklk collected 60 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147486846290: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:45:14 EET [2016/01/22 12:45:14 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (895 in chips) 
+Seat 2: GraveleverX (2105 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs Jd]
+GraveleverX: raises 30 to 60
+Molotoklk: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147486853050: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:45:21 EET [2016/01/22 12:45:21 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (865 in chips) 
+Seat 2: GraveleverX (2135 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3h 5c]
+Molotoklk: calls 15
+GraveleverX: checks 
+*** FLOP *** [9d 2d 6c]
+GraveleverX: checks 
+Molotoklk: checks 
+*** TURN *** [9d 2d 6c] [As]
+GraveleverX: checks 
+Molotoklk: bets 30
+GraveleverX: folds 
+Uncalled bet (30) returned to Molotoklk
+Molotoklk collected 60 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d 2d 6c As]
+Seat 1: Molotoklk (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded on the Turn
+
+
+
+PokerStars Hand #147486871301: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:45:41 EET [2016/01/22 12:45:41 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (895 in chips) 
+Seat 2: GraveleverX (2105 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4c 7d]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486876584: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:45:46 EET [2016/01/22 12:45:46 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (910 in chips) 
+Seat 2: GraveleverX (2090 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [5d Td]
+Molotoklk: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147486881703: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:45:52 EET [2016/01/22 12:45:52 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (895 in chips) 
+Seat 2: GraveleverX (2105 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 8c]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486887150: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:45:57 EET [2016/01/22 12:45:57 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (910 in chips) 
+Seat 2: GraveleverX (2090 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s 4h]
+Molotoklk: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147486892052: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:46:03 EET [2016/01/22 12:46:03 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (895 in chips) 
+Seat 2: GraveleverX (2105 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs 5h]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486897333: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:46:09 EET [2016/01/22 12:46:09 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (910 in chips) 
+Seat 2: GraveleverX (2090 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kc Qs]
+Molotoklk: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147486902264: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:46:14 EET [2016/01/22 12:46:14 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (895 in chips) 
+Seat 2: GraveleverX (2105 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [2s 5c]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486907644: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:46:19 EET [2016/01/22 12:46:19 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (910 in chips) 
+Seat 2: GraveleverX (2090 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h Ad]
+Molotoklk: calls 15
+GraveleverX: checks 
+*** FLOP *** [7s 6h Tc]
+GraveleverX: checks 
+Molotoklk: bets 60
+GraveleverX: folds 
+Uncalled bet (60) returned to Molotoklk
+Molotoklk collected 60 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 6h Tc]
+Seat 1: Molotoklk (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147486921863: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:46:34 EET [2016/01/22 12:46:34 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (940 in chips) 
+Seat 2: GraveleverX (2060 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c 3s]
+GraveleverX: folds 
+Uncalled bet (15) returned to Molotoklk
+Molotoklk collected 30 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147486927270: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:46:40 EET [2016/01/22 12:46:40 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (955 in chips) 
+Seat 2: GraveleverX (2045 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s 5c]
+Molotoklk: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to Molotoklk
+Molotoklk collected 60 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147486939368: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:46:53 EET [2016/01/22 12:46:53 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (985 in chips) 
+Seat 2: GraveleverX (2015 in chips) 
+GraveleverX: posts small blind 15
+Molotoklk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts Ah]
+GraveleverX: raises 30 to 60
+Molotoklk: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147486948275: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/22 19:47:02 EET [2016/01/22 12:47:02 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (955 in chips) 
+Seat 2: GraveleverX (2045 in chips) 
+Molotoklk: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s 9h]
+Molotoklk: calls 15
+GraveleverX: checks 
+*** FLOP *** [7s 8h Kd]
+GraveleverX: checks 
+Molotoklk: bets 30
+GraveleverX: folds 
+Uncalled bet (30) returned to Molotoklk
+Molotoklk collected 60 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 8h Kd]
+Seat 1: Molotoklk (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147486968249: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:47:22 EET [2016/01/22 12:47:22 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (985 in chips) 
+Seat 2: GraveleverX (2015 in chips) 
+GraveleverX: posts small blind 20
+Molotoklk: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ac Ad]
+GraveleverX: raises 40 to 80
+Molotoklk: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #147486977266: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:47:32 EET [2016/01/22 12:47:32 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (945 in chips) 
+Seat 2: GraveleverX (2055 in chips) 
+Molotoklk: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh 8d]
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (40)
+
+
+
+PokerStars Hand #147486982624: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:47:37 EET [2016/01/22 12:47:37 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (925 in chips) 
+Seat 2: GraveleverX (2075 in chips) 
+GraveleverX: posts small blind 20
+Molotoklk: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [2c Kc]
+GraveleverX: raises 40 to 80
+Molotoklk: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Molotoklk (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #147486991126: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:47:46 EET [2016/01/22 12:47:46 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (885 in chips) 
+Seat 2: GraveleverX (2115 in chips) 
+Molotoklk: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc Kd]
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (40)
+
+
+
+PokerStars Hand #147486996267: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:47:51 EET [2016/01/22 12:47:51 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (865 in chips) 
+Seat 2: GraveleverX (2135 in chips) 
+GraveleverX: posts small blind 20
+Molotoklk: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [9h 7s]
+GraveleverX: raises 40 to 80
+Molotoklk: calls 40
+*** FLOP *** [4c 2h 6s]
+Molotoklk: checks 
+GraveleverX: bets 80
+Molotoklk: raises 280 to 360
+GraveleverX: folds 
+Uncalled bet (280) returned to Molotoklk
+Molotoklk collected 320 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4c 2h 6s]
+Seat 1: Molotoklk (big blind) collected (320)
+Seat 2: GraveleverX (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #147487024386: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:48:20 EET [2016/01/22 12:48:20 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1025 in chips) 
+Seat 2: GraveleverX (1975 in chips) 
+Molotoklk: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Td 3c]
+Molotoklk: raises 40 to 80
+GraveleverX: folds 
+Uncalled bet (40) returned to Molotoklk
+Molotoklk collected 80 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) collected (80)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147487031776: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:48:27 EET [2016/01/22 12:48:27 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1065 in chips) 
+Seat 2: GraveleverX (1935 in chips) 
+GraveleverX: posts small blind 20
+Molotoklk: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [3h 8c]
+GraveleverX: folds 
+Uncalled bet (20) returned to Molotoklk
+Molotoklk collected 40 from pot
+Molotoklk: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (big blind) collected (40)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147487037597: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:48:33 EET [2016/01/22 12:48:33 ET]
+Table '1452808438 1' 2-max Seat #1 is the button
+Seat 1: Molotoklk (1085 in chips) 
+Seat 2: GraveleverX (1915 in chips) 
+Molotoklk: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc Ts]
+Molotoklk: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Molotoklk (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (40)
+
+
+
+PokerStars Hand #147487043483: Tournament #1452808438, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/22 19:48:39 EET [2016/01/22 12:48:39 ET]
+Table '1452808438 1' 2-max Seat #2 is the button
+Seat 1: Molotoklk (1065 in chips) 
+Seat 2: GraveleverX (1935 in chips) 
+GraveleverX: posts small blind 20
+Molotoklk: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [9d 9s]
+GraveleverX: raises 40 to 80
+Molotoklk: raises 120 to 200
+GraveleverX: calls 120
+*** FLOP *** [2h 6s 8d]
+Molotoklk: bets 240
+GraveleverX: raises 320 to 560
+Molotoklk: raises 305 to 865 and is all-in
+GraveleverX: calls 305
+*** TURN *** [2h 6s 8d] [4c]
+*** RIVER *** [2h 6s 8d 4c] [8h]
+*** SHOW DOWN ***
+Molotoklk: shows [Qs Ah] (a pair of Eights)
+GraveleverX: shows [9d 9s] (two pair, Nines and Eights)
+GraveleverX collected 2130 from pot
+Molotoklk finished the tournament in 2nd place
+GraveleverX wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 2130 | Rake 0 
+Board [2h 6s 8d 4c 8h]
+Seat 1: Molotoklk (big blind) showed [Qs Ah] and lost with a pair of Eights
+Seat 2: GraveleverX (button) (small blind) showed [9d 9s] and won (2130) with two pair, Nines and Eights
+
+
+

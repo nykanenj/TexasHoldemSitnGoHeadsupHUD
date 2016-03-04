@@ -1,0 +1,1456 @@
+﻿PokerStars Hand #147552303951: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:49:37 EET [2016/01/23 14:49:37 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1500 in chips) 
+Seat 2: factorecto (1500 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h Js]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552311096: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:49:44 EET [2016/01/23 14:49:44 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1490 in chips) 
+Seat 2: factorecto (1510 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7d 7h]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552317022: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:49:50 EET [2016/01/23 14:49:50 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1500 in chips) 
+Seat 2: factorecto (1500 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad 2h]
+GraveleverX: raises 20 to 40
+factorecto: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (40)
+Seat 2: factorecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #147552336693: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:50:09 EET [2016/01/23 14:50:09 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1520 in chips) 
+Seat 2: factorecto (1480 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8c Kh]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552342065: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:50:15 EET [2016/01/23 14:50:15 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1530 in chips) 
+Seat 2: factorecto (1470 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4c 7h]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552348551: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:50:21 EET [2016/01/23 14:50:21 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1520 in chips) 
+Seat 2: factorecto (1480 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ah Qc]
+factorecto: raises 20 to 40
+GraveleverX: raises 40 to 80
+factorecto: calls 40
+*** FLOP *** [Jh Ad 7s]
+GraveleverX: checks 
+factorecto: checks 
+*** TURN *** [Jh Ad 7s] [Qh]
+GraveleverX: bets 80
+factorecto: calls 80
+*** RIVER *** [Jh Ad 7s Qh] [6c]
+GraveleverX: bets 180
+factorecto: folds 
+Uncalled bet (180) returned to GraveleverX
+GraveleverX collected 320 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Jh Ad 7s Qh 6c]
+Seat 1: GraveleverX (big blind) collected (320)
+Seat 2: factorecto (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #147552392572: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:51:04 EET [2016/01/23 14:51:04 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1680 in chips) 
+Seat 2: factorecto (1320 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th 3h]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552398167: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:51:10 EET [2016/01/23 14:51:10 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1670 in chips) 
+Seat 2: factorecto (1330 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s As]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552403626: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:51:15 EET [2016/01/23 14:51:15 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1680 in chips) 
+Seat 2: factorecto (1320 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h 4c]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552411203: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:51:22 EET [2016/01/23 14:51:22 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1670 in chips) 
+Seat 2: factorecto (1330 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3d 9c]
+factorecto: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to factorecto
+factorecto collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147552421361: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:51:33 EET [2016/01/23 14:51:33 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1650 in chips) 
+Seat 2: factorecto (1350 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h 7s]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552428043: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:51:39 EET [2016/01/23 14:51:39 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kc 5c]
+factorecto: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to factorecto
+factorecto collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147552437534: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:51:48 EET [2016/01/23 14:51:48 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1620 in chips) 
+Seat 2: factorecto (1380 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad 5s]
+GraveleverX: raises 20 to 40
+factorecto: calls 20
+*** FLOP *** [6s Jd Qh]
+factorecto: checks 
+GraveleverX: bets 40
+factorecto: folds 
+Uncalled bet (40) returned to GraveleverX
+GraveleverX collected 80 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Jd Qh]
+Seat 1: GraveleverX (button) (small blind) collected (80)
+Seat 2: factorecto (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147552462384: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:52:13 EET [2016/01/23 14:52:13 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1660 in chips) 
+Seat 2: factorecto (1340 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Tc 8s]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552468261: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:52:19 EET [2016/01/23 14:52:19 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1670 in chips) 
+Seat 2: factorecto (1330 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h 9d]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552474367: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:52:25 EET [2016/01/23 14:52:25 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1660 in chips) 
+Seat 2: factorecto (1340 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [As 4c]
+factorecto: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to factorecto
+factorecto collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147552482468: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:52:33 EET [2016/01/23 14:52:33 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2d 5c]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552488137: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:52:38 EET [2016/01/23 14:52:38 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1630 in chips) 
+Seat 2: factorecto (1370 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7c Js]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552493497: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:52:44 EET [2016/01/23 14:52:44 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th As]
+GraveleverX: raises 20 to 40
+factorecto: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (40)
+Seat 2: factorecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #147552503647: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:52:54 EET [2016/01/23 14:52:54 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1660 in chips) 
+Seat 2: factorecto (1340 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8c Qs]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552509878: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:53:00 EET [2016/01/23 14:53:00 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1670 in chips) 
+Seat 2: factorecto (1330 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Js Td]
+GraveleverX: raises 20 to 40
+factorecto: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (40)
+Seat 2: factorecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #147552519921: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:53:10 EET [2016/01/23 14:53:10 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1690 in chips) 
+Seat 2: factorecto (1310 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8d 2h]
+factorecto: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to factorecto
+factorecto collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147552529821: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:53:20 EET [2016/01/23 14:53:20 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1670 in chips) 
+Seat 2: factorecto (1330 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 7h]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552537567: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:53:28 EET [2016/01/23 14:53:28 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1660 in chips) 
+Seat 2: factorecto (1340 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8h Kd]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552546148: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:53:36 EET [2016/01/23 14:53:36 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1670 in chips) 
+Seat 2: factorecto (1330 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2s 8h]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552551838: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:53:42 EET [2016/01/23 14:53:42 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1660 in chips) 
+Seat 2: factorecto (1340 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Td 6h]
+factorecto: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to factorecto
+factorecto collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147552564705: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:53:55 EET [2016/01/23 14:53:55 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5d 9c]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552570540: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:00 EET [2016/01/23 14:54:00 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1630 in chips) 
+Seat 2: factorecto (1370 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd 5c]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552577159: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:07 EET [2016/01/23 14:54:07 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6d 7c]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552582685: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:13 EET [2016/01/23 14:54:13 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1630 in chips) 
+Seat 2: factorecto (1370 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2h 5h]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552590582: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:21 EET [2016/01/23 14:54:21 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs 2h]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552596478: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:26 EET [2016/01/23 14:54:26 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1630 in chips) 
+Seat 2: factorecto (1370 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s 6c]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552603382: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:33 EET [2016/01/23 14:54:33 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [9h 5d]
+GraveleverX: raises 20 to 40
+factorecto: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (40)
+Seat 2: factorecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #147552612066: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:42 EET [2016/01/23 14:54:42 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1660 in chips) 
+Seat 2: factorecto (1340 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7d 3c]
+factorecto: raises 20 to 40
+GraveleverX: folds 
+Uncalled bet (20) returned to factorecto
+factorecto collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #147552620993: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:51 EET [2016/01/23 14:54:51 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h Td]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552627083: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:54:57 EET [2016/01/23 14:54:57 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1630 in chips) 
+Seat 2: factorecto (1370 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4d Kc]
+factorecto: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (20)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552632869: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:55:03 EET [2016/01/23 14:55:03 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1640 in chips) 
+Seat 2: factorecto (1360 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3c 7s]
+GraveleverX: folds 
+Uncalled bet (10) returned to factorecto
+factorecto collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (20)
+
+
+
+PokerStars Hand #147552638408: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:55:09 EET [2016/01/23 14:55:09 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1630 in chips) 
+Seat 2: factorecto (1370 in chips) 
+factorecto: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h Ad]
+factorecto: raises 20 to 40
+GraveleverX: raises 40 to 80
+factorecto: calls 40
+*** FLOP *** [3d Ah Tc]
+GraveleverX: bets 80
+factorecto: folds 
+Uncalled bet (80) returned to GraveleverX
+GraveleverX collected 160 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d Ah Tc]
+Seat 1: GraveleverX (big blind) collected (160)
+Seat 2: factorecto (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #147552658432: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/23 21:55:35 EET [2016/01/23 14:55:35 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1710 in chips) 
+Seat 2: factorecto (1290 in chips) 
+GraveleverX: posts small blind 10
+factorecto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th Ad]
+GraveleverX: raises 20 to 40
+factorecto: folds 
+Uncalled bet (20) returned to GraveleverX
+GraveleverX collected 40 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (40)
+Seat 2: factorecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #147552668216: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:55:49 EET [2016/01/23 14:55:49 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1730 in chips) 
+Seat 2: factorecto (1270 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd 2s]
+factorecto: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to factorecto
+factorecto collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147552674297: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:55:57 EET [2016/01/23 14:55:57 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1700 in chips) 
+Seat 2: factorecto (1300 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s 4s]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552681918: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:56:07 EET [2016/01/23 14:56:07 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1685 in chips) 
+Seat 2: factorecto (1315 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ad 9d]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552686775: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:56:13 EET [2016/01/23 14:56:13 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1700 in chips) 
+Seat 2: factorecto (1300 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jc Qs]
+GraveleverX: raises 30 to 60
+factorecto: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (60)
+Seat 2: factorecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #147552693690: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:56:23 EET [2016/01/23 14:56:23 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1730 in chips) 
+Seat 2: factorecto (1270 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ac Ks]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552698144: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:56:28 EET [2016/01/23 14:56:28 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1745 in chips) 
+Seat 2: factorecto (1255 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [2c 8h]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552702607: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:56:34 EET [2016/01/23 14:56:34 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1730 in chips) 
+Seat 2: factorecto (1270 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 8c]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552707031: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:56:40 EET [2016/01/23 14:56:40 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (1745 in chips) 
+Seat 2: factorecto (1255 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [8h Qd]
+GraveleverX: raises 30 to 60
+factorecto: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) collected (60)
+Seat 2: factorecto (big blind) folded before Flop
+
+
+
+PokerStars Hand #147552713485: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:56:48 EET [2016/01/23 14:56:48 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (1775 in chips) 
+Seat 2: factorecto (1225 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9s Td]
+factorecto: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [Tc 3c 6d]
+GraveleverX: checks 
+factorecto: bets 60
+GraveleverX: raises 120 to 180
+factorecto: calls 120
+*** TURN *** [Tc 3c 6d] [9c]
+GraveleverX: bets 240
+factorecto: calls 240
+*** RIVER *** [Tc 3c 6d 9c] [3h]
+GraveleverX: checks 
+factorecto: checks 
+*** SHOW DOWN ***
+GraveleverX: shows [9s Td] (two pair, Tens and Nines)
+factorecto: mucks hand 
+GraveleverX collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Tc 3c 6d 9c 3h]
+Seat 1: GraveleverX (big blind) showed [9s Td] and won (960) with two pair, Tens and Nines
+Seat 2: factorecto (button) (small blind) mucked [8c 8s]
+
+
+
+PokerStars Hand #147552754333: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:57:41 EET [2016/01/23 14:57:41 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2255 in chips) 
+Seat 2: factorecto (745 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3c 5c]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552767307: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:57:58 EET [2016/01/23 14:57:58 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2240 in chips) 
+Seat 2: factorecto (760 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c Kc]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552771533: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:58:03 EET [2016/01/23 14:58:03 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2255 in chips) 
+Seat 2: factorecto (745 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h 4d]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552780122: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:58:09 EET [2016/01/23 14:58:09 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2240 in chips) 
+Seat 2: factorecto (760 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h Ks]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552783703: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:58:14 EET [2016/01/23 14:58:14 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2255 in chips) 
+Seat 2: factorecto (745 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [As 2c]
+GraveleverX: raises 60 to 90
+factorecto: calls 60
+*** FLOP *** [Kd 5s 8h]
+factorecto: checks 
+GraveleverX: bets 90
+factorecto: folds 
+Uncalled bet (90) returned to GraveleverX
+GraveleverX collected 180 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kd 5s 8h]
+Seat 1: GraveleverX (button) (small blind) collected (180)
+Seat 2: factorecto (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147552814703: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:58:43 EET [2016/01/23 14:58:43 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2345 in chips) 
+Seat 2: factorecto (655 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6c 4s]
+factorecto: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to factorecto
+factorecto collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147552824277: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:58:54 EET [2016/01/23 14:58:54 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2315 in chips) 
+Seat 2: factorecto (685 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3d 8d]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552829548: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:00 EET [2016/01/23 14:59:00 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2300 in chips) 
+Seat 2: factorecto (700 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qs As]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552834044: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:06 EET [2016/01/23 14:59:06 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2315 in chips) 
+Seat 2: factorecto (685 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc 5s]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552839276: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:12 EET [2016/01/23 14:59:12 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2300 in chips) 
+Seat 2: factorecto (700 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [7d 3d]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552843897: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:18 EET [2016/01/23 14:59:18 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2315 in chips) 
+Seat 2: factorecto (685 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jd 3d]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552848117: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:24 EET [2016/01/23 14:59:24 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2300 in chips) 
+Seat 2: factorecto (700 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4s 7h]
+factorecto: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to factorecto
+factorecto collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147552854295: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:32 EET [2016/01/23 14:59:32 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2270 in chips) 
+Seat 2: factorecto (730 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h Jc]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552858567: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:37 EET [2016/01/23 14:59:37 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2255 in chips) 
+Seat 2: factorecto (745 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c Jd]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552862703: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:43 EET [2016/01/23 14:59:43 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2270 in chips) 
+Seat 2: factorecto (730 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qh 2s]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552866875: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:48 EET [2016/01/23 14:59:48 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2255 in chips) 
+Seat 2: factorecto (745 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6c 9c]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552871279: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 21:59:54 EET [2016/01/23 14:59:54 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2270 in chips) 
+Seat 2: factorecto (730 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qh 4c]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552875694: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:00:00 EET [2016/01/23 15:00:00 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2255 in chips) 
+Seat 2: factorecto (745 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s 6h]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552880056: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:00:05 EET [2016/01/23 15:00:05 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2270 in chips) 
+Seat 2: factorecto (730 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc 7d]
+GraveleverX: raises 30 to 60
+factorecto: calls 30
+*** FLOP *** [5c Js 8d]
+factorecto: checks 
+GraveleverX: checks 
+*** TURN *** [5c Js 8d] [5h]
+factorecto: checks 
+GraveleverX: bets 60
+factorecto: folds 
+Uncalled bet (60) returned to GraveleverX
+GraveleverX collected 120 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c Js 8d 5h]
+Seat 1: GraveleverX (button) (small blind) collected (120)
+Seat 2: factorecto (big blind) folded on the Turn
+
+
+
+PokerStars Hand #147552903215: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:00:31 EET [2016/01/23 15:00:31 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2330 in chips) 
+Seat 2: factorecto (670 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kd 4d]
+factorecto: raises 30 to 60
+GraveleverX: folds 
+Uncalled bet (30) returned to factorecto
+factorecto collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GraveleverX (big blind) folded before Flop
+Seat 2: factorecto (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147552911384: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:00:41 EET [2016/01/23 15:00:41 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2300 in chips) 
+Seat 2: factorecto (700 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [8h 2h]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552916178: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:00:47 EET [2016/01/23 15:00:47 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2285 in chips) 
+Seat 2: factorecto (715 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [8c Jd]
+factorecto: raises 30 to 60
+GraveleverX: calls 30
+*** FLOP *** [7s Qs Kc]
+GraveleverX: checks 
+factorecto: bets 120
+GraveleverX: folds 
+Uncalled bet (120) returned to factorecto
+factorecto collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s Qs Kc]
+Seat 1: GraveleverX (big blind) folded on the Flop
+Seat 2: factorecto (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #147552931843: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:01:04 EET [2016/01/23 15:01:04 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2225 in chips) 
+Seat 2: factorecto (775 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3c 5d]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552936694: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:01:10 EET [2016/01/23 15:01:10 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2210 in chips) 
+Seat 2: factorecto (790 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Td 2d]
+factorecto: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (big blind) collected (30)
+Seat 2: factorecto (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147552941793: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:01:15 EET [2016/01/23 15:01:15 ET]
+Table '1454089912 1' 2-max Seat #1 is the button
+Seat 1: GraveleverX (2225 in chips) 
+Seat 2: factorecto (775 in chips) 
+GraveleverX: posts small blind 15
+factorecto: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h 2c]
+GraveleverX: folds 
+Uncalled bet (15) returned to factorecto
+factorecto collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GraveleverX (button) (small blind) folded before Flop
+Seat 2: factorecto (big blind) collected (30)
+
+
+
+PokerStars Hand #147552946974: Tournament #1454089912, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/23 22:01:20 EET [2016/01/23 15:01:20 ET]
+Table '1454089912 1' 2-max Seat #2 is the button
+Seat 1: GraveleverX (2210 in chips) 
+Seat 2: factorecto (790 in chips) 
+factorecto: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ac Qh]
+factorecto: raises 30 to 60
+GraveleverX: raises 120 to 180
+factorecto: calls 120
+*** FLOP *** [4c As 5c]
+GraveleverX: checks 
+factorecto: bets 610 and is all-in
+GraveleverX: calls 610
+*** TURN *** [4c As 5c] [Td]
+*** RIVER *** [4c As 5c Td] [Ad]
+*** SHOW DOWN ***
+GraveleverX: shows [Ac Qh] (three of a kind, Aces)
+factorecto: shows [7h 6h] (a pair of Aces)
+GraveleverX collected 1580 from pot
+factorecto finished the tournament in 2nd place
+GraveleverX wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 1580 | Rake 0 
+Board [4c As 5c Td Ad]
+Seat 1: GraveleverX (big blind) showed [Ac Qh] and won (1580) with three of a kind, Aces
+Seat 2: factorecto (button) (small blind) showed [7h 6h] and lost with a pair of Aces
+
+
+

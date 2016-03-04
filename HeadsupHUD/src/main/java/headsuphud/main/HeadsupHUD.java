@@ -25,6 +25,7 @@ public class HeadsupHUD {
     /**
      * Metodi lataa analysoitavat kädet ja palauttaa datastoragen, jotta käsiin
      * pääsee kiinni myöhemmin.
+     * @return datastorage.
      */
     public static DataStorage loadStatistics() {
         HandReader handreader = new HandReader();

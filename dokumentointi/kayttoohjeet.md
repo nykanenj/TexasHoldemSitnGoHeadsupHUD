@@ -7,3 +7,7 @@
 * Voita vastustajasi tämän statistiikan avulla.
 
 * Halutessasi voit milloin vain valita toisen pelaajan listasta ja tarkastella tämän uuden pelaajan statistiikkaa.
+
+**HUOM!**
+
+* Jos käytät ohjelmaa muuta kautta kuin netbeansissä, lataathan varmasti .zip tiedostona, jolloin käsihistoriakansio on mukana .jar tiedoston kanssa ja ohjelmassa näkyy statistiikkaa.

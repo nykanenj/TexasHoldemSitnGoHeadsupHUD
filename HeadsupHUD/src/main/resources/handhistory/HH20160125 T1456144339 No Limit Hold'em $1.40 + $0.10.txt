@@ -1,0 +1,888 @@
+﻿PokerStars Hand #147661577608: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:09:32 EET [2016/01/25 13:09:32 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4h 3s]
+MReestimaa: raises 22 to 42
+GraveleverX: folds 
+Uncalled bet (22) returned to MReestimaa
+MReestimaa collected 40 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661586977: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:09:40 EET [2016/01/25 13:09:40 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1520 in chips) 
+Seat 2: GraveleverX (1480 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [8d 3s]
+GraveleverX said, "Teretulemast!"
+GraveleverX: folds 
+Uncalled bet (10) returned to MReestimaa
+MReestimaa collected 20 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661594503: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:09:47 EET [2016/01/25 13:09:47 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1530 in chips) 
+Seat 2: GraveleverX (1470 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h Kd]
+MReestimaa said, "Moi moi"
+MReestimaa: raises 22 to 42
+GraveleverX: folds 
+Uncalled bet (22) returned to MReestimaa
+MReestimaa collected 40 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661604130: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:09:56 EET [2016/01/25 13:09:56 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1550 in chips) 
+Seat 2: GraveleverX (1450 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts 4d]
+GraveleverX: folds 
+Uncalled bet (10) returned to MReestimaa
+MReestimaa collected 20 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661610037: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:02 EET [2016/01/25 13:10:02 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1560 in chips) 
+Seat 2: GraveleverX (1440 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [4d 3d]
+MReestimaa: raises 22 to 42
+GraveleverX: folds 
+Uncalled bet (22) returned to MReestimaa
+MReestimaa collected 40 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661618807: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:10 EET [2016/01/25 13:10:10 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1580 in chips) 
+Seat 2: GraveleverX (1420 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h Jd]
+GraveleverX: folds 
+Uncalled bet (10) returned to MReestimaa
+MReestimaa collected 20 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661624413: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:16 EET [2016/01/25 13:10:16 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1590 in chips) 
+Seat 2: GraveleverX (1410 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7c 6c]
+MReestimaa: raises 22 to 42
+GraveleverX: raises 58 to 100
+MReestimaa: calls 58
+*** FLOP *** [6h Ad Tc]
+GraveleverX: bets 100
+MReestimaa: folds 
+Uncalled bet (100) returned to GraveleverX
+GraveleverX collected 200 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6h Ad Tc]
+Seat 1: MReestimaa (button) (small blind) folded on the Flop
+Seat 2: GraveleverX (big blind) collected (200)
+
+
+
+PokerStars Hand #147661640182: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:31 EET [2016/01/25 13:10:31 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [7h 9s]
+GraveleverX: folds 
+Uncalled bet (10) returned to MReestimaa
+MReestimaa collected 20 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661647039: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:37 EET [2016/01/25 13:10:37 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h Ks]
+MReestimaa: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147661652636: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:43 EET [2016/01/25 13:10:43 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1490 in chips) 
+Seat 2: GraveleverX (1510 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h Th]
+GraveleverX: folds 
+Uncalled bet (10) returned to MReestimaa
+MReestimaa collected 20 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661658401: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:48 EET [2016/01/25 13:10:48 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1500 in chips) 
+Seat 2: GraveleverX (1500 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h Td]
+MReestimaa: raises 22 to 42
+GraveleverX: folds 
+Uncalled bet (22) returned to MReestimaa
+MReestimaa collected 40 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661666824: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:10:56 EET [2016/01/25 13:10:56 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1520 in chips) 
+Seat 2: GraveleverX (1480 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Tc Qs]
+GraveleverX: raises 20 to 40
+MReestimaa: raises 80 to 120
+GraveleverX: folds 
+Uncalled bet (80) returned to MReestimaa
+MReestimaa collected 80 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (80)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661680098: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:11:09 EET [2016/01/25 13:11:09 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1560 in chips) 
+Seat 2: GraveleverX (1440 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kh 5s]
+MReestimaa: folds 
+Uncalled bet (10) returned to GraveleverX
+GraveleverX collected 20 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (20)
+
+
+
+PokerStars Hand #147661685254: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:11:14 EET [2016/01/25 13:11:14 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1550 in chips) 
+Seat 2: GraveleverX (1450 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ac Jh]
+GraveleverX: raises 20 to 40
+MReestimaa: calls 20
+*** FLOP *** [As Ah 7d]
+MReestimaa: bets 53
+GraveleverX: calls 53
+*** TURN *** [As Ah 7d] [7s]
+MReestimaa: checks 
+GraveleverX: checks 
+*** RIVER *** [As Ah 7d 7s] [8d]
+MReestimaa: checks 
+GraveleverX: bets 140
+MReestimaa: folds 
+Uncalled bet (140) returned to GraveleverX
+GraveleverX collected 186 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 186 | Rake 0 
+Board [As Ah 7d 7s 8d]
+Seat 1: MReestimaa (big blind) folded on the River
+Seat 2: GraveleverX (button) (small blind) collected (186)
+
+
+
+PokerStars Hand #147661710844: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:11:38 EET [2016/01/25 13:11:38 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1457 in chips) 
+Seat 2: GraveleverX (1543 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [6h Qs]
+MReestimaa: raises 22 to 42
+GraveleverX: folds 
+Uncalled bet (22) returned to MReestimaa
+MReestimaa collected 40 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661719992: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:11:47 EET [2016/01/25 13:11:47 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1477 in chips) 
+Seat 2: GraveleverX (1523 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kc Ah]
+GraveleverX: raises 20 to 40
+MReestimaa: calls 20
+*** FLOP *** [8d 3s 7h]
+MReestimaa: bets 58
+GraveleverX: calls 58
+*** TURN *** [8d 3s 7h] [6d]
+MReestimaa: checks 
+GraveleverX: checks 
+*** RIVER *** [8d 3s 7h 6d] [3h]
+MReestimaa: checks 
+GraveleverX: checks 
+*** SHOW DOWN ***
+MReestimaa: shows [Ad 4c] (a pair of Threes)
+GraveleverX: shows [Kc Ah] (a pair of Threes - Ace+King kicker)
+GraveleverX collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | Rake 0 
+Board [8d 3s 7h 6d 3h]
+Seat 1: MReestimaa (big blind) showed [Ad 4c] and lost with a pair of Threes
+Seat 2: GraveleverX (button) (small blind) showed [Kc Ah] and won (196) with a pair of Threes
+
+
+
+PokerStars Hand #147661743317: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:12:09 EET [2016/01/25 13:12:09 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1379 in chips) 
+Seat 2: GraveleverX (1621 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [As Ts]
+MReestimaa: raises 22 to 42
+GraveleverX: raises 38 to 80
+MReestimaa: folds 
+Uncalled bet (38) returned to GraveleverX
+GraveleverX collected 84 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 84 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (84)
+
+
+
+PokerStars Hand #147661753046: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:12:19 EET [2016/01/25 13:12:19 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1337 in chips) 
+Seat 2: GraveleverX (1663 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [3d 7h]
+GraveleverX: folds 
+Uncalled bet (10) returned to MReestimaa
+MReestimaa collected 20 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661759306: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:12:24 EET [2016/01/25 13:12:24 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1347 in chips) 
+Seat 2: GraveleverX (1653 in chips) 
+MReestimaa: posts small blind 10
+GraveleverX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kh 3s]
+MReestimaa: raises 22 to 42
+GraveleverX: folds 
+Uncalled bet (22) returned to MReestimaa
+MReestimaa collected 40 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (40)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661767729: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2016/01/25 20:12:32 EET [2016/01/25 13:12:32 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1367 in chips) 
+Seat 2: GraveleverX (1633 in chips) 
+GraveleverX: posts small blind 10
+MReestimaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to GraveleverX [2c 3s]
+GraveleverX: folds 
+Uncalled bet (10) returned to MReestimaa
+MReestimaa collected 20 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (20)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661777419: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:12:42 EET [2016/01/25 13:12:42 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1377 in chips) 
+Seat 2: GraveleverX (1623 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [5h 4s]
+MReestimaa: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147661782652: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:12:47 EET [2016/01/25 13:12:47 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1362 in chips) 
+Seat 2: GraveleverX (1638 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kh Qd]
+GraveleverX: raises 30 to 60
+MReestimaa: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147661789045: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:12:53 EET [2016/01/25 13:12:53 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1332 in chips) 
+Seat 2: GraveleverX (1668 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th 9c]
+MReestimaa: raises 32 to 62
+GraveleverX: calls 32
+*** FLOP *** [4h 6d 5c]
+GraveleverX: checks 
+MReestimaa: bets 75
+GraveleverX: folds 
+Uncalled bet (75) returned to MReestimaa
+MReestimaa collected 124 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 124 | Rake 0 
+Board [4h 6d 5c]
+Seat 1: MReestimaa (button) (small blind) collected (124)
+Seat 2: GraveleverX (big blind) folded on the Flop
+
+
+
+PokerStars Hand #147661807458: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:11 EET [2016/01/25 13:13:11 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1394 in chips) 
+Seat 2: GraveleverX (1606 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qc 6s]
+GraveleverX: folds 
+Uncalled bet (15) returned to MReestimaa
+MReestimaa collected 30 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661812959: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:16 EET [2016/01/25 13:13:16 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1409 in chips) 
+Seat 2: GraveleverX (1591 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [4s 5h]
+MReestimaa: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147661819347: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:22 EET [2016/01/25 13:13:22 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1394 in chips) 
+Seat 2: GraveleverX (1606 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts 5s]
+GraveleverX: folds 
+Uncalled bet (15) returned to MReestimaa
+MReestimaa collected 30 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661825080: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:28 EET [2016/01/25 13:13:28 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1409 in chips) 
+Seat 2: GraveleverX (1591 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [5c 7c]
+MReestimaa: raises 32 to 62
+GraveleverX: folds 
+Uncalled bet (32) returned to MReestimaa
+MReestimaa collected 60 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661833078: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:36 EET [2016/01/25 13:13:36 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1439 in chips) 
+Seat 2: GraveleverX (1561 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [9c 6d]
+GraveleverX: folds 
+Uncalled bet (15) returned to MReestimaa
+MReestimaa collected 30 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661838799: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:41 EET [2016/01/25 13:13:41 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1454 in chips) 
+Seat 2: GraveleverX (1546 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3c 4c]
+MReestimaa: raises 32 to 62
+GraveleverX: folds 
+Uncalled bet (32) returned to MReestimaa
+MReestimaa collected 60 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661847126: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:49 EET [2016/01/25 13:13:49 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1484 in chips) 
+Seat 2: GraveleverX (1516 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Kd 2h]
+GraveleverX: folds 
+Uncalled bet (15) returned to MReestimaa
+MReestimaa collected 30 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661852781: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:13:55 EET [2016/01/25 13:13:55 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1499 in chips) 
+Seat 2: GraveleverX (1501 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3h 3s]
+MReestimaa: raises 32 to 62
+GraveleverX: raises 58 to 120
+MReestimaa: folds 
+Uncalled bet (58) returned to GraveleverX
+GraveleverX collected 124 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 124 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (124)
+
+
+
+PokerStars Hand #147661865892: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:14:08 EET [2016/01/25 13:14:08 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1437 in chips) 
+Seat 2: GraveleverX (1563 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [3s Th]
+GraveleverX: folds 
+Uncalled bet (15) returned to MReestimaa
+MReestimaa collected 30 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (30)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661871886: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:14:13 EET [2016/01/25 13:14:13 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1452 in chips) 
+Seat 2: GraveleverX (1548 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Qd 3s]
+MReestimaa: folds 
+Uncalled bet (15) returned to GraveleverX
+GraveleverX collected 30 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) folded before Flop
+Seat 2: GraveleverX (big blind) collected (30)
+
+
+
+PokerStars Hand #147661881412: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:14:23 EET [2016/01/25 13:14:23 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1437 in chips) 
+Seat 2: GraveleverX (1563 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Th 6d]
+GraveleverX: raises 30 to 60
+MReestimaa: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147661891494: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:14:33 EET [2016/01/25 13:14:33 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1407 in chips) 
+Seat 2: GraveleverX (1593 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [7s 9d]
+MReestimaa: raises 32 to 62
+GraveleverX: folds 
+Uncalled bet (32) returned to MReestimaa
+MReestimaa collected 60 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661900967: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:14:42 EET [2016/01/25 13:14:42 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1437 in chips) 
+Seat 2: GraveleverX (1563 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6d 9d]
+GraveleverX: raises 30 to 60
+MReestimaa: raises 120 to 180
+GraveleverX: folds 
+Uncalled bet (120) returned to MReestimaa
+MReestimaa collected 120 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: MReestimaa (big blind) collected (120)
+Seat 2: GraveleverX (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #147661912807: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:14:53 EET [2016/01/25 13:14:53 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1497 in chips) 
+Seat 2: GraveleverX (1503 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [5s 4c]
+MReestimaa: raises 32 to 62
+GraveleverX: folds 
+Uncalled bet (32) returned to MReestimaa
+MReestimaa collected 60 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661920627: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:15:01 EET [2016/01/25 13:15:01 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1527 in chips) 
+Seat 2: GraveleverX (1473 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Jh 9d]
+GraveleverX: raises 30 to 60
+MReestimaa: folds 
+Uncalled bet (30) returned to GraveleverX
+GraveleverX collected 60 from pot
+GraveleverX: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (big blind) folded before Flop
+Seat 2: GraveleverX (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #147661927832: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:15:07 EET [2016/01/25 13:15:07 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (1497 in chips) 
+Seat 2: GraveleverX (1503 in chips) 
+MReestimaa: posts small blind 15
+GraveleverX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [6s Qd]
+MReestimaa: raises 32 to 62
+GraveleverX: folds 
+Uncalled bet (32) returned to MReestimaa
+MReestimaa collected 60 from pot
+MReestimaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MReestimaa (button) (small blind) collected (60)
+Seat 2: GraveleverX (big blind) folded before Flop
+
+
+
+PokerStars Hand #147661936828: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2016/01/25 20:15:16 EET [2016/01/25 13:15:16 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (1527 in chips) 
+Seat 2: GraveleverX (1473 in chips) 
+GraveleverX: posts small blind 15
+MReestimaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ks Qs]
+GraveleverX: raises 30 to 60
+MReestimaa: raises 120 to 180
+GraveleverX: calls 120
+*** FLOP *** [2c Kd 9h]
+MReestimaa: bets 216
+GraveleverX: raises 264 to 480
+MReestimaa: calls 264
+*** TURN *** [2c Kd 9h] [7d]
+MReestimaa: checks 
+GraveleverX: bets 660
+MReestimaa: raises 207 to 867 and is all-in
+GraveleverX: calls 153 and is all-in
+Uncalled bet (54) returned to MReestimaa
+*** RIVER *** [2c Kd 9h 7d] [7c]
+*** SHOW DOWN ***
+MReestimaa: shows [4c Kc] (two pair, Kings and Sevens)
+GraveleverX: shows [Ks Qs] (two pair, Kings and Sevens - Queen kicker)
+GraveleverX collected 2946 from pot
+*** SUMMARY ***
+Total pot 2946 | Rake 0 
+Board [2c Kd 9h 7d 7c]
+Seat 1: MReestimaa (big blind) showed [4c Kc] and lost with two pair, Kings and Sevens
+Seat 2: GraveleverX (button) (small blind) showed [Ks Qs] and won (2946) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #147661975772: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:15:53 EET [2016/01/25 13:15:53 ET]
+Table '1456144339 1' 2-max Seat #1 is the button
+Seat 1: MReestimaa (54 in chips) 
+Seat 2: GraveleverX (2946 in chips) 
+MReestimaa: posts small blind 20
+GraveleverX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Ts Qc]
+MReestimaa: raises 14 to 54 and is all-in
+GraveleverX: calls 14
+*** FLOP *** [2h 3c 9d]
+*** TURN *** [2h 3c 9d] [9c]
+*** RIVER *** [2h 3c 9d 9c] [3d]
+*** SHOW DOWN ***
+GraveleverX: shows [Ts Qc] (two pair, Nines and Threes)
+MReestimaa: shows [4h 9s] (a full house, Nines full of Threes)
+MReestimaa collected 108 from pot
+*** SUMMARY ***
+Total pot 108 | Rake 0 
+Board [2h 3c 9d 9c 3d]
+Seat 1: MReestimaa (button) (small blind) showed [4h 9s] and won (108) with a full house, Nines full of Threes
+Seat 2: GraveleverX (big blind) showed [Ts Qc] and lost with two pair, Nines and Threes
+
+
+
+PokerStars Hand #147661989269: Tournament #1456144339, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2016/01/25 20:16:06 EET [2016/01/25 13:16:06 ET]
+Table '1456144339 1' 2-max Seat #2 is the button
+Seat 1: MReestimaa (108 in chips) 
+Seat 2: GraveleverX (2892 in chips) 
+GraveleverX: posts small blind 20
+MReestimaa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to GraveleverX [Td Tc]
+GraveleverX: raises 40 to 80
+MReestimaa: raises 28 to 108 and is all-in
+GraveleverX: calls 28
+*** FLOP *** [2s 2h 9c]
+*** TURN *** [2s 2h 9c] [Ac]
+*** RIVER *** [2s 2h 9c Ac] [5d]
+*** SHOW DOWN ***
+MReestimaa: shows [Qh 6h] (a pair of Deuces)
+GraveleverX: shows [Td Tc] (two pair, Tens and Deuces)
+GraveleverX collected 216 from pot
+MReestimaa finished the tournament in 2nd place
+GraveleverX wins the tournament and receives $2.80 - congratulations!
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [2s 2h 9c Ac 5d]
+Seat 1: MReestimaa (big blind) showed [Qh 6h] and lost with a pair of Deuces
+Seat 2: GraveleverX (button) (small blind) showed [Td Tc] and won (216) with two pair, Tens and Deuces
+
+
+
