@@ -6,8 +6,13 @@
 * Valitse oikeasta laidasta radionappien ja checkboxien avulla tarkennetusti mitä statistiikkaa haluat pelaajasta nähdä position ja streetin mukaan. 
 * Voita vastustajasi tämän statistiikan avulla.
 
-* Halutessasi voit milloin vain valita toisen pelaajan listasta ja tarkastella tämän uuden pelaajan statistiikkaa.
+***Statistiikan katsominen***
 
-**HUOM!**
+* Halutessasi voit milloin vain valita toisen pelaajan listasta ja tarkastella tämän uuden pelaajan statistiikkaa.
+* Huomaa että Listassa on enemmän kuin kaksi pelaajaa
+
+***Ongelmia?***
 
 * Jos käytät ohjelmaa muuta kautta kuin netbeansissä, lataathan varmasti .zip tiedostona, jolloin käsihistoriakansio on mukana .jar tiedoston kanssa ja ohjelmassa näkyy statistiikkaa.
+
+#[Zip tiedosto] (https://github.com/nykanenj/TexasHoldemSitnGoHeadsupHUD/blob/master/HeadsupHUD.zip)
