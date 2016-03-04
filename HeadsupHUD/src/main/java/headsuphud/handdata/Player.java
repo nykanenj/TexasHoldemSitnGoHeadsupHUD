@@ -36,18 +36,40 @@ public class Player {
         this.bigblindstats = new Positionstats();
     }
 
+    /**
+     * Metodi palauttaa pelaajan nimen.
+     */
     public String getName() {
         return playername;
     }
 
+    /**
+     * Metodi palauttaa pelaajan smallblind statistiikan.
+     *
+     * @return bigblind statistiikkaa sisältävä Positionstats olio.
+     */
     public Positionstats getSmallblindstats() {
         return smallblindstats;
     }
 
+    /**
+     * Metodi palauttaa pelaajan bigblind statistiikan.
+     *
+     * @return bigblind statistiikkaa sisältävä Positionstats olio.
+     */
     public Positionstats getBigblindstats() {
         return bigblindstats;
     }
 
+    /**
+     * Metodi palauttaa pelaajan smallblind tai bigblind statistiikan parametrin
+     * perusteella.
+     *
+     * @param position Positio, jolle haluat hakea statistiikkaa.
+     *
+     * @return smallblind tai bigblind statistiikkaa sisältävä Positionstats
+     * olio.
+     */
     public Positionstats getPositionstats(Position position) {
         if (position == Position.SmallBlind) {
             return smallblindstats;
@@ -56,6 +78,13 @@ public class Player {
         }
     }
 
+    /**
+     * Metodi palauttaa pelaajan smallblind tai bigblind statistiikan nykyisen
+     * pelaajalle asetetun position perusteella.
+     *
+     * @return smallblind tai bigblind statistiikkaa sisältävä Positionstats
+     * olio.
+     */
     public Positionstats getPositionStatsAccordingToCurrentPosition() {
         if (position == Position.SmallBlind) {
             return smallblindstats;
@@ -64,10 +93,22 @@ public class Player {
         }
     }
 
+    /**
+     * Metodi asettaa nykyisen position.
+     *
+     * @param position Positio, joka halutaan asettaa.
+     *
+     */
     public void setPosition(Position position) {
         this.position = position;
     }
 
+    /**
+     * Metodi palauttaa nykyisen position.
+     *
+     * @return nykyinen positio.
+     *
+     */
     public Position getPosition() {
         return position;
     }

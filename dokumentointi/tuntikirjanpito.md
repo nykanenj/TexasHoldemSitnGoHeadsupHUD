@@ -24,8 +24,8 @@
 
 27.2.2016 klo 9 - 13 Ydinlogiikka toimimaan! Gui:ta päivitetty.
 
-4.3.2016 klo 10 -
+4.3.2016 klo 10 - 13 Turhia luokkia poistettu, ydinlogiikkaa ja käyttöliittymää parannettu, dokumentaatiota päivitetty
 
-Yhteensä 43.5h
+Yhteensä 46.5h
 
 

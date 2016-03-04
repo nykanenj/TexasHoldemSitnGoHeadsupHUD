@@ -1,10 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Main luokka HeadsupHUD:ille. 
  */
 package headsuphud.main;
-
 
 import headsuphud.handdata.DataStorage;
 import headsuphud.handreader.HandHistoryTextToObjectsConverter;
@@ -13,29 +10,29 @@ import headsuphud.gui.HudGUI;
 
 /**
  *
- * @author Juuso
+ * Main luokka HeadsupHUD:ille.
  */
 public class HeadsupHUD {
 
     public static void main(String[] args) {
 
         DataStorage datastorage = loadStatistics();
-        HudGUI jframe = new HudGUI(datastorage);
-        jframe.run(datastorage);
+        HudGUI hudGUI = new HudGUI(datastorage);
+        hudGUI.run(datastorage);
 
     }
 
     /**
-     * Metodi lataa analysoitavat kädet ja palauttaa datastoragen, jotta
-     * käsiin pääsee kiinni myöhemmin.
+     * Metodi lataa analysoitavat kädet ja palauttaa datastoragen, jotta käsiin
+     * pääsee kiinni myöhemmin.
      */
     public static DataStorage loadStatistics() {
         HandReader handreader = new HandReader();
-        handreader.loadFileContents("handhistory");
+        handreader.loadFilesFromDirectory("handhistory");
 
         HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
         converter.convert();
 
-        return converter.getDatastorage(); 
+        return converter.getDatastorage();
     }
 }

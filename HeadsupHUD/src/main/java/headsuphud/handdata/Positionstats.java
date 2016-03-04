@@ -10,6 +10,9 @@ public class Positionstats {
 
     private ActionStatsOnStreet[] allstreetsstats;
 
+    /**
+     * Konstruktori luo valmiiksi taulukkoon olion jokaiselle streetille..
+     */
     public Positionstats() {
         allstreetsstats = new ActionStatsOnStreet[4];
 

@@ -55,7 +55,6 @@ public class ActionStatsOnStreetTest {
     @Test
     public void addactionWorksWithOneAction() {
         preflop.addAction(Bet);
-        preflop.increase();
         assertEquals("100%", preflop.stats(Bet));
     }
 
@@ -64,9 +63,6 @@ public class ActionStatsOnStreetTest {
         flop.addAction(ReRaise);
         flop.addAction(Fold);
         flop.addAction(Check);
-        flop.increase();
-        flop.increase();
-        flop.increase();
         assertEquals("33%", flop.stats(ReRaise));
     }
 
@@ -83,7 +79,7 @@ public class ActionStatsOnStreetTest {
     @Test
     public void StatsWorksCorrectlyWithoutActionsOfSpecificTypeAdded() {
         turn.addAction(Fold);
-        assertEquals("-", turn.stats(Check));
+        assertEquals("0%", turn.stats(Check));
     }
 
     @Test
@@ -91,9 +87,6 @@ public class ActionStatsOnStreetTest {
         turn.addAction(Check);
         turn.addAction(Check);
         turn.addAction(Check);
-        turn.increase();
-        turn.increase();
-        turn.increase();
         assertEquals("100%", turn.stats(Check));
     }
 

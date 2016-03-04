@@ -10,7 +10,7 @@ import java.util.Map;
 public class DataStorage {
 
     private Map<String, Player> nameplayermap;
-    
+
     /**
      * Konstruktori luokalle DataStorage.
      *
@@ -18,7 +18,6 @@ public class DataStorage {
     public DataStorage() {
         this.nameplayermap = new HashMap<>();
     }
-    
 
     /**
      * Metodi lisää kyseisen nimisen pelaajan tämän luokan HashMappiin, jos
@@ -49,6 +48,13 @@ public class DataStorage {
 
     }
 
+    /**
+     * Metodi palauttaa tämännimisen pelaajaolion, jos tämänniminen pelaaja löytyy.
+     *
+     * @param name  minkäniminen pelaajaolio halutaan hakea.
+     *
+     * @return nimeen liittyvä pelaajaolio.
+     */
     public Player getPlayer(String name) {
         if (nameplayermap.keySet().contains(name)) {
             return nameplayermap.get(name);

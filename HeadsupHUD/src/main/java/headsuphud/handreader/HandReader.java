@@ -15,6 +15,10 @@ public class HandReader {
         this.handDataRows = new ArrayList<>();
     }
 
+    /**
+     * Metodi palauttaa ArrayListin käsihistoriatiedostojen tekstirivit
+     *@return Käsihistoriatiedostojen tekstirivit.
+     */
     public ArrayList<String> getHandData() {
         return handDataRows;
     }
@@ -26,7 +30,7 @@ public class HandReader {
      * polku, jossa käsihistoriatiedostoja: /handhistory/hands/
      *
      */
-    public void loadFileContents(String filepath) {
+    public void loadFilesFromDirectory(String filepath) {
 
         try {
             File path = new File(filepath); // esim. HH20160122 T1452807389 No Limit Hold'em $1.38 + $0.12.txt
@@ -44,7 +48,6 @@ public class HandReader {
                 }
             }
         } catch (Exception e) {
-            System.out.println("Not file dirctory");
         }
 
     }

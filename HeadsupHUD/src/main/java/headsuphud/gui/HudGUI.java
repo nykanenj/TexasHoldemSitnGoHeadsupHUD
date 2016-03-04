@@ -262,7 +262,7 @@ public class HudGUI extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void loadStatsButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loadStatsButtonActionPerformed
-        // TODO add your handling code here:
+
         if (playerNameList.getSelectedValue() == null) {
             JOptionPane.showMessageDialog(null, "Select a player from the list!");
             return;

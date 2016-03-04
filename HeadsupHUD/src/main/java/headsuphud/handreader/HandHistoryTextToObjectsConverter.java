@@ -1,6 +1,7 @@
 /**
  * Luokka muuttaa täysin tekstimuodossa olevan tiedon pokerikäsistä oliomuotoon.
- * Tällöin pystymme myöhemmin tekemään laskelmia statistiikasta.
+ * Tällöin pystymme myöhemmin tekemään laskelmia pelatuista käsistä ja
+ * näyttämään statistiikkaa.
  */
 package headsuphud.handreader;
 
@@ -30,8 +31,18 @@ public class HandHistoryTextToObjectsConverter {
         this.datastorage = new DataStorage();
     }
 
+    /**
+     * Metodi palauttaa Datastorage oliomuuttujan.
+     */
     public DataStorage getDatastorage() {
         return datastorage;
+    }
+
+    /**
+     * Metodi palauttaa Street oliomuuttujan.
+     */
+    public Street getStreet() {
+        return street;
     }
 
     /**
@@ -41,7 +52,6 @@ public class HandHistoryTextToObjectsConverter {
     public void convert() {
         goThroughAll();
     }
-
 
     /**
      * Metodi käy läpi kaikki käteen liityvät tekstirivit, ja luo niistä
@@ -79,45 +89,36 @@ public class HandHistoryTextToObjectsConverter {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Fold);
-                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
             if (textLine.contains("checks")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Check);
-                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
             if (textLine.contains("calls")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Call);
-                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
             if (textLine.contains("bets")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Bet);
-                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
             if (textLine.contains("raises")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.ReRaise);
-                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
-            
+
         }
     }
 
-    private void increaseCount() {
-        smallBlindPlayer.getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
-        bigBlindPlayer.getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
-    }
 
     /**
      * Lukee tekstin rivin alusta ':' merkiin asti. Luettavat tiedostot ovat

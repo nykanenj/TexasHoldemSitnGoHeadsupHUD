@@ -30,15 +30,23 @@ public class ActionStatsOnStreet {
     }
 
     /**
-     * Metodi lisaa tallennettavan komennon komentoja sisaltavaan listaan.
+     * Metodi lisaa tallennettavan komennon komentoja sisaltavaan listaan ja
+     * kasvattaa käsien yhteismäärää count yhdellä.
      *
      * @param action Tallennettava komento
      *
      */
     public void addAction(Action action) {
         actions.put(action, actions.get(action) + 1);
+        count++;
     }
 
+    /**
+     * Metodi kasvattaa laskuria. Laskurilla seurataan annettujen komentojen
+     * yhteenlaskettua kokonaismäärää.
+     *
+     *
+     */
     public void increase() {
         count++;
     }
@@ -59,8 +67,10 @@ public class ActionStatsOnStreet {
     }
 
     /**
-     * Metodi tulostaa kaiken pelaajaan liittyvän statistiikan tällä streetillä.
+     * Metodi palauttaa kaiken pelaajaan liittyvän statistiikan tällä
+     * streetillä.
      *
+     * @return statistiikka String muodossa rivitettynä.
      */
     public String allStats() {
         String stats = "";

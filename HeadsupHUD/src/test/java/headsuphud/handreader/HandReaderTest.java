@@ -53,14 +53,14 @@ public class HandReaderTest {
 
     @Test
     public void fileReaderWorksCorrect() {
-        handreader.loadFileContents("handhistory/Testhandhistory");
+        handreader.loadFilesFromDirectory("handhistory/Testhandhistory");
         String tulos = tulosvirta.toString();
         assertTrue(!tulos.contains("Not file directory"));
     }
 
     @Test
     public void getHandDataWorksCorrect() {
-        handreader.loadFileContents("handhistory/Testhandhistory");
+        handreader.loadFilesFromDirectory("handhistory/Testhandhistory");
         ArrayList<String> helper = handreader.getHandData();
         String tulos = helper.get(0);
         assertTrue(tulos.contains("PokerStars Hand #147486167872: Tournament #1452807389"));
