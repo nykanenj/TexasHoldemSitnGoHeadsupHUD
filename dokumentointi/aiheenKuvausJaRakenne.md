@@ -36,7 +36,7 @@ Viimeisimpään luokkakaavioon on tullut paljon muutoksia, ylimääräisiä luok
 
 **Sekvenssikaavio 1: Käyttäjä hakee statistiikkaa hudGUI valinnoilla**
 
-![Sekvenssikaavio1](LoadPlayerStatsSekvenssi.png)
+![Sekvenssikaavio1](LoadPlayerStatsSekvenssi.jpg)
 
 **Sekvenssikaavio 2: Ohjelman käynnistäminen ja käsihistorianlataaminen**
 
