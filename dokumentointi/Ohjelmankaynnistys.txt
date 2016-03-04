@@ -1,0 +1,16 @@
+title Ohjelman käynnistyminen ja käsihistorian lataaminen
+
+main->*handreader: new HandReader()
+main->handreader:loadFilesFromDirectory("handhistory")
+main->handreader:getHandData()
+handreader-->main: ArrayList<String>
+main->*handhistoryconverter: new HandHistoryTextToObjectConverter(ArrayList<String>)
+handhistoryconverter->*datastorage:new DataStorage()
+main->handhistoryconverter: convert()
+loop Convert all text into objects stored in datastorage
+    handhistoryconverter->datastorage: createstorageobjects
+    handhistoryconverter->datastorage: addactionstodatastorageobjects
+end
+main->handhistoryconverter: getDataStorage()
+main->*HudGUI: new HudGUI(datastorage)
+main->HudGUI: run()

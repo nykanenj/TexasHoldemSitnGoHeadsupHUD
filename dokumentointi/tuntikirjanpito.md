@@ -22,6 +22,10 @@
 
 26.2.2016 klo 20 - 24 Turhia luokkia poistettu, GUI p‰ivitetty lis‰‰
 
-Yhteens‰ 39.5h
+27.2.2016 klo 9 - 13 Ydinlogiikka toimimaan! Gui:ta p‰ivitetty.
+
+4.3.2016 klo 10 -
+
+Yhteens‰ 43.5h
 
 

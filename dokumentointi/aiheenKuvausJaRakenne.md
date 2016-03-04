@@ -26,29 +26,20 @@
 
 ![Luokkakaavio](MaarittelyvaiheenLuokkakaavio.JPG)
 
-**Versio 2 Luokkakaavio**
-
-![Luokkakaavio2](LuokkakaavioViikko3.JPG)
-
-
-**Versio 3 Luokkakaavio**
-
-![Luokkakaavio3](Luokkakaavio3.png)
-
-**Versio 4 Luokkakaavio**
+**Viimeinen versio Luokkakaavio**
 
 ![Luokkakaavio4](Luokkakaavio4.png)
 
 **Rakennekuvaus**
 
-Viimeisimpään luokkakaavioon on tullut paljon muutoksia, ylimääräisiä luokkia on poistettu paljon ja ohjelman rakenne on selkeytynyt. Ohjelmaa ajettaessa HeadsupHUD toimii main luokkana. HeadsupHUD luokka luo Handreaderin, HudGUI:n ja HandHistoryTextToObjectConverterin. Handreader lukee käsihistoriatiedot tekstitiedostosta, converter muuttaa tiedot objektimuotoon, jolloin tietoa pystyy käsittelemään ja hakemaan statistiikkaa tiedosta. Objektit tallennetaan Datastorageen. Tietoa halutaan hakea pelaajan, position, ja streetin mukaan, joten datastoragen "alta" löytyy luokka jokaiselle osa-alueelle. HudGUI pääsee hakemaan statistiikkaa Datastoragesta.
+Viimeisimpään luokkakaavioon on tullut paljon muutoksia, ylimääräisiä luokkia on poistettu paljon ja ohjelman rakenne on selkeytynyt. Ohjelmaa ajettaessa HeadsupHUD toimii main luokkana. HeadsupHUD luokka luo Handreaderin, HudGUI:n ja HandHistoryTextToObjectConverterin. Handreader lukee käsihistoriatiedot tekstitiedostosta, converter muuttaa tiedot objektimuotoon, jolloin tietoa pystyy käsittelemään ja hakemaan statistiikkaa tiedosta. Objektit tallennetaan Datastorageen. Tietoa halutaan hakea pelaajan, position, ja streetin mukaan, joten Datastoragen "alta" löytyy luokka jokaiselle osa-alueelle. HudGUI hakee statistiikkaa Datastoragesta ja näyttää sitä käyttäjälle käyttäjän valintojen mukaan.
 
-**Sekvenssikaavio 1: Kaiken statistiikan haku tietyltä pelaajalta**
+**Sekvenssikaavio 1: Käyttäjä hakee statistiikkaa hudGUI valinnoilla**
 
-![Sekvenssikaavio1](AllStats.png)
+![Sekvenssikaavio1](LoadPlayerStatsSekvenssi.png)
 
-**Sekvenssikaavio 2: Kasihistorianlataaminen**
+**Sekvenssikaavio 2: Ohjelman käynnistäminen ja käsihistorianlataaminen**
 
-![Sekvenssikaavio2](Kasihistorianlataaminen.png)
+![Sekvenssikaavio2](Ohjelmankaynnistys.png)
 
 ![Alt text](http://yuml.me/diagram/scruffy;dir:TB;scale:80/class/ "Edit Later")

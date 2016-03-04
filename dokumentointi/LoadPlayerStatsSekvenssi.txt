@@ -1,0 +1,11 @@
+title User selects a player from list and clicks button "LoadPlayerStats"
+
+User-> hudGUI: loadStatsButtonActionPerformed()
+hudGUI-> datastorage: getStats(playerName, position, street)
+datastorage->datastorage: nameplayermap.get("playername")
+datastorage->player:getPositionstats(position)
+player->positionstats:getStatsAsStringFrom(street)
+positionstats -> actionstatsonstreet: allStats()
+actionstatsonstreet --> hudGUI: String statistics
+hudGUI -> hudGUI: setText(statistics)
+hudGUI --> User:
