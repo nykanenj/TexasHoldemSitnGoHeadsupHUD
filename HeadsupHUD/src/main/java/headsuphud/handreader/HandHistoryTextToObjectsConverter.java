@@ -33,6 +33,7 @@ public class HandHistoryTextToObjectsConverter {
 
     /**
      * Metodi palauttaa Datastorage oliomuuttujan.
+     * @return datastorage.
      */
     public DataStorage getDatastorage() {
         return datastorage;
@@ -40,6 +41,7 @@ public class HandHistoryTextToObjectsConverter {
 
     /**
      * Metodi palauttaa Street oliomuuttujan.
+     * @return street.
      */
     public Street getStreet() {
         return street;

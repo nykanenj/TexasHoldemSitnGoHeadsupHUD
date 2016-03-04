@@ -11,13 +11,17 @@ public class HandReader {
 
     private ArrayList<String> handDataRows;
 
+    /**
+     * Konstruktori luo uuden arraylistin.
+     */
     public HandReader() {
         this.handDataRows = new ArrayList<>();
     }
 
     /**
-     * Metodi palauttaa ArrayListin käsihistoriatiedostojen tekstirivit
-     *@return Käsihistoriatiedostojen tekstirivit.
+     * Metodi palauttaa ArrayListin käsihistoriatiedostojen tekstirivit.
+     *
+     * @return Käsihistoriatiedostojen tekstirivit.
      */
     public ArrayList<String> getHandData() {
         return handDataRows;
@@ -48,6 +52,7 @@ public class HandReader {
                 }
             }
         } catch (Exception e) {
+            return;
         }
 
     }

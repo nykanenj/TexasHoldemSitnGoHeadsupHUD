@@ -38,6 +38,7 @@ public class Player {
 
     /**
      * Metodi palauttaa pelaajan nimen.
+     * @return pelaajan nimi.
      */
     public String getName() {
         return playername;

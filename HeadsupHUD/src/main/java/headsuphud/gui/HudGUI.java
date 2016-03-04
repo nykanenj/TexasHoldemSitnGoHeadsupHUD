@@ -264,7 +264,7 @@ public class HudGUI extends javax.swing.JFrame {
     private void loadStatsButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loadStatsButtonActionPerformed
 
         if (playerNameList.getSelectedValue() == null) {
-            JOptionPane.showMessageDialog(null, "Select a player from the list!");
+            JOptionPane.showMessageDialog(null, "Select a player from the list first! \nIf the list is empty, it means you have not put any handhistory files into handhistory folder. \nSee readme for more info.");
             return;
         }
         try {

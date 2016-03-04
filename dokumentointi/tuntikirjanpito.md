@@ -26,6 +26,9 @@
 
 4.3.2016 klo 10 - 13 Turhia luokkia poistettu, ydinlogiikkaa ja käyttöliittymää parannettu, dokumentaatiota päivitetty
 
-Yhteensä 46.5h
+4.3.2016 klo 14.30 - 19 Testejä luotu, PIT ja checkstyle generoitu.
+
+
+Yhteensä 51h
 
 
