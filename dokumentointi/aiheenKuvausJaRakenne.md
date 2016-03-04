@@ -10,16 +10,16 @@
 * Erilaisen statistiikan / mittareiden laskeminen
   * preflop fold prosentti
   * preflop call prosentti
-  * preflop raise prosentti
-  * preflop fold-to-raise prosentti
-  * preflop call-to-raise prosentti
+  * preflop bet prosentt
   * preflop reraise prosentti
-* Ylläolevien mittareiden laskeminen kaikille streeteille, flopille, turnille ja riverille, sekä myös muiden mittareiden laskeminen kuten donk-bet ja check-raise prosentit
+* Ylläolevien mittareiden laskeminen kaikille streeteille, flopille, turnille ja riverille.
 * Statistiikan esittäminen graafisena muotona
-* Pelaajan tyypillisimpien heikkouksien indikoiminen statistiikan perusteella.
+
 
 **Jatkolaajennusmahdollisuuksia:**
-* Grafinen preflop käsivahvuustaulukko preflop käsirangen suunnittelun avuksi
+* Graafinen preflop käsivahvuustaulukko preflop käsirangen suunnittelun avuksi
+* Muiden mittareiden laskeminen kuten donk-bet ja check-raise prosentit
+* Pelaajan tyypillisimpien heikkouksien indikoiminen statistiikan perusteella.
 * Käyttäjälle mahdollisuus luoda itse omia indikaattoreita?
 
 **Ensimmäinen Luokkakaavio**
