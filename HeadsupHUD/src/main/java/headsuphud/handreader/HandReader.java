@@ -22,21 +22,29 @@ public class HandReader {
     /**
      * Metodi lukee annetunnnimisen tekstitiedoston ArrayListiin.
      *
-     * @param filename Tiedosto, joka halutaan avata. Default polku:
-     * /handhistory/hands/
+     * @param filepath Tiedostopolku, jonka tiedostot halutaan avata. Default
+     * polku, jossa käsihistoriatiedostoja: /handhistory/hands/
      *
      */
-    public void loadFileContents(String filename) {
+    public void loadFileContents(String filepath) {
 
         try {
-            File file = new File("handhistory/hands/" + filename); // esim. HH20160122 T1452807389 No Limit Hold'em $1.38 + $0.12.txt
-            Scanner lukija = new Scanner(file, "UTF-8");
-            while (lukija.hasNextLine()) {
-                String next = lukija.nextLine();
-                handDataRows.add(next);
+            File path = new File(filepath); // esim. HH20160122 T1452807389 No Limit Hold'em $1.38 + $0.12.txt
+            File[] files = path.listFiles();
+            if (files != null) {
+                for (int i = 0; i < files.length; i++) {
+                    if (files[i].isFile()) {
+
+                        Scanner lukija = new Scanner(files[i], "UTF-8");
+                        while (lukija.hasNextLine()) {
+                            String next = lukija.nextLine();
+                            handDataRows.add(next);
+                        }
+                    }
+                }
             }
         } catch (Exception e) {
-            System.out.println("File not found");
+            System.out.println("Not file dirctory");
         }
 
     }

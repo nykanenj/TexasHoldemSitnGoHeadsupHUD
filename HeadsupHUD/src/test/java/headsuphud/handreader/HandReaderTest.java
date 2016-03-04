@@ -50,24 +50,17 @@ public class HandReaderTest {
     // TODO add test methods here.
     // The methods must be annotated with annotation @Test. For example:
     //
-    @Test
-    public void fileReaderWorksCorrectWithFileNameNotExist() {
-        handreader.loadFileContents("xyz");
-        String tulos = tulosvirta.toString();
-        assertTrue(tulos.contains("File not found"));
-
-    }
 
     @Test
     public void fileReaderWorksCorrect() {
-        handreader.loadFileContents("Test.txt");
+        handreader.loadFileContents("handhistory/Testhandhistory");
         String tulos = tulosvirta.toString();
-        assertTrue(!tulos.contains("File not found"));
+        assertTrue(!tulos.contains("Not file directory"));
     }
 
     @Test
     public void getHandDataWorksCorrect() {
-        handreader.loadFileContents("Test.txt");
+        handreader.loadFileContents("handhistory/Testhandhistory");
         ArrayList<String> helper = handreader.getHandData();
         String tulos = helper.get(0);
         assertTrue(tulos.contains("PokerStars Hand #147486167872: Tournament #1452807389"));

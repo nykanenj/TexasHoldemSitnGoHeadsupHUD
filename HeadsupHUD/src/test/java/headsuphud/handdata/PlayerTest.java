@@ -7,9 +7,6 @@ package headsuphud.handdata;
 
 import headsuphud.handdata.Position;
 import headsuphud.handdata.Player;
-import headsuphud.handdata.Card;
-import static headsuphud.handdata.Rank.*;
-import static headsuphud.handdata.Suit.*;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import org.junit.After;

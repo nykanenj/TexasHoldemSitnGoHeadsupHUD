@@ -65,44 +65,52 @@ public class HandHistoryTextToObjectsConverter {
             }
             if (textLine.contains("*** HOLE CARDS ***")) {
                 street = Street.Preflop;
-                increaseCount();
             }
             if (textLine.contains("*** FLOP ***")) {
                 street = Street.Flop;
-                increaseCount();
             }
             if (textLine.contains("*** TURN ***")) {
                 street = Street.Turn;
-                increaseCount();
             }
             if (textLine.contains("*** RIVER ***")) {
                 street = Street.River;
-                increaseCount();
             }
             if (textLine.contains("folds")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Fold);
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
             if (textLine.contains("checks")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Check);
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
             if (textLine.contains("calls")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
                     datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Call);
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
-            if (textLine.contains("raises") || textLine.contains("bets")) {
+            if (textLine.contains("bets")) {
                 String playername = readPlayerName(textLine);
                 if (datastorage.playerFound(playername)) {
-                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Raise);
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.Bet);
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
                 }
             }
+            if (textLine.contains("raises")) {
+                String playername = readPlayerName(textLine);
+                if (datastorage.playerFound(playername)) {
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).addAction(Action.ReRaise);
+                    datastorage.getPlayer(playername).getPositionStatsAccordingToCurrentPosition().getStatsFrom(street).increase();
+                }
+            }
+            
         }
     }
 

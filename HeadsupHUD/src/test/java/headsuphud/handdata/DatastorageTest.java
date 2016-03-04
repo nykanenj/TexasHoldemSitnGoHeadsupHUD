@@ -24,10 +24,7 @@ public class DatastorageTest {
     DataStorage datastorage;
 
     public DatastorageTest() {
-        HandReader handreader = new HandReader();
-        handreader.loadFileContents("Test.txt");
-        HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
-        datastorage = converter.getDatastorage();
+
     }
 
     @BeforeClass
@@ -41,7 +38,7 @@ public class DatastorageTest {
     @Before
     public void setUp() {
         HandReader handreader = new HandReader();
-        handreader.loadFileContents("Test.txt");
+        handreader.loadFileContents("handhistory/Testhandhistory");
         HandHistoryTextToObjectsConverter converter = new HandHistoryTextToObjectsConverter(handreader.getHandData());
         converter.convert();
         datastorage = converter.getDatastorage();

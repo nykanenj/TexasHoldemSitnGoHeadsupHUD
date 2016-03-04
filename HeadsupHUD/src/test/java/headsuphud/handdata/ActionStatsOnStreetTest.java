@@ -54,25 +54,25 @@ public class ActionStatsOnStreetTest {
     //
     @Test
     public void addactionWorksWithOneAction() {
-        preflop.addAction(Raise);
+        preflop.addAction(Bet);
         preflop.increase();
-        assertEquals("100%", preflop.stats(Raise));
+        assertEquals("100%", preflop.stats(Bet));
     }
 
     @Test
     public void addactionWorksWithSeveralAction() {
-        flop.addAction(Raise);
+        flop.addAction(ReRaise);
         flop.addAction(Fold);
         flop.addAction(Check);
         flop.increase();
         flop.increase();
         flop.increase();
-        assertEquals("33%", flop.stats(Raise));
+        assertEquals("33%", flop.stats(ReRaise));
     }
 
     @Test
     public void StatsWorksCorrectlyWithNoActionsAdded() {
-        assertEquals("-", preflop.stats(Raise));
+        assertEquals("-", preflop.stats(ReRaise));
     }
 
     @Test

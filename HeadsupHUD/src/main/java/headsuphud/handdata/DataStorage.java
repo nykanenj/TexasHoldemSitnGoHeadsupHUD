@@ -3,13 +3,14 @@
  */
 package headsuphud.handdata;
 
+import headsuphud.handreader.HandReader;
 import java.util.HashMap;
 import java.util.Map;
 
 public class DataStorage {
 
     private Map<String, Player> nameplayermap;
-
+    
     /**
      * Konstruktori luokalle DataStorage.
      *
@@ -17,6 +18,7 @@ public class DataStorage {
     public DataStorage() {
         this.nameplayermap = new HashMap<>();
     }
+    
 
     /**
      * Metodi lisää kyseisen nimisen pelaajan tämän luokan HashMappiin, jos

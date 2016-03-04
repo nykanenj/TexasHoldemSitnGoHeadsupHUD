@@ -6,5 +6,5 @@ package headsuphud.handdata;
 
 public enum Action {
 
-    Fold, Check, Call, Raise, ReRaise, CheckRaise;
+    Fold, Check, Call, Bet, ReRaise;
 }
